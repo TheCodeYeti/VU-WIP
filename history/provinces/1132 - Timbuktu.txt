@@ -14,10 +14,32 @@ base_tax = 14
 base_production = 14
 native_ferocity = 4
 
-##discovered_by = sub_saharan
-1444.1.1 = { 
-    discovered_by = MOR 
-}
+#1444.1.1 = { discovered_by = sub_saharan }
+#discovered_by = sub_saharan_tech_group
+1444.1.1 = { discovered_by = JOL }
+1444.1.1 = { discovered_by = MAL }
+1444.1.1 = { discovered_by = ZAF }
+1444.1.1 = { discovered_by = JNN }
+1444.1.1 = { discovered_by = KNG }
+1444.1.1 = { discovered_by = MSI }
+1444.1.1 = { discovered_by = YAT }
+1444.1.1 = { discovered_by = WGD }
+1444.1.1 = { discovered_by = BON }
+1444.1.1 = { discovered_by = DGB }
+1444.1.1 = { discovered_by = DAH }
+1444.1.1 = { discovered_by = OYO }
+1444.1.1 = { discovered_by = GUR }
+1444.1.1 = { discovered_by = SON }
+1444.1.1 = { discovered_by = TMB }
+1444.1.1 = { discovered_by = AIR }
+1444.1.1 = { discovered_by = KTS }
+1444.1.1 = { discovered_by = ZZZ }
+1444.1.1 = { discovered_by = NUP }
+1444.1.1 = { discovered_by = BEN }
+1444.1.1 = { discovered_by = KAN }
+1444.1.1 = { discovered_by = KBO }
+1444.1.1 = { discovered_by = YAO }
+1444.1.1 = { discovered_by = SAO }
 
 fort_15th = yes
 extra_cost = 16

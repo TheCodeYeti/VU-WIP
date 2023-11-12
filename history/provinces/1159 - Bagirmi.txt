@@ -14,8 +14,33 @@ base_tax = 6
 base_production = 6
 center_of_trade = 2
 
+#1444.1.1 = { discovered_by = sub_saharan }
+#discovered_by = sub_saharan_tech_group
+#discovered_by = JOL
+#discovered_by = MAL
+#discovered_by = ZAF
+#discovered_by = JNN
+#discovered_by = KNG
+#discovered_by = MSI
+#discovered_by = YAT
+#discovered_by = WGD
+#discovered_by = BON
+#discovered_by = DGB
+#discovered_by = DAH
+#discovered_by = OYO
+#discovered_by = GUR
+#discovered_by = SON
+#discovered_by = TMB
+#discovered_by = AIR
+#discovered_by = KTS
+#discovered_by = ZZZ
+#discovered_by = NUP
+#discovered_by = BEN
+#discovered_by = KAN
+#discovered_by = KBO
+#discovered_by = YAO
+#discovered_by = SAO
 
-#discovered_by = sub_saharan
 
 
 1573.1.1 = { owner = KBO controller = KBO add_core = KBO } #Mai Katakarmabe restores Borno authority over Baguirmi
@@ -24,4 +49,4 @@ center_of_trade = 2
 1720.1.1 = { revolt = {} controller = KBO } #Baguirmi restored to Borno control
 1750.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } #Baguirmi rebels in wake of Jukun invasions of Borno heartland
 1752.1.1 = { revolt = {} controller = KBO } #Baguirmi restored to Borno control
-1804.1.1 = { discovered_by = SOK }
+

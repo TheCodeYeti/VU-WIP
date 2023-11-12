@@ -15,10 +15,12 @@ is_city = yes
 
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1643.1.1 = { discovered_by = RUS }
+
+
+
 
 1653.1.1 = {	owner = RUS
 	controller = RUS
@@ -33,4 +35,4 @@ discovered_by = chinese
 	religion = confucianism
 	trade_goods = fish
 } # Treaty of Nerchinsk
-1709.1.1 = { discovered_by = SPA }
+

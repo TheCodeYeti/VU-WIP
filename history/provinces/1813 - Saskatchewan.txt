@@ -16,11 +16,11 @@ center_of_trade = 1
 
 discovered_by = north_american
 
-1692.1.1 = { discovered_by = ENG } #Henry Kelsey
-1707.5.12 = { discovered_by = GBR }
-1732.1.1 = { discovered_by = FRA } # Pierre Gaultier de Varennes
+
+
+
 1763.2.10 = {
-	discovered_by = GBR
+	
 	owner = GBR
 	controller = GBR
 	add_core = GBR

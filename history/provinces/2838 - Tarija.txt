@@ -13,8 +13,26 @@ base_tax = 6
 base_production = 6
 base_manpower = 2 
 
-#discovered_by = south_american
-#discovered_by = andean
+#1444.1.1 = { discovered_by = south_american }
+#discovered_by = south_american_tech_group
+#discovered_by = MPC
+#discovered_by = RNQ
+#discovered_by = CUA
+#discovered_by = TOB
+#discovered_by = GUA
+#discovered_by = WCH
+#discovered_by = TUA
+#discovered_by = TPQ
+#discovered_by = PTG
+#discovered_by = TPA
+#discovered_by = ARW
+#discovered_by = CAB
+#discovered_by = TAI
+#discovered_by = SHB
+#discovered_by = HUP
+#1444.1.1 = { discovered_by = andean }
+#discovered_by = andean_tech_group
+
 
 1485.1.1 = {
 	owner = INC
@@ -22,7 +40,7 @@ base_manpower = 2
 	add_core = INC
 }
 1533.8.29 = {
-	discovered_by = SPA
+	
 	owner = SPA
 	controller = SPA
 	add_core = SPA

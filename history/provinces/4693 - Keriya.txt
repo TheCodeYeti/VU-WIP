@@ -12,8 +12,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 1682.1.1 = {
 	owner = ZUN

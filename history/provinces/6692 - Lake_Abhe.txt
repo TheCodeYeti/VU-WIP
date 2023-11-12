@@ -1,3 +1,5 @@
 #6692 - Lake_Abhe
 
-#discovered_by = east_african
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+

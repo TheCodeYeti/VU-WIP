@@ -19,11 +19,15 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 
 1646.2.1 = {
 	owner = QNG

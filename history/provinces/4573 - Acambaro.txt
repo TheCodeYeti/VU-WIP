@@ -17,7 +17,9 @@ native_hostileness = 2
 
 
 
-#discovered_by = mesoamerican
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
+
 
 1470.1.1 = { 
 	owner = TAR
@@ -25,7 +27,7 @@ native_hostileness = 2
 	add_core = TAR
 	} #Estimated: Tarascan operations toward the Aztec frontier 
 1530.1.1 = { 
-	discovered_by = SPA
+	
 	owner = SPA
 	controller = SPA
 	add_core = SPA

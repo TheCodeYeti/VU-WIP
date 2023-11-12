@@ -1,3 +1,4 @@
-#discovered_by = mesoamerican
-1502.1.1 = { discovered_by = CAS }
-1516.1.23 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
+
+

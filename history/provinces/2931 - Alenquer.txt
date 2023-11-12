@@ -1,7 +1,23 @@
 #2931 - Takutu
 
 culture = carib
-#discovered_by = south_american
+#1444.1.1 = { discovered_by = south_american }
+#discovered_by = south_american_tech_group
+#discovered_by = MPC
+#discovered_by = RNQ
+#discovered_by = CUA
+#discovered_by = TOB
+#discovered_by = GUA
+#discovered_by = WCH
+#discovered_by = TUA
+#discovered_by = TPQ
+#discovered_by = PTG
+#discovered_by = TPA
+#discovered_by = ARW
+#discovered_by = CAB
+#discovered_by = TAI
+#discovered_by = SHB
+#discovered_by = HUP
 religion = animism
 capital = "Takutu"
 trade_goods = unknown
@@ -18,11 +34,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1641.1.1 = { discovered_by = NED }
-1771.1.1 = { discovered_by = SPA }
+
+
 
 1796.1.1 = {
-	discovered_by = GBR
+	
 	owner = GBR
 	controller = GBR
 	add_core = GBR

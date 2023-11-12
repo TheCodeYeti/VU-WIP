@@ -12,8 +12,10 @@ base_tax = 2
 base_production = 2
 base_manpower = 4
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 1510.1.1 = {
 	owner = KHA
@@ -32,4 +34,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest
+

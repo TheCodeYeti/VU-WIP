@@ -17,8 +17,34 @@ base_production = 6
 extra_cost = 8
 center_of_trade = 2
 
-#discovered_by = sub_saharan
+#1444.1.1 = { discovered_by = sub_saharan }
+#discovered_by = sub_saharan_tech_group
+#discovered_by = JOL
+#discovered_by = MAL
+#discovered_by = ZAF
+#discovered_by = JNN
+#discovered_by = KNG
+#discovered_by = MSI
+#discovered_by = YAT
+#discovered_by = WGD
+#discovered_by = BON
+#discovered_by = DGB
+#discovered_by = DAH
+#discovered_by = OYO
+#discovered_by = GUR
+#discovered_by = SON
+#discovered_by = TMB
+#discovered_by = AIR
+#discovered_by = KTS
+#discovered_by = ZZZ
+#discovered_by = NUP
+#discovered_by = BEN
+#discovered_by = KAN
+#discovered_by = KBO
+#discovered_by = YAO
+#discovered_by = SAO
+
 1505.1.1 = { owner = KBO controller = KBO add_core = KBO } #Idris Katakarmabe retakes Kanem
 1622.1.1 = { capital = "Mao" } #Reorganization of provincial governance shifts center of power
 1751.1.1 = { unrest = 8 } #Wadai raiders gravely disrupt local communities
-1804.1.1 = { discovered_by = SOK }
+

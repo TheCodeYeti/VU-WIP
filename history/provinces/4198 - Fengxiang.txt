@@ -13,8 +13,10 @@ base_production = 4
 base_manpower = 2 
 is_city = yes
 add_core = CSH
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 1644.1.1 = {
 	owner = CSH
@@ -25,4 +27,3 @@ discovered_by = chinese
 	controller = QNG
 	add_core = QNG
 }
-1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest

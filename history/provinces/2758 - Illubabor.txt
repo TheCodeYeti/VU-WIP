@@ -13,8 +13,10 @@ hre = no
 base_tax = 4  
 base_production = 6
 
-##discovered_by = east_african
-#discovered_by = muslim
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+
+
 
 1650.1.1 = {
 	culture = oromo

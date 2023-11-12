@@ -13,9 +13,11 @@ base_production = 8
 base_manpower = 4 
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-1601.1.1 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
+
 
 1645.6.1 = {
 	owner = QNG

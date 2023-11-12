@@ -15,8 +15,10 @@ base_production = 6
 base_manpower = 4
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 1643.5.1 = {
 	owner = CXI
@@ -27,4 +29,3 @@ discovered_by = chinese
 	controller = QNG
 	add_core = QNG
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis

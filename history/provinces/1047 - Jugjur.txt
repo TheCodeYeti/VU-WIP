@@ -17,10 +17,10 @@ native_hostileness = 3
 # discovered_by = CHU
 # discovered_by = CHV
 # discovered_by = KMC
-# #discovered_by = dutch_tech_group
+# 
 
-1542.1.1 = { discovered_by = POR }
-1643.1.1 = { discovered_by = RUS } # Vasily Poyarkov
+
+
 
 1647.1.1 = {
 	owner = RUS

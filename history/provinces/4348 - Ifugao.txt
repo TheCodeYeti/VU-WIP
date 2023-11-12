@@ -2,7 +2,7 @@
 
 owner = IFG
 controller = IFG
-culture = ilocano
+culture = ifugao
 religion = animism
 capital = "Ifugao"
 trade_goods = vegetables
@@ -13,7 +13,9 @@ base_production = 1
 base_manpower = 1
 add_core = IFG
 center_of_trade = 1
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan
+
+ # Ferdinand Magellan

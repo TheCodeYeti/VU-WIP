@@ -17,10 +17,12 @@ add_core = CHC
 
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1595.1.1 = { discovered_by = SPA }
+
+
+
 
 1643.1.1 = { controller = CXI } # The Xi dynasty of Zhang Xianzhong
 1647.12.1 = {

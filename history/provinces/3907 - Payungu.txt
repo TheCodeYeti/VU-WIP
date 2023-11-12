@@ -14,5 +14,5 @@ native_hostileness = 2
 
 discovered_by = aboriginal_tech
 
-1619.1.10 = { discovered_by = NED } # Frederick de Houtman
+
 

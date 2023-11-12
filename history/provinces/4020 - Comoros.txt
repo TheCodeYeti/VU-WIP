@@ -11,7 +11,22 @@ base_production = 2
 base_manpower = 2 
 native_ferocity = 4
 native_hostileness = 9
-#discovered_by = east_african
 
-1500.9.1 = { discovered_by = POR } # Diego Dias
-1529.6.1 = { discovered_by = FRA } # Parmentier Brothers
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+#discovered_by = RZW
+#discovered_by = ZIM
+#discovered_by = SFA
+#discovered_by = MKU
+#discovered_by = ZAN
+#discovered_by = SKA
+#discovered_by = MFY
+#discovered_by = ANT
+#discovered_by = MIR
+#discovered_by = BTS
+#discovered_by = MBA
+#discovered_by = MLI
+#discovered_by = PTE
+#discovered_by = AJU
+#discovered_by = MDI
+#discovered_by = MRE

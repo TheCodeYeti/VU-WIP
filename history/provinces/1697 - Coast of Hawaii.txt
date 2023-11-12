@@ -1,2 +1,6 @@
-#discovered_by = polynesian_tech
-#1555.1.1 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = polynesian_tech }
+
+discovered_by = HAW
+discovered_by = MAU
+discovered_by = OAH
+discovered_by = KAA

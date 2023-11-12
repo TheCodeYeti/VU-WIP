@@ -19,7 +19,7 @@ discovered_by = aboriginal_tech
 
 
 
-1444.1.1 = { discovered_by = MKS } 1444.1.1 = { discovered_by = TER } 1444.1.1 = { discovered_by = TID } 
 
-1642.11.24 = { discovered_by = NED } # Abel Tasman
+
+
 

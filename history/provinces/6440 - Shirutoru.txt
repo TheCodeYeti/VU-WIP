@@ -18,11 +18,11 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-#discovered_by = kamchatkan_g
 
-1542.1.1 = { discovered_by = POR }
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse
+
+
+
+
 
 1636.5.15 = { add_core = TKG }
 1679.1.1 = {
@@ -34,4 +34,4 @@ native_hostileness = 1
 } # Russian & Japanese attemps at colonization
 #1704.1.1 = { add_core = JAP }
 1767.1.1 = { add_core = RUS }
-1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse
+

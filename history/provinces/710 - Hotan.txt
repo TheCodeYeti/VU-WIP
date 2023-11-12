@@ -14,8 +14,10 @@ base_manpower = 6
 is_city = yes
 center_of_trade = 2
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 extra_cost = 8
 
 1682.1.1 = {

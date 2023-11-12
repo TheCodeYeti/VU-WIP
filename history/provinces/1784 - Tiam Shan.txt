@@ -3,7 +3,9 @@
 
 
 
-#discovered_by = dutch_tech_group
-discovered_by = chinese
 
-1622.1.1 = { discovered_by = RUS }
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
+

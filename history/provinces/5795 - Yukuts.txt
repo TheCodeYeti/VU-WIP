@@ -20,8 +20,8 @@ discovered_by = north_american
 
 
 1444.11.15 = { #VictorumUniversalis batch edit shortcut no native start date begin
-	owner = XXX
-	controller = XXX
+	owner = ---
+	controller = ---
 	remove_core = YKT
 	is_city = no
 	trade_goods = unknown

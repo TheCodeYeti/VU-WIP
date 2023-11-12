@@ -1,6 +1,6 @@
 #Agutaya & Cuyo Islands
 
-culture = visayan
+culture = cuyonon
 religion = animism
 capital = "Cuyo"
 trade_goods = citrus
@@ -12,4 +12,5 @@ add_core = MAS
 owner = MAS
 controller = MAS
 is_city = yes
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group

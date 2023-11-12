@@ -15,7 +15,7 @@ native_hostileness = 3
 discovered_by = north_american
 
 1756.1.1 = {
-	discovered_by = GBR
+	
 	owner = GBR
 	controller = GBR
 	add_core = GBR

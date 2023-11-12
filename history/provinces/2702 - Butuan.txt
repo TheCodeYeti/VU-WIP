@@ -1,6 +1,6 @@
 #2702 - Butuan
 
-culture = danao
+culture = cebuano
 religion = animism
 capital = "Butuan"
 trade_goods = gold			#Cr has gems, presumably for pearl diving, but I didn't see any evidence that Philippines were remarkably more productive with pearls than any other pearl-producing region, and 4 gem provinces in one region is pretty power, especially for such a poor (at the time) region.
@@ -13,7 +13,9 @@ owner = BTU
 controller = BTU
 add_core = BTU
 
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
 
 #extra_cost = 8
 #
@@ -28,4 +30,4 @@ discovered_by = chinese
 	religion = catholic
 	trade_goods = tropical_wood
 } # Sultanate of Maguindanao
-1521.1.1 = { discovered_by = SPA }
+

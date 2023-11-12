@@ -14,10 +14,12 @@ is_city = yes
 add_core = ITO
 add_core = SMZ
 add_core = KTK
-discovered_by = chinese
-1444.1.1 = { discovered_by = MCH } 1444.1.1 = { discovered_by = KHA } 1444.1.1 = { discovered_by = OIR } 1444.1.1 = { discovered_by = QNG } 
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1542.1.1 = { discovered_by = POR }
+ 
+
+
 1577.12.8 = { owner = SMZ controller = SMZ }
 1588.1.1 = { owner = ITO controller = ITO }
 1600.10.21 = { remove_core = SMZ }

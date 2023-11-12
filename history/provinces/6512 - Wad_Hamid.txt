@@ -15,8 +15,10 @@ hre = no
 add_core = MAK
 add_local_autonomy = 95
 
-#discovered_by = east_african
-#discovered_by = muslim
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+
+
 
 extra_cost = 5
 

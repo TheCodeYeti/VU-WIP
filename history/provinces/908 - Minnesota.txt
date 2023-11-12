@@ -23,4 +23,3 @@ discovered_by = north_american
 
 
 
-1684.1.1 = { discovered_by = FRA } # Nicolas Perrot

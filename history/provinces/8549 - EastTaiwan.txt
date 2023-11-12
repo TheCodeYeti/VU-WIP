@@ -1,6 +1,6 @@
 #8549 - EastTaiwan
 
-culture = formosan_culture
+culture = east_formosan
 religion = animism
 capital = "Kiray"
 trade_goods = unknown
@@ -12,12 +12,14 @@ native_size = 20
 native_ferocity = 1
 native_hostileness = 5
 
-discovered_by = chinese
-1444.1.1 = { discovered_by = MCH } 1444.1.1 = { discovered_by = KHA } 1444.1.1 = { discovered_by = OIR } 1444.1.1 = { discovered_by = QNG } 
-1444.1.1 = { discovered_by = RYU }
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1521.1.1 = { discovered_by = SPA }
-1544.1.1 = { discovered_by = POR }
+ 
+
+
+
+
 
 1662.1.1 = {
 	owner = MNG

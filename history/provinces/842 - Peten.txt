@@ -15,9 +15,11 @@ add_core = ITZ
 
 
 
-#discovered_by = mesoamerican
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
 
-1522.1.1 = { discovered_by = SPA }
+
+
 
 1697.3.14 = { unrest = 5 } # Spanish attack
 1700.1.1 = {

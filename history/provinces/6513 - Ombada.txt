@@ -14,8 +14,10 @@ base_manpower = 1
 is_city = yes
 add_local_autonomy = 95
 
-#discovered_by = east_african
-#discovered_by = muslim
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+
+
 
 
 1470.1.1 = {

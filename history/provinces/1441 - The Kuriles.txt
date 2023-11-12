@@ -42,5 +42,5 @@
 # discovered_by = TTI
 # discovered_by = ASK
 
-1542.1.1 = { discovered_by = POR }
-1646.1.1 = { discovered_by = RUS }
+
+

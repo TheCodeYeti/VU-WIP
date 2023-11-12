@@ -15,8 +15,10 @@ hre = no
 add_local_autonomy = 95
 
 
-#discovered_by = east_african
-#discovered_by = muslim
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+
+
 
 
 1503.1.1 = {

@@ -5,7 +5,7 @@
 owner = NOV 
 controller = NOV 
 culture = novgorodian
-religion = orthodox
+religion = slavic_pagan_reformed
 hre = no
 base_tax = 1 
 base_production = 1 
@@ -16,13 +16,19 @@ is_city = yes
 add_core = NOV
 add_local_autonomy = 25
 
-#discovered_by = eastern
+#1444.1.1 = { discovered_by = eastern }
 #discovered_by = bohemian_tech_group
 #discovered_by = byzantine_tech_group
 #discovered_by = hungarian_tech_group
 #discovered_by = polish_tech_group
-discovered_by = russian_tech_group
-discovered_by = western
+#discovered_by = russian_tech_group
+
+
+
+
+
+
+#discovered_by = western 
 #discovered_by = dutch_tech_group
 #discovered_by = english_tech_group
 #discovered_by = french_tech_group
@@ -33,7 +39,17 @@ discovered_by = western
 #discovered_by = scandinavian_tech_group
 #discovered_by = spanish_tech_group
 #discovered_by = swiss_tech_group
-#discovered_by = dutch_tech_group
+
+
+
+
+
+
+
+
+
+
+
 
 
 1478.1.15 = {

@@ -3,7 +3,7 @@
 owner = BTU
 controller = BTU
 add_core = BTU
-culture = danao
+culture = visayan
 religion = animism
 capital = "Himologan"
 trade_goods = diamonds
@@ -12,10 +12,12 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
 extra_cost = 8
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan
+ # Ferdinand Magellan
 
 1571.1.25 = { 
     owner = SPA

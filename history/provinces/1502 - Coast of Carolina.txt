@@ -7,6 +7,6 @@
 
 discovered_by = north_american
 
-1521.1.1 = { discovered_by = SPA } # Lucas Vásquez de Ayllón
-1526.1.1 = { discovered_by = FRA }
+ # Lucas Vásquez de Ayllón
+
 

@@ -16,4 +16,12 @@ native_size = 10
 native_ferocity = 3
 native_hostileness = 5
 
-#discovered_by = polynesian_tech
+#1444.1.1 = { discovered_by = polynesian_tech }
+
+discovered_by = MAA
+discovered_by = TAK
+discovered_by = TAN
+discovered_by = TEA
+discovered_by = TNK
+discovered_by = TTT
+discovered_by = WAI

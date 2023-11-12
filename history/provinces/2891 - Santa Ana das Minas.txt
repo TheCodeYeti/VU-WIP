@@ -1,7 +1,23 @@
 # - Santa Ana das Minas
 
 culture = ge
-#discovered_by = south_american
+#1444.1.1 = { discovered_by = south_american }
+#discovered_by = south_american_tech_group
+#discovered_by = MPC
+#discovered_by = RNQ
+#discovered_by = CUA
+#discovered_by = TOB
+#discovered_by = GUA
+#discovered_by = WCH
+#discovered_by = TUA
+#discovered_by = TPQ
+#discovered_by = PTG
+#discovered_by = TPA
+#discovered_by = ARW
+#discovered_by = CAB
+#discovered_by = TAI
+#discovered_by = SHB
+#discovered_by = HUP
 religion = animism
 capital = "Santo Antonio da Manga"
 trade_goods = unknown
@@ -16,7 +32,7 @@ native_hostileness = 7
 
 
 
-1550.1.1 = { discovered_by = POR }
+
 
 1668.1.1 = {
 	owner = POR

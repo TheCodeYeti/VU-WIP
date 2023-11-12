@@ -16,7 +16,7 @@ is_city = yes
 add_core = NOR
 add_core = FAR 
 
-discovered_by = western
+#discovered_by = western 
 #discovered_by = dutch_tech_group
 #discovered_by = english_tech_group
 #discovered_by = french_tech_group
@@ -27,6 +27,8 @@ discovered_by = western
 #discovered_by = scandinavian_tech_group
 #discovered_by = spanish_tech_group
 #discovered_by = swiss_tech_group
+
+
 
 add_permanent_province_modifier = {
     name = navalbase_modifier

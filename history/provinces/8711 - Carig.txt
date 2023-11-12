@@ -1,6 +1,6 @@
 #Carig
 
-culture = ilocano
+culture = filipino
 religion = animism
 capital = "Carig"
 trade_goods = sea_turtle
@@ -13,10 +13,12 @@ owner = PGS
 controller = PGS
 add_core = PGS
 
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
+
+ # Ferdinand Magellan 
 1576.1.1 = {
 	owner = SPA
 	controller = SPA

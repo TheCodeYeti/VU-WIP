@@ -13,6 +13,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-#discovered_by = polynesian_tech
-1440.1.1 = { discovered_by = TOG }
-1643.1.1 = { discovered_by = NED } # Abel Tasman
+#1444.1.1 = { discovered_by = polynesian_tech }
+
+discovered_by = LAI

@@ -23,8 +23,8 @@ is_city = yes
 # discovered_by = CHV
 # discovered_by = KMC
 
-1542.1.1 = { discovered_by = POR }
-1647.1.1 = { discovered_by = RUS } # V. Atlasov
+
+
 
 1732.1.1 = {
 	owner = RUS

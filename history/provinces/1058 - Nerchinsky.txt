@@ -15,12 +15,12 @@ is_city = yes
 
 
 
-#discovered_by = dutch_tech_group
-1444.1.1 = { discovered_by = BRT } 
+
+
 
 
 1653.1.1 = {
-	discovered_by = RUS 
+	 
 	owner = RUS
 	controller = RUS
 	religion = orthodox

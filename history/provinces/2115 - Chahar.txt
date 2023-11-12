@@ -12,8 +12,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 6
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 add_core = CHH
 
 1552.1.1 = {
@@ -21,7 +23,7 @@ add_core = CHH
 	controller = KHA
 	add_core = KHA
 } # The Oirads are defeated & Altan Khan reunites the the area.
-1608.1.1 = { discovered_by = SPA }
+
 1624.1.1 = {
 	owner = MCH
 	controller = MCH
@@ -34,4 +36,3 @@ add_core = CHH
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }

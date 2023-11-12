@@ -1,7 +1,9 @@
 #1404 - Biak Bay
 #VU Discovery Bug Fix
 
-# discovered_by = chinese
+# #1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1526.1.1 = { discovered_by = POR } # Don Jorge de Mneses
-1770.2.27 = { discovered_by = GBR }
+
+
+

@@ -1,11 +1,15 @@
 #4224 - Tokai Sea
 #VU Discovery Bug Fix
 
-discovered_by = chinese
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
 # discovered_by = MCH
 # discovered_by = KHA
 # discovered_by = OIR
 # discovered_by = QNG
 
-1542.1.1 = { discovered_by = POR }
+

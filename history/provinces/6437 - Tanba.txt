@@ -8,15 +8,19 @@ religion = shinto
 capital = "Itai"
 trade_goods = chinaware
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 2
+base_production = 3
+base_manpower = 2
 is_city = yes
-discovered_by = chinese
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
 
 
-1444.1.1 = { discovered_by = MCH } 1444.1.1 = { discovered_by = KHA } 1444.1.1 = { discovered_by = OIR } 1444.1.1 = { discovered_by = QNG } 1444.1.1 = { discovered_by = ANU } 
+
+  
 
 1569.1.1 = { add_core = ODA }
 1579.1.1 = { owner = ODA controller = ODA } # Nobunaga ousts Yoshiaki

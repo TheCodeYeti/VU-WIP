@@ -12,4 +12,5 @@ base_tax = 10
 base_production = 10
 base_manpower = 4
 is_city = yes
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group

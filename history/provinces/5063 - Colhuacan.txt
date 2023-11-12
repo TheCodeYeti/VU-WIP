@@ -13,10 +13,12 @@ native_ferocity = 1
 native_hostileness = 3
 
 discovered_by = north_american
-#discovered_by = mesoamerican
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
+
 
 1531.1.1 = {
-	discovered_by = SPA 
+	 
 	owner = SPA 
 	controller = SPA
 	add_core = SPA

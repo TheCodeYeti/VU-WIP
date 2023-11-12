@@ -14,10 +14,12 @@ native_hostileness = 5
 
 
 
-#discovered_by = mesoamerican
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
 
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
+
+
+
 
 1523.1.1 = {
 	owner = SPA

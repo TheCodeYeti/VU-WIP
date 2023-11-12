@@ -27,7 +27,7 @@ discovered_by = north_american
 	add_core = FOX
 	culture = mesquakie
 } 
-1684.1.1 = { discovered_by = FRA } # Nicolas Perrot
+
 1813.10.5 = {
 	owner = USA
 	controller = USA

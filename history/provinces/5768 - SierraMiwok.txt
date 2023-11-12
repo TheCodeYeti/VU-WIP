@@ -26,5 +26,5 @@ discovered_by = north_american
 #	trade_goods = fish
 #}
 
-1806.1.1 = { discovered_by = SPA } # Not sure who? But apparently discovered?
+
 #Aqua Fria, later Mariposa, founded 1840

@@ -1,7 +1,9 @@
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
 
 
 
-1512.1.1 = { discovered_by = POR }
+
+
 

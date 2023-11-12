@@ -1,8 +1,12 @@
 #1440 - Taihei Ocean
 #VU Discovery Bug Fix
 
-discovered_by = chinese
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
 # discovered_by = MCH
 # discovered_by = KHA
 # discovered_by = OIR
@@ -13,5 +17,5 @@ discovered_by = japanese
 # discovered_by = CHV
 # discovered_by = KMC
 
-1542.1.1 = { discovered_by = POR }
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
+
+

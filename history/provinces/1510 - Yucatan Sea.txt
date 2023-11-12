@@ -1,2 +1,4 @@
-#discovered_by = mesoamerican
-1517.1.1 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
+
+

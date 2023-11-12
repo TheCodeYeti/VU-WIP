@@ -21,8 +21,10 @@ is_city = yes
 #Special Modifiers
 
 #Known by Technology groups
-#discovered_by = muslim
-#discovered_by = east_african
+
+#1444.1.1 = { discovered_by = east_african }
+#discovered_by = east_african_tech_group
+
 
 #Histories
 1215.6.15 = { owner = MAM controller = MAM add_core = MAM } # Mamluk territorial lands - By San Felipe

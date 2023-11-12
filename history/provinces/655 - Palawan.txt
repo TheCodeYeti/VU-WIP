@@ -1,6 +1,6 @@
 #655 - Palawan
 
-culture = filipino
+culture = cuyonon
 religion = sunni
 capital = "Palawan"
 trade_goods = sugar
@@ -14,10 +14,12 @@ controller = BEI
 add_core = BEI
 add_local_autonomy = 25
 
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
+
+ # Ferdinand Magellan 
 1749.1.1 = {
 	owner = SPA
 	controller = SPA

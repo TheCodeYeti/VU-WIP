@@ -14,9 +14,11 @@ base_manpower = 2
 is_city = yes
 center_of_trade = 2
 
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1521.1.1 = { discovered_by = SPA }
+
+
 
 1571.1.1 = { 
     owner = SPA

@@ -14,11 +14,15 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 
 1645.6.14 = {
 	owner = QNG

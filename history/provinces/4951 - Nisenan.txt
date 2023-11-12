@@ -15,5 +15,3 @@ center_of_trade = 1
 discovered_by = north_american
 
 
-1808.1.1 = { discovered_by = SPA } #Gabriel Moraga
-#Settlers started arriving around 1839, Sacramento proper named around 1808 and began to grow in the 1840s

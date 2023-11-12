@@ -1,6 +1,6 @@
 #8287 - Albay
 
-culture = filipino
+culture = bikolano
 religion = animism
 capital = "Sawangan"
 trade_goods = silk #The province was also well known for producing Jewelry.
@@ -25,7 +25,9 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-discovered_by = chinese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
 
 1569.1.1 = { } #In 1569, a Spanish expedition dispatched by Miguel Lopez de Legazpi led by Luis Enriquez de Guzman and Agustinian friar Alonso Jimenez first set foot in Albay.
 1573.1.1 = { #Conquistador Juan de Salcedo, grandson of Governor-General Legazpi, led another expedition from the north. They founded Villa Santiago de Libon (present-day Libon, Albay) and reached the settlement of Albaybay, whose name was subsequently shortened to 'Albay' or Pueblo de Albay.

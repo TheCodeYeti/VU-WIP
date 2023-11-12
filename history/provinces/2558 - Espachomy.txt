@@ -63,7 +63,7 @@ discovered_by = north_american
 	capital = "Kingston"
 } # Treaty of Westminster
 1707.5.12 = {
-	discovered_by = GBR
+	
 	owner = GBR
 	controller = GBR
 	add_core = GBR

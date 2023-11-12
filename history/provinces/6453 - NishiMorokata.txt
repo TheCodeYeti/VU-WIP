@@ -8,17 +8,21 @@ religion = shinto
 capital = "Iino"
 trade_goods = tea
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 2
+base_production = 3
+base_manpower = 3
 is_city = yes
-discovered_by = chinese
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
 
 
-1444.1.1 = { discovered_by = MCH } 1444.1.1 = { discovered_by = KHA } 1444.1.1 = { discovered_by = OIR } 1444.1.1 = { discovered_by = QNG } 
 
-1542.1.1 = { discovered_by = POR }
+ 
+
+
 
 1569.10.10 = {
     add_core = SMZ

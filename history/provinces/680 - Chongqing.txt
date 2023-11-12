@@ -14,8 +14,10 @@ base_manpower = 8
 is_city = yes
 add_core = CXI
 add_core = SHU
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 extra_cost = 8
 center_of_trade = 4
 
@@ -23,7 +25,7 @@ center_of_trade = 4
 	owner = CXI
 	controller = CXI
 } # Zhang Xianzhong's Xi empire
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+
 1658.4.1 = {
 	owner = QNG
 	controller = QNG

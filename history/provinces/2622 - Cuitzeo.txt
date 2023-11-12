@@ -18,7 +18,9 @@ native_hostileness = 2
 
 
 
-#discovered_by = mesoamerican
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
+
 
 
 1530.1.1 = {

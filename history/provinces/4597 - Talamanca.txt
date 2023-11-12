@@ -12,9 +12,11 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-#discovered_by = mesoamerican
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = mesoamerican }
+#discovered_by = mesoamerican_tech_group
+
+
+
 
 1563.1.1 = { 
 	capital = "Cartago"

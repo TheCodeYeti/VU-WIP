@@ -14,10 +14,12 @@ base_manpower = 4
 is_city = yes
 add_core = YAN
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1608.1.1 = { discovered_by = SPA }
+
+
+
 
 1628.1.1 = { revolt_risk = 6 } # Li Zicheng rebellion
 1644.1.1 = {
