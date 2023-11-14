@@ -32,7 +32,7 @@
 
  #dis ain't my beliefs:<
  estate_jews_suck:0 "Remove Jewish Influence"
- estate_jews_suck_desc:0 "The Jews of our land, heathens as they are, hold far too much power and influence. Their wealth and power even has surpassed most [Root.GetGroupName]! This injustice must brought before the court, and the Influence of the Jews must be quashed."
+ estate_jews_suck_desc:0 "The Jews of our land, heathens as they are, hold far too much power and influence. Their wealth and power even has surpassed most [Root.Culture.GetGroupName]! This injustice must brought before the court, and the Influence of the Jews must be quashed."
  estate_jews_suck_2:0 "Expel all Jews"
  estate_jews_suck_2_desc:0 "The Jews are a danger to our state, and thus the Jews of our lands must find a new place to call home. This is a land for our people, and for our religion!"
 
