@@ -411,9 +411,6 @@ YEMG_missions_1 = {
 				name = YEMG_rule_secured
 				duration = -1
 				age = age_of_discovery
-				else = "
-					add_mil_power = 100
-				"
 			}
 		}
 	}
@@ -2076,9 +2073,6 @@ YEM_missions_3 = {
 				name = YEM_felicitous_arabia
 				duration = -1
 				age = age_of_reformation
-				else = "
-					add_dip_power = 100
-				"
 			}
 		}
 	}

@@ -1262,10 +1262,8 @@ andalusia_slot_4_missions = {
 			#Rest of Morocco
 			tafilalt_area = {
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
@@ -1373,10 +1371,8 @@ andalusia_slot_4_missions_c = {
 			}
 			arabia_region = {
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
@@ -1660,31 +1656,25 @@ andalusia_slot_5_missions = {
 			#Just some extra southern Egypt claims to match Mecca's coast.
 			lower_nubia_area = {
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-						is_empty = yes
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_empty = yes }
 				}
 				add_claim = ROOT
 			}
 			dongola_area = {
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-						is_empty = yes
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_empty = yes }
 				}
 				add_claim = ROOT
 			}
 			red_sea_coast_area = {
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-						is_empty = yes
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_empty = yes }
 				}
 				add_claim = ROOT
 			}
@@ -1727,28 +1717,22 @@ andalusia_slot_5_missions = {
 			}
 			erzurum_area = { #Upper Euphrates
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
 			mardin_area = { #Mardin
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
 			north_kurdistan_area = { #Vaspurakan
 				limit = {
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
 				}
 				add_claim = ROOT
 			}

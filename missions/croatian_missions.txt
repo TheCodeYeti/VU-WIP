@@ -44,10 +44,8 @@ cro_1 = {
 			137 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = { is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -98,10 +96,8 @@ cro_1 = {
 			4752 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = { is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -251,10 +247,8 @@ cro_2 = {
 			1828 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = { is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -262,10 +256,8 @@ cro_2 = {
 			7727 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = { is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

@@ -112,10 +112,8 @@ papal_missions_slot_2 = {
 			}
 		}
 		trigger = {
-			NOT = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
-			}
+			NOT = {	current_age = age_of_discovery }
+			NOT = {	current_age = age_of_reformation }
 			italy_region = {
 				type = all
 				religion = catholic

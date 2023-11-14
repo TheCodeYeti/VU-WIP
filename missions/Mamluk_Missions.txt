@@ -206,10 +206,8 @@ mam_north_missions = {
 			327 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -217,10 +215,8 @@ mam_north_missions = {
 			2302 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

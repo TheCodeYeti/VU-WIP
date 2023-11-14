@@ -44,8 +44,8 @@ nav_missions_1 = {
 			}
 			munster_area = {
 				limit = {
-					NOT = { is_permanent_claim = ROOT	}
-					NOT = { is_core = ROOT	}
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
@@ -81,15 +81,15 @@ nav_missions_1 = {
 			}
 			subarctic_islands_area = {
 				limit = {
-					NOT = { is_permanent_claim = ROOT	}
-					NOT = { is_core = ROOT	}
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
 			iceland_area = {
 				limit = {
-					NOT = { is_permanent_claim = ROOT	}
-					NOT = { is_core = ROOT	}
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { is_core = ROOT }
 				}
 				add_claim = ROOT
 			}
@@ -100,10 +100,8 @@ nav_missions_1 = {
 				2573 = {
 					if = {
 						limit = {
-							NOT = {
-								is_permanent_claim = ROOT
-								is_core = ROOT
-							}
+							NOT = { is_permanent_claim = ROOT }
+							NOT = { is_core = ROOT }
 						}
 						add_permanent_claim = ROOT
 					}
@@ -129,10 +127,8 @@ nav_missions_1_b = {
 		required_missions = { nav_north_sea_whaling }
 		provinces_to_highlight = {
 			province_id = 2573
-			NOT = {
-				country_or_non_sovereign_subject_holds = ROOT
-				is_city = yes
-			}
+			NOT = {	country_or_non_sovereign_subject_holds = ROOT }
+			NOT = {	is_city = yes }
 			has_discovered = ROOT
 		}
 		position = 4
@@ -233,10 +229,8 @@ nav_missions_2 = {
 				province_id = 173
 				province_id = 8016
 			}
-			NOT = {
-				owned_by = ROOT
-				is_core = ROOT
-			}
+			NOT = {	owned_by = ROOT	}
+			NOT = {	is_core = ROOT }
 		}
 		trigger = {
 			OR = {

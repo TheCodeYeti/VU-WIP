@@ -274,10 +274,8 @@ tau_slot_2 = {
 				}
 				AND = {
 					ROOT = {
-						NOT = {
-							tag = TAU
-							tag = BPR
-						}
+						NOT = {	tag = TAU }
+						NOT = {	tag = BPR }
 					}
 					owner = {
 						is_enemy = ROOT

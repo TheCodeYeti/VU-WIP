@@ -659,9 +659,11 @@ gc_por_2_b = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -670,9 +672,11 @@ gc_por_2_b = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -681,9 +685,11 @@ gc_por_2_b = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -818,9 +824,11 @@ gc_por_2_c = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -1978,9 +1986,11 @@ gc_por_5_continued = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -2101,9 +2111,11 @@ gc_por_5_continued = {
 		position = 11
 		provinces_to_highlight = {
 			province_id = 227
-			NOT = { 
-				has_building = university 
-				owned_by = ROOT
+			NOT = {
+				OR = {
+					has_building = university
+					owned_by = ROOT
+				} 
 			}			
 		}
 		

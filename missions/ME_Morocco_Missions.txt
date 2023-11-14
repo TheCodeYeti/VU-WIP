@@ -1104,9 +1104,6 @@ MOR_missions_4 = {
 				name = MOR_repel_the_europeans
 				duration = -1
 				age = age_of_discovery
-				else = "
-					add_mil_power = 50
-				"
 			}
 		}
 	}

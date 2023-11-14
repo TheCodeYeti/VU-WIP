@@ -167,10 +167,8 @@ danish_missions_baltic = {
 			35 = { # osel
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -212,10 +210,8 @@ danish_missions_baltic = {
 			45 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -223,10 +219,8 @@ danish_missions_baltic = {
 			43 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -234,10 +228,8 @@ danish_missions_baltic = {
 			33 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

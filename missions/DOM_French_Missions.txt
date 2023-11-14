@@ -2135,6 +2135,7 @@ french_missions_2_Continuation_b = {
 					artillery = ROOT
 					artillery = ROOT
 					artillery = ROOT
+					artillery = ROOT
 				}
 				add_mil_power = 25
 			}

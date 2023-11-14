@@ -78,10 +78,8 @@ gc_tunis_1 = {
 				}
 				AND = {
 					province_id = 2448
-					NOT = {
-						owned_by = ROOT
-						is_core = ROOT
-					}
+					NOT = { owned_by = ROOT	}
+					NOT = {	is_core = ROOT }
 				}
 			}
 		}
@@ -401,10 +399,8 @@ gc_tunis_3 = {
 			163 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -412,10 +408,8 @@ gc_tunis_3 = {
 			320 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -423,10 +417,8 @@ gc_tunis_3 = {
 			321 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -465,10 +457,8 @@ gc_tunis_3 = {
 			112 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -571,8 +561,8 @@ gc_tunis_4 = {
 				province_id = 1298
 				AND = {
 					province_id = 338
+					NOT = {	owned_by = ROOT	}
 					NOT = {
-						owned_by = ROOT
 						OR = {
 							has_building = shipyard
 							has_building = grand_shipyard
@@ -704,10 +694,8 @@ gc_tunis_5 = {
 			358 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

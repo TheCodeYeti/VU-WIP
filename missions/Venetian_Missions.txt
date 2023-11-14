@@ -36,10 +36,8 @@ venice_missions_1 = {
 			285 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = { is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -47,10 +45,8 @@ venice_missions_1 = {
 			286 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = { is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -58,10 +54,8 @@ venice_missions_1 = {
 			2447 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = { is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -153,10 +147,8 @@ venice_missions_2 = {
 			321 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = { is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

@@ -456,10 +456,8 @@ mlw_slot_4 = {
 			555 = { # jaunpur
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

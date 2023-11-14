@@ -252,12 +252,12 @@ byz_western = {
 			#	}
 			#	add_permanent_claim = ROOT
 			#}
-			add_permanent_claim = 7016
-			add_permanent_claim = 7017
 			add_country_modifier = {
 				name = "greece_is_ours"
 				duration = -1
 			}
+			add_permanent_claim_province = { province = 7016 }
+			add_permanent_claim_province = { province = 7017 }
 		}
 	}
 	
@@ -303,8 +303,8 @@ byz_western = {
 			#	type = all
 			#	country_or_non_sovereign_subject_holds = ROOT
 			#}
-			7016 = { country_or_non_sovereign_subject_holds = ROOT }
-			7017 = { country_or_non_sovereign_subject_holds = ROOT }
+			owns_or_non_sovereign_subject_of = 7016
+			owns_or_non_sovereign_subject_of = 7017
 		}
 		effect = {
 			capital_scope = {

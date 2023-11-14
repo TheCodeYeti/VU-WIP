@@ -182,7 +182,7 @@ MAM_missions_1 = {
 					has_dlc = "Leviathan"
 					NOT = {
 						has_great_project = {
-							type = vu_pharos_alexandria
+							type = lighthouse_of_alexandria
 							tier = 1
 						}
 					}
@@ -198,7 +198,7 @@ MAM_missions_1 = {
 				358 = {
 					owned_by = ROOT
 					has_great_project = {
-						type = vu_pharos_alexandria
+						type = lighthouse_of_alexandria
 						tier = 1
 					}
 				}
@@ -714,9 +714,6 @@ MAM_missions_2 = {
 				name = MAM_defeated_europeans
 				age = age_of_reformation
 				duration = -1
-				else = "
-					add_prestige_or_monarch_power = { amount = 25 }
-				"
 			}
 			
 			
@@ -1205,10 +1202,8 @@ MAM_missions_3 = {
 				else = { always = no }
 				if = {
 					limit = {
-						NOT = {
-							exists = VEN
-							exists = GEN
-						}
+						NOT = {	exists = VEN }
+						NOT = { exists = GEN }
 					}
 					owner = {
 						OR = {
@@ -1274,10 +1269,8 @@ MAM_missions_3 = {
 				}
 				if = {
 					limit = {
-						NOT = {
-							exists = VEN
-							exists = GEN
-						}
+						NOT = {	exists = VEN }
+						NOT = {	exists = GEN }
 					}
 					custom_trigger_tooltip = {
 						tooltip = MAM_allied_alternative_to_VEN_or_GEN

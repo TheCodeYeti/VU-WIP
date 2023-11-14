@@ -275,10 +275,8 @@ vij_south_conquest = {
 		position = 2
 		provinces_to_highlight = {
 			province_id = 2100
-			NOT = {
-				is_core = ROOT
-				owned_by = ROOT
-			}
+			NOT = { is_core = ROOT }
+			NOT = {	owned_by = ROOT	}
 		}
 		trigger = {
 			owns_core_province = 2100
@@ -363,10 +361,8 @@ vij_south_conquest = {
 			1201 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -374,10 +370,8 @@ vij_south_conquest = {
 			1202 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -385,10 +379,8 @@ vij_south_conquest = {
 			1205 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -476,10 +468,8 @@ vij_tamil_conquest = {
 			2100 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

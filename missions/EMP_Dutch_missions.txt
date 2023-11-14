@@ -1283,7 +1283,9 @@ emp_ned_slot5_branch = { # Orangists
 				}
 			}
 			else_if = {
-				army_tradition = 50
+				limit = {
+					army_tradition = 50
+				}
 			}
 		}
 		effect = {

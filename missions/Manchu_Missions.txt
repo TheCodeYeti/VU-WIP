@@ -26,7 +26,8 @@ manchu_missions_1 = {
 		provinces_to_highlight = {
 			province_id = 4201
 			OR = {
-				NOT = { owned_by = ROOT is_core = ROOT }
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
 				NOT = { has_building = temple }
 			}
 		}

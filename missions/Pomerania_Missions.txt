@@ -40,29 +40,23 @@ pom_1 = {
 			2993 = {
 				if = {
 					limit = {
-						NOT = {
-							is_core = ROOT
-							is_permanent_claim = ROOT
-						}
+						NOT = {	is_core = ROOT }
+						NOT = {	is_permanent_claim = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
 			}
 			mecklenburg_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			neumark_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -91,10 +85,8 @@ pom_1 = {
 		effect = {
 			mittelmark_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -383,10 +375,8 @@ pom_1 = {
 		effect = {
 			west_prussia_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = {	is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -419,40 +409,32 @@ pom_1 = {
 					add_prestige = 20
 					wielkopolska_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = PLC
 						}
 						add_claim = ROOT
 					}
 					kuyavia_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = PLC
 						}
 						add_claim = ROOT
 					}
 					mazovia_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = PLC
 						}
 						add_claim = ROOT
 					}
 					central_poland_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = PLC
 						}
 						add_claim = ROOT
@@ -498,40 +480,32 @@ pom_1 = {
 					add_prestige = 20
 					wielkopolska_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = POL
 						}
 						add_claim = ROOT
 					}
 					kuyavia_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = POL
 						}
 						add_claim = ROOT
 					}
 					mazovia_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = POL
 						}
 						add_claim = ROOT
 					}
 					central_poland_area = {
 						limit = {
-							NOT = {
-								is_core = ROOT
-								is_claim = ROOT
-							}
+							NOT = {	is_core = ROOT }
+							NOT = {	is_claim = ROOT	}
 							owned_by = POL
 						}
 						add_claim = ROOT
@@ -551,10 +525,8 @@ pom_1 = {
 			else = {
 				poland_region = {
 					limit = {
-						NOT = {
-							is_core = ROOT
-							is_claim = ROOT
-						}
+						NOT = {	is_core = ROOT }
+						NOT = {	is_claim = ROOT	}
 					}
 					add_claim = ROOT
 				}
@@ -578,10 +550,8 @@ pom_1 = {
 		effect = {
 			east_prussia_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -626,19 +596,15 @@ pom_2 = {
 		effect = {
 			lower_saxony_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			holstein_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_permanent_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -691,37 +657,29 @@ pom_2 = {
 			add_dip_power = 50
 			jutland_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_claim = ROOT }
 				}
 				add_claim = ROOT
 			}
 			denmark_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_claim = ROOT }
 				}
 				add_claim = ROOT
 			}
 			skaneland_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_claim = ROOT }
 				}
 				add_claim = ROOT
 			}
 			gotaland_area = {
 				limit = {
-					NOT = {
-						is_core = ROOT
-						is_claim = ROOT
-					}
+					NOT = {	is_core = ROOT }
+					NOT = { is_claim = ROOT }
 				}
 				add_claim = ROOT
 			}

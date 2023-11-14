@@ -592,9 +592,11 @@ emp_ven_slot_4 = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -750,9 +752,11 @@ emp_ven_slot_5 = {
 				if = {
 					limit = {
 						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+					    	OR = {
+					    		is_permanent_claim = ROOT
+					    		is_core = ROOT
+					    	}
+					    }
 					}
 					add_permanent_claim = ROOT
 				}

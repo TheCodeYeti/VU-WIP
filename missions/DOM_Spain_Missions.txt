@@ -1040,7 +1040,7 @@ dom_cas_missions_2 = {
 				limit = { 
 					NOT = { religion = catholic }
 				}
-				has_advisor = inquisitor 
+				advisor = inquisitor
 			}
 		}
 		effect = {
@@ -1983,7 +1983,8 @@ dom_cas_missions_3 = {
 					valid_for_personal_unions_trigger = yes
 					POR = {
 						valid_for_personal_unions_trigger = yes
-						NOT = { alliance_with = ROOT marriage_with = ROOT }
+						NOT = { alliance_with = ROOT }
+						NOT = { marriage_with = ROOT }
 					}
 				}
 				add_casus_belli = {
@@ -4135,10 +4136,8 @@ dom_cas_missions_5_b = {
 			3003 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

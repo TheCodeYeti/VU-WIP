@@ -560,8 +560,8 @@ lubeck_missions_2 = { #Made by Big Boss
 					has_building = trade_depot
 					has_building = stock_exchange
 				}
-				num_of_times_improved = 4 
 			}
+			NOT = { num_of_times_improved = 4 }
 		}
 		trigger = {
 			45 = {

@@ -405,10 +405,8 @@ emp_germany_hlr_2_hlr = {
 						ROOT = {
 							NOT = { religion = catholic }
 						}
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

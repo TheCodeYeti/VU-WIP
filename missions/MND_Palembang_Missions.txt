@@ -140,7 +140,9 @@ mnd_plb_1 = {
 				}
 			}
 			else_if = {
-				has_estate_privilege = estate_burghers_orang_laut_alliances
+				limit = {
+					has_estate_privilege = estate_burghers_orang_laut_alliances
+				}
 				2677 = {
 					country_or_non_sovereign_subject_holds = ROOT
 				}

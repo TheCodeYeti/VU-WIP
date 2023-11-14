@@ -1046,13 +1046,13 @@ japanese_missions_eoc_2 = {
 			
 			if = {
 				limit = {
-					NOT = { has_harmonized_with = pagan }
+					#NOT = { has_harmonized_with = pagan }
 					NOT = { has_harmonized_with = vajrayana }
 					religion = confucianism
 				}
 				custom_tooltip = mng_db_reward_1_tt
 				tooltip = {
-					add_harmonized_religion = pagan
+					#add_harmonized_religion = pagan
 					add_harmonized_religion = vajrayana
 					add_harmony = 10
 				}
@@ -1199,13 +1199,13 @@ japanese_missions_eoc_2 = {
 				if = {
 					limit = {
 						OR = {
-							NOT = { has_harmonized_with = pagan }
+							#NOT = { has_harmonized_with = pagan }
 							NOT = { has_harmonized_with = vajrayana }
 						}
 						religion = confucianism
 						has_reform = decentralize_reform
 					}
-					add_harmonized_religion = pagan
+					#add_harmonized_religion = pagan
 					add_harmonized_religion = vajrayana
 					add_harmony = 10 
 					change_government_reform_progress = -250
@@ -2891,17 +2891,19 @@ DOM_japanse_missions_4_d = {
 				NOT = {
 					any_country = {
 						NOT = { 
-							technology_group = western
-		                    technology_group = english_tech_group
-		                    technology_group = french_tech_group
-		                    technology_group = dutch_tech_group
-		                    technology_group = german_tech_group
-		                    technology_group = italian_tech_group
-		                    technology_group = portuguese_tech_group
-		                    technology_group = roman_tech_group
-							technology_group = scandinavian_tech_group
-		                    technology_group = spanish_tech_group
-		                    technology_group = swiss_tech_group 
+							OR = {
+				            	technology_group = western
+				            	technology_group = dutch_tech_group
+				            	technology_group = english_tech_group
+				            	technology_group = french_tech_group
+				            	technology_group = german_tech_group
+				            	technology_group = italian_tech_group
+				            	technology_group = portuguese_tech_group
+				            	technology_group = roman_tech_group
+				            	technology_group = scandinavian_tech_group
+				            	technology_group = spanish_tech_group
+				            	technology_group = swiss_tech_group
+				            }
 						}
 						navy_size = ROOT 
 					}

@@ -71,10 +71,8 @@ consolidate_expand_russia_missions = {
 			if = {
 				limit = {
 					4148 = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 				}
 				4148 = {
@@ -84,10 +82,8 @@ consolidate_expand_russia_missions = {
 			if = {
 				limit = {
 					1777 = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 				}
 				1777 = {
@@ -97,10 +93,8 @@ consolidate_expand_russia_missions = {
 			if = {
 				limit = {
 					33 = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 				}
 				33 = {
@@ -110,10 +104,8 @@ consolidate_expand_russia_missions = {
 			34 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -121,10 +113,8 @@ consolidate_expand_russia_missions = {
 			1961 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -795,10 +785,8 @@ russia_siberian_missions_slot = {
 		effect = {
 			if = {
 				limit = {
-					NOT = {
-						tag = RUS
-						has_dlc = "Third Rome"
-					}
+					NOT = {	tag = RUS }
+					NOT = {	has_dlc = "Third Rome" }
 				}
 				add_country_modifier = {
 					name = "colonial_enthusiasm"

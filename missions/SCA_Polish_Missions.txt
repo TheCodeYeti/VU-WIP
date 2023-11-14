@@ -72,10 +72,8 @@ poland_sca_slot_1 = {
 			}
 			if = { 
 				limit = { 
-					NOT = { 
-						current_age = age_of_reformation 
-						current_age = age_of_discovery 
-					}
+					NOT = { current_age = age_of_reformation }
+					NOT = { current_age = age_of_discovery }
 				}
 				absolutism = 75 
 				crown_land_share = 80 
@@ -3721,10 +3719,8 @@ poland_sca_slot_4_d = {
 			1859 = {
 				if = {
 					limit = {
-						NOT = {
-							owned_by = ROOT
-							is_core = ROOT
-						}
+						NOT = {	owned_by = ROOT	}
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}

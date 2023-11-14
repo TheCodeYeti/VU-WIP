@@ -71,10 +71,8 @@ mongol_missions_1 = {
 				province_id = 2136
 				region = north_china_region
 			}
-			NOT = {
-				owned_by = ROOT
-				is_core = ROOT
-			}
+			NOT = {	owned_by = ROOT	}
+			NOT = {	is_core = ROOT }
 		}
 		trigger = {
 			owns_core_province = 1816

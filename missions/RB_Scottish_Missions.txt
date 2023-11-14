@@ -58,10 +58,8 @@ sco_rb_adm_missions = {
 		icon = mission_rb_weather_the_reformation
 		required_missions = { sco_bank }
 		trigger = {
-			NOT = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
-			}
+			NOT = {	current_age = age_of_discovery }
+			NOT = {	current_age = age_of_reformation }
 			religious_unity = 1
 		}
 		effect = {
@@ -199,10 +197,8 @@ sco_rb_conquest_missions = {
 			1978 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -210,10 +206,8 @@ sco_rb_conquest_missions = {
 			369 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -660,10 +654,8 @@ sco_rb_colonial_2 = {
 			    area = subarctic_islands_area
 				area = iceland_area
 			}
-			NOT = {
-				province_id = 5591 #Jan Mayen, Don't think this should be required
-				country_or_non_sovereign_subject_holds = ROOT
-			}
+			NOT = {	province_id = 5591 } #Jan Mayen, Don't think this should be required
+			NOT = {	country_or_non_sovereign_subject_holds = ROOT }
 		}
 		trigger = {
 			subarctic_islands_area = {

@@ -64,64 +64,50 @@ mug_timurid_resurgence = {
 			}
 			sindh_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			northern_sindh_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			ghor_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			sistan_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			herat_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			balkh_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			kabulistan_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -312,46 +298,36 @@ mug_towards_china = {
 		effect = {
 			kachin_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			chindwin_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			upper_burma_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			naga_hills_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			shan_hill_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -404,19 +380,15 @@ mug_towards_china = {
 			}
 			yun_gui_borderland_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			yun_gui_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -620,19 +592,15 @@ mug_ganges_branch = {
 			}
 			orissa_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			assam_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -680,28 +648,22 @@ mug_ganges_branch = {
 			add_dip_power = 100
 			arakan_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			lower_burma_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			central_burma_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -746,73 +708,57 @@ mug_ganges_branch = {
 			}
 			tenasserim_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			north_tenasserim_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			central_thai_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			sukothai_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			northern_thai_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			north_laos_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			south_laos_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			khorat_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -881,82 +827,64 @@ mug_ganges_branch = {
 			}
 			malacca_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			malaya_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			tenasserim_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			kedah_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			vietnam_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			red_river_delta_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			guangxi_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			west_guangdong_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			guangdong_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -1074,19 +1002,15 @@ mug_hindustan_branch = {
 			}
 			north_bengal_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			gaur_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -1132,19 +1056,15 @@ mug_hindustan_branch = {
 			}
 			east_bengal_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			west_bengal_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -1892,74 +1812,58 @@ mug_deccan_branch = {
 			}
 			malwa_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			gondwana_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			marwar_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			jangladesh_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			jaipur_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			bundelkhand_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			baghelkhand_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			518 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -1967,10 +1871,8 @@ mug_deccan_branch = {
 			2087 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -2007,37 +1909,29 @@ mug_deccan_branch = {
 			}
 			tapti_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			ahmedabad_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			patan_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			saurashtra_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -2085,28 +1979,22 @@ mug_deccan_branch = {
 			}
 			khandesh_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			ahmednagar_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			berar_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -2147,82 +2035,64 @@ mug_deccan_branch = {
 		effect = {
 			golconda_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			telingana_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			andhra_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			maidan_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			rayalaseema_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			mysore_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			raichur_doab_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			konkan_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			desh_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
@@ -2268,46 +2138,36 @@ mug_deccan_branch = {
 			}
 			north_carnatic_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			south_carnatic_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			madura_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			tanjore_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
 			kongu_area = {
 				limit = {
-					NOT = {
-						is_permanent_claim = ROOT
-						is_core = ROOT
-					}
+					NOT = {	is_permanent_claim = ROOT }
+					NOT = {	is_core = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
