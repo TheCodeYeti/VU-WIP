@@ -96,8 +96,8 @@ canal_definition = {
 }
 canal_definition = {
 	name = "second_suez_canal"
-	x = 3094
-	y = 1489
+	x = 3111
+	y = 1454
 }
 canal_definition = {
 	name = "kiel_canal"
