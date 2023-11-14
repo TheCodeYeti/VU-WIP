@@ -1,7 +1,7 @@
 # French Only Cuirassier
 
 type = cavalry
-unit_type = french_tech_group
+unit_type = western
 
 maneuver = 2
 offensive_morale = 8

@@ -1,6 +1,6 @@
 # French Elite 3rd
 
-unit_type = french_tech_group
+unit_type = western
 type = infantry
 
 maneuver = 1

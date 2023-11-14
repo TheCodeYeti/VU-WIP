@@ -1,6 +1,6 @@
 # Spanish Elite 3rd
 
-unit_type = spanish_tech_group
+unit_type = western
 type = infantry
 
 maneuver = 1

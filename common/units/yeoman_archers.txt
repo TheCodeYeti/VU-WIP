@@ -1,7 +1,7 @@
 # Yeoman Archers
 
 type = infantry
-unit_type = english_tech_group
+unit_type = western
 
 maneuver = 1
 offensive_morale = 2

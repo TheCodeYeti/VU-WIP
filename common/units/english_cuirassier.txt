@@ -1,7 +1,7 @@
 # English Cuirassier
 
 type = cavalry
-unit_type = english_tech_group
+unit_type = western
 
 maneuver = 2
 offensive_morale = 8

@@ -1,6 +1,6 @@
 # Elite Militia Cavalry
 
-unit_type = english_tech_group
+unit_type = western
 type = cavalry
 
 maneuver = 2

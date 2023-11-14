@@ -1,7 +1,7 @@
 # Spanish Aggresive Knights
 
 type = cavalry
-unit_type = spanish_tech_group
+unit_type = western
 
 maneuver = 2
 offensive_morale = 2

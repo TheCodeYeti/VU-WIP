@@ -1,6 +1,6 @@
 # Spanish Order Cavalry
 
-unit_type = spanish_tech_group
+unit_type = western
 type = cavalry
 
 maneuver = 2
