@@ -8,10 +8,10 @@ religious_school = hanafi_school
 
 set_country_flag = ME_can_use_timurid_legitimacy
 save_global_event_target_as = ME_succession_crisis_AFG
-set_variable = {
-	which = timurid_legitimacy_value
-	value = 0
-}
+#set_variable = {
+#	which = timurid_legitimacy_value
+#	value = 0
+#}
 
 #Timurid Governors of Kabul, sons of Soyurghatmish
 1443.1.1 = {

@@ -1,11 +1,11 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 3
 technology_group = muslim
 primary_culture = uzbehk
 add_accepted_culture = khorasani
 add_accepted_culture = persian
 religion = sunni
-government = monarchy
-add_government_reform = iqta
-government_rank = 3
 capital = 454 # Samarkand
 historical_rival = DLH
 historical_rival = MUL
