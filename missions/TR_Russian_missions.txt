@@ -290,10 +290,8 @@ tr_russia_conquest_1 = {
 			if = {
 				limit = {
 					4148 = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 				}
 				4148 = {
@@ -303,10 +301,8 @@ tr_russia_conquest_1 = {
 			if = {
 				limit = {
 					1777 = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 				}
 				1777 = {
@@ -316,10 +312,8 @@ tr_russia_conquest_1 = {
 			if = {
 				limit = {
 					33 = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 				}
 				33 = {
@@ -329,10 +323,8 @@ tr_russia_conquest_1 = {
 			34 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -340,10 +332,8 @@ tr_russia_conquest_1 = {
 			1961 = {
 				if = {
 					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
+						NOT = {	is_permanent_claim = ROOT }
+						NOT = {	is_core = ROOT }
 					}
 					add_permanent_claim = ROOT
 				}
@@ -926,12 +916,14 @@ tr_russia_conquest_2 = {
 		provinces_to_highlight = {
 			region = khorasan_region
 			NOT = {
-			    area = mashhad_area
-				area = tambov_area
-				province_id = 434
-				province_id = 2233
-				province_id = 4325
-				province_id = 6129
+				OR = {
+					area = mashhad_area
+				    area = tambov_area
+				    province_id = 434
+				    province_id = 2233
+				    province_id = 4325
+				    province_id = 6129
+				}
 			} 
 			NOT = {
 				country_or_non_sovereign_subject_holds = ROOT
@@ -1141,8 +1133,8 @@ tr_russia_conquest_3 = {
 		completed_by = 1572.8.2
 		provinces_to_highlight = {
 			area = tambov_area
+			NOT = {	owned_by = ROOT	}
 			NOT = {
-				owned_by = ROOT
 				OR = {
 					religion = ROOT
 					culture = ROOT
