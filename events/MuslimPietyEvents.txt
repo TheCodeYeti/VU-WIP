@@ -295,7 +295,6 @@ country_event = {
 		
 		ai_chance = {
 			factor = 50
-			factor = 50
 			modifier = {
 				factor = 2
 				NOT = { piety = -0.1 }
@@ -2035,11 +2034,11 @@ country_event = {
 				}
 				save_event_target_as = new_province
 			}
-			export_to_variable = {
-				which = new_province_development
-				value = trigger_value:development
-				who = event_target:new_province
-			}
+			#export_to_variable = {
+			#	which = new_province_development
+			#	value = trigger_value:development
+			#	who = event_target:new_province
+			#}
 		}
 	}
 	
@@ -2084,23 +2083,23 @@ country_event = {
 				is_year = 1650
 			}
 		}
-		
-		custom_tooltip = ME_move_dev_towards_legalism
-		hidden_effect = {
-			while = {
-				limit = {
-					check_variable = {
-						which = new_province_development
-						value = 0
-					}
-				}
-				add_piety = 0.01
-				subtract_variable = {
-					which = new_province_development
-					value = 1
-				}
-			}
-		}
+		add_piety = 0.1
+		#custom_tooltip = ME_move_dev_towards_legalism
+		#hidden_effect = {
+		#	while = {
+		#		limit = {
+		#			check_variable = {
+		#				which = new_province_development
+		#				value = 0
+		#			}
+		#		}
+		#		add_piety = 0.01
+		#		subtract_variable = {
+		#			which = new_province_development
+		#			value = 1
+		#		}
+		#	}
+		#}
 		event_target:new_province = {
 			add_province_modifier = {
 				name = "sufi_orders_in_check"
@@ -2140,22 +2139,23 @@ country_event = {
 				NOT = { dominant_religion = ROOT }
 			}
 		}
-		custom_tooltip = ME_move_dev_towards_mysticism
-		hidden_effect = {
-			while = {
-				limit = {
-					check_variable = {
-						which = new_province_development
-						value = 0
-					}
-				}
-				add_piety = -0.01
-				subtract_variable = {
-					which = new_province_development
-					value = 1
-				}
-			}
-		}
+		add_piety = -0.1
+		#custom_tooltip = ME_move_dev_towards_mysticism
+		#hidden_effect = {
+		#	while = {
+		#		limit = {
+		#			check_variable = {
+		#				which = new_province_development
+		#				value = 0
+		#			}
+		#		}
+		#		add_piety = -0.01
+		#		subtract_variable = {
+		#			which = new_province_development
+		#			value = 1
+		#		}
+		#	}
+		#}
 		event_target:new_province = {
 			add_province_modifier = {
 				name = "sufi_order_integration"
@@ -2163,12 +2163,12 @@ country_event = {
 			}
 		}
 	}
-	after = {
-		set_variable = {
-			which = new_province_development
-			value = 0
-		}
-	}
+	#after = {
+	#	set_variable = {
+	#		which = new_province_development
+	#		value = 0
+	#	}
+	#}
 }
 
 # "Disregard of the Sharia?"
