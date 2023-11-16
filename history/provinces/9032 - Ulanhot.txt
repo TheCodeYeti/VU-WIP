@@ -1,0 +1,22 @@
+owner = JLD
+controller = JLD
+add_core = JLD
+culture = khorchin
+religion = vajrayana
+capital = "Ulanhot"
+trade_goods = livestock
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+
+

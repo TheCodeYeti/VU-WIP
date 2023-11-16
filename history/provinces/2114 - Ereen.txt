@@ -1,8 +1,6 @@
-# 2114 - Ereen
-
-owner = KHA
-controller = KHA
-add_core = KHA
+owner = AIM
+controller = AIM
+add_core = AIM
 culture = mongol
 religion = vajrayana
 capital = "Ereen"
@@ -14,8 +12,11 @@ base_manpower = 6
 is_city = yes
 center_of_trade = 2
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1552.1.1 = {
@@ -35,4 +36,3 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1682.1.1 = { discovered_by = SPA }

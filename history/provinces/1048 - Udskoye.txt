@@ -1,10 +1,8 @@
-#1048 - Udskoye
-
-owner = NVK
-controller = NVK
-add_core = NVK
-culture = evenk
-religion = tengri_pagan_reformed
+owner = NEG
+controller = NEG
+add_core = NEG
+culture = nivkh
+religion = siberian
 capital = "Miyoo Gasan"
 trade_goods = fur
 hre = no
@@ -12,10 +10,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-#discovered_by = dutch_tech_group
 
-1542.1.1 = { discovered_by = POR }
-1643.1.1 = { discovered_by = RUS } # Vasily Poyarkov
+
+
+
 
 1653.1.1 = {
 	owner = RUS

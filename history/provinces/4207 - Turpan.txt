@@ -1,8 +1,8 @@
 #X2 - Turpan
 
-owner = CHG		# ruled by a Chagataiid 
-controller = CHG
-add_core = CHG
+owner = OLO
+controller = OLO
+add_core = OLO
 culture = uyghur
 religion = nestorian	#Turpan and Balikul were sites where nestorian followers concentrated. Result of early christian missions to far East
 capital = "Balikul"
@@ -14,8 +14,11 @@ base_manpower = 4
 is_city = yes
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1570.1.1 = {
@@ -31,7 +34,7 @@ discovered_by = chinese
 	controller = ZUN
 	add_core = ZUN
 }
-1709.1.1 = { discovered_by = SPA }
+
 1755.1.1 = {
 	owner = QNG
 	controller = QNG

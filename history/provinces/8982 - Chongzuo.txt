@@ -1,0 +1,18 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = zhuang
+religion = mahayana
+capital = "Chongzuo"
+trade_goods = spices
+hre = no
+base_tax = 7  
+base_production = 7
+base_manpower = 7
+is_city = yes
+fort_15th = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian
+

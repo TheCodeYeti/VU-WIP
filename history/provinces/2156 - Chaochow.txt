@@ -3,7 +3,7 @@
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = chimin
+culture = minnan
 religion = taoism
 capital = "Chaochow"
 trade_goods = chinaware
@@ -13,11 +13,14 @@ base_production = 12
 base_manpower = 4
 is_city = yes
 add_core = MIN
+center_of_trade = 1
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-1444.1.1 = { discovered_by = RYU }
-1514.1.1 = { discovered_by = POR }
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
+
+
 
 1647.4.1 = {
 	owner = QNG

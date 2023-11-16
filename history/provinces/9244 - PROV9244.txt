@@ -1,0 +1,21 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = MIN
+culture = minnan
+religion = mahayana
+capital = "Fuqing"
+trade_goods = fish
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 6
+is_city = yes
+
+
+
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = japanese
+

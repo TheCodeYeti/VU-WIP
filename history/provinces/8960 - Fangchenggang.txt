@@ -1,0 +1,18 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = YUE
+culture = cantonese
+religion = taoism
+capital = "Fangchenggang"
+trade_goods = pearls
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian
+

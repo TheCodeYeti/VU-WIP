@@ -1,0 +1,14 @@
+owner = OIR
+controller = OIR
+add_core = OIR
+culture = buryat
+religion = tengri_pagan_reformed
+capital = "Baykalsk"
+trade_goods = horses
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group

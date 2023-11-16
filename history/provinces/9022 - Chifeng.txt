@@ -1,0 +1,19 @@
+owner = NAI
+controller = NAI
+add_core = NAI
+culture = chakhar
+religion = vajrayana
+capital = "Chifeng"
+trade_goods = horses
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 4
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+
+

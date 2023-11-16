@@ -1,0 +1,19 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = YUE
+culture = cantonese
+religion = mahayana
+capital = "Huidong"
+trade_goods = rice
+hre = no
+base_tax = 9
+base_production = 9
+base_manpower = 6
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian
+
+

@@ -1,0 +1,16 @@
+owner = NGL
+controller = NGL
+add_core = NGL
+culture = ersu
+religion = tantra
+capital = "Mianning"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = indian
+#discovered_by = nomad_group

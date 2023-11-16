@@ -3,21 +3,22 @@
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = WUU
-culture = wu
+culture = chu_qu
 religion = confucianism
 capital = "Jingdezhen"
 trade_goods = lumber
 hre = no
-base_tax = 2
-base_production = 1
-base_manpower = 2
+base_tax = 5
+base_production = 5
+base_manpower = 5
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1595.1.1 = { discovered_by = SPA }
+
+
+
 
 1646.2.1 = {
 	owner = QNG

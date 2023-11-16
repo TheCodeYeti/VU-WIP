@@ -2376,9 +2376,58 @@ eastern = {
 		harmonized_modifier = harmonized_taoism
 	}
 	
+	wuism = {
+		color = { 139 15 255 }
+		icon = 11
+		allowed_conversion = {
+			mahayana
+			confucianism
+			taoism
+		}
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		province = {
+			
+		}
+		
+		heretic = { SNAKE_CLAN }
+		
+		harmonized_modifier = harmonized_wuism
+	}
+		
+	bimoism = { 
+		color = { 35 101 255 }
+		icon = 12
+		allowed_conversion = {
+			mahayana
+			buddhism
+			confucianism
+			taoism
+		}
+		country = {
+			
+		}
+		province = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+
+		fetishist_cult = yes
+		heretic = { GOAT_SKULL }
+
+		harmonized_modifier = harmonized_bimoism
+	}
+	
 	#bon moved to asian_pagan_group
 	
 	crusade_name = CRUSADE
+
 }
 
 
@@ -3139,32 +3188,32 @@ pagan = {
 		heretic = { GOAT_SKULL }
 	}
 	
-	#siberian = {		#Not added yet
-	#	color = { 206 217 223 }
-	#	icon = 1
-	#
-	#	country = {
-	#		tolerance_own = 1
-	#		global_unrest = -1
-	#		loot_amount = 0.25
-	#		hostile_attrition = 1.0
-	#	}
-	#	province = {
-	#		local_missionary_strength = 0.01
-	#		supply_limit_modifier = -0.1
-	#	}
-	#	country_as_secondary = {
-	#		tolerance_own = 2
-	#		loot_amount = 0.25
-	#		global_unrest = -1
-	#		hostile_attrition = 1.0
-	#	}
-	#
-	#	personal_deity = yes
-	#	can_have_secondary_religion = yes
-	#
-	#	heretic = { Tuurngait Erlik }
-	#}
+	siberian = {		#Not added yet
+		color = { 206 217 223 }
+		icon = 1
+	
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+			loot_amount = 0.25
+			hostile_attrition = 1.0
+		}
+		province = {
+			local_missionary_strength = 0.01
+			supply_limit_modifier = -0.1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+			global_unrest = -1
+			hostile_attrition = 1.0
+		}
+	
+		personal_deity = yes
+		can_have_secondary_religion = yes
+	
+		heretic = { Tuurngait Erlik }
+	}
 
 	totemism = {
 		color = { 127 115 115 }

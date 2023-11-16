@@ -1,0 +1,13 @@
+owner = KRR
+controller = KRR
+add_core = KRR
+culture = oirats
+religion = vajrayana
+capital = "Qinggil"
+trade_goods = salt
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+#discovered_by = chinese
+#discovered_by = nomad_group

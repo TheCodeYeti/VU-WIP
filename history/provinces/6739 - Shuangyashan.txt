@@ -1,10 +1,8 @@
-#6739 - Shuangyashan
-
-owner = MJZ
-controller = MJZ
-add_core = MJZ
-culture = manchu
-religion = confucianism
+owner = KII
+controller = KII
+add_core = KII
+culture = orochic
+religion = siberian
 capital = "Shuangyashan"
 trade_goods = iron
 hre = no
@@ -12,8 +10,10 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1616.1.1 = {	
@@ -28,4 +28,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+

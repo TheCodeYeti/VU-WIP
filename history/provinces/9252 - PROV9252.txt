@@ -1,0 +1,16 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = CHC
+culture = xiang
+religion = confucianism
+capital = "Xiangtan"
+trade_goods = fish
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 4
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group

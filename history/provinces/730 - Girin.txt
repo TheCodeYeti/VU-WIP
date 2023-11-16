@@ -1,5 +1,3 @@
-#730 - Girin
-
 owner = MHX
 controller = MHX
 add_core = MHX
@@ -12,10 +10,13 @@ base_tax = 10
 base_production = 10
 base_manpower = 10
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
 extra_cost = 16
 center_of_trade = 3
+
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
 
 1613.2.1 = {
 	owner = MJZ
@@ -35,4 +36,4 @@ center_of_trade = 3
 	remove_core = MCH
 	capital = "Jilin"
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+

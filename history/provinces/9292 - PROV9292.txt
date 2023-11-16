@@ -1,0 +1,17 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = miao
+religion = wuism
+capital = "Pingshui"
+trade_goods = silk
+hre = no
+base_tax = 3  
+base_production = 3 
+base_manpower = 2
+is_city = yes
+
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian

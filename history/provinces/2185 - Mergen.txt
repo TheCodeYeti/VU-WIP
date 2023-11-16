@@ -1,9 +1,7 @@
-# 2185 - Mergen
-
-owner = NHX
-controller = NHX
-add_core = NHX
-culture = manchu
+owner = DGU
+controller = DGU
+add_core = DGU
+culture = dagur
 religion = tengri_pagan_reformed
 capital = "Mergen"
 trade_goods = lumber
@@ -14,9 +12,10 @@ base_manpower = 4
 is_city = yes
 
 
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
 
 
 1613.2.1 = {
@@ -37,4 +36,3 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }

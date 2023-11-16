@@ -1,23 +1,25 @@
-#6749 - Daliandao
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = shandong_culture
+add_core = LIA
+culture = liao
 religion = confucianism
 capital = "Daliandao"
 trade_goods = fish
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 5
 is_city = yes
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 
 1620.1.1 = {
 	owner = MCH

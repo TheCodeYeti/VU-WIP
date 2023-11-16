@@ -1,24 +1,23 @@
-#6853 - Zhongyaocun
-
-
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = LNG
-culture = zhongyuan
-religion = confucianism
+add_core = TNG
+culture = luo_song
+religion = mahayana
 capital = "Zhongyaocun"
 trade_goods = opium
 hre = no
-base_tax = 4
-base_production = 5
-base_manpower = 5
+base_tax = 10
+base_production = 10
+base_manpower = 6
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1608.1.1 = { discovered_by = SPA }
+
+
+
 
 1628.1.1 = { unrest = 6 } # Li Zicheng rebellion
 1641.1.1 = { revolt = { type = anti_tax_rebels size = 0 } controller = REB }

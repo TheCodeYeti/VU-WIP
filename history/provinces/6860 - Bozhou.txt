@@ -1,22 +1,19 @@
-#6860 - Bozhou
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = zhongyuan
+add_core = LNG
+culture = zheng_kai
 religion = confucianism
 capital = "Bozhou"
 trade_goods = fruit
 hre = no
-base_tax = 3
-base_production = 1
-base_manpower = 3
+base_tax = 6
+base_production = 6
+base_manpower = 5
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-
-1608.1.1 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
 1645.6.1 = {
 	owner = QNG

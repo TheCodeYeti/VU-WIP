@@ -1,0 +1,17 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = jianghuai
+religion = confucianism
+capital = "Jin'An"
+trade_goods = fruit
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 8
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+

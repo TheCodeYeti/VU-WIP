@@ -559,10 +559,15 @@ caucasia_region = {
 		shirvan_area
 		armenia_area
 		dagestan_area
+		qazakh_area
+		ardabil_area
+		mtskheta_area
+		caucasia_stepp_area
 		imereti_area
 		samtskhe_area
 	}
 }
+
 
 arabia_region = {
 	areas = {
@@ -994,6 +999,7 @@ west_siberia_region = {
 		ishim_area
 		kara_area
 		aqmola_area
+		tannu_uriankhai_area
 	}
 }
 
@@ -1011,32 +1017,26 @@ east_siberia_region = {
 mongolia_region = {
 	areas = {
 		outer_mongolia_area
-		inner_mongolia_area
-		ordos_area
-		zungaria_area
-		north_zungaria
 		altai_sayan_area
-		eastern_mongolia
 		central_mongolia_area
 		uliastai_area
-		turpan_kumul_area
-		tannu_uriankhai_area
-		xilin_gol_area
-		chahar_area
-		cicigar_area
 	}
 }
 
 manchuria_region = {
 	areas = {
-		heilongjiang_area
-		east_heilongjiang_area
-		jilin_area
-		central_jilin_area
-		ilan_hala_area
-		liaoning_area
+	    heilongjiang_area	
 		ningguta_area
+		jilin_area
+		south_heilongjiang_area
 		central_heilongjiang_area
+	}
+}
+
+outer_manchuria_region = {
+	areas = {
+		east_heilongjiang_area
+		ilan_hala_area
 		sakhalin_area
 		furdan_area
 	}
@@ -1059,14 +1059,28 @@ korea_region = {
 	}
 }
 
-tibet_region = {
+tibet_region = { 
 	areas = {
 		utsang_area
 		tsang_area
-		amdo_area
 		kham_area
 		bhutan_area
 		ngari_area
+	}
+}
+
+kham_region = { 
+	areas = {
+		kham_area
+		xikang_area
+		east_kham_area
+	}
+}
+
+qinghai_region = {
+	areas = {
+		amdo_area
+		qinghai_area
 	}
 }
 
@@ -1252,23 +1266,8 @@ australia_region = {
 	}
 }
 
-
-south_china_region = {
+taiwan_region = {
 	areas = {
-		guangdong_area
-		west_guangdong_area
-		hainan_area
-		hangzhou_area
-		fujian_area
-		jiangxi_area
-		huguang_area
-		zhejiang_area
-		shanghai_area
-		central_huainan_area
-		south_anhui_area
-		south_jiangsu_area
-		hunan_area
-		guangxi_area
 		taiwan_area #moved from philippine region
 	}
 	monsoon = {
@@ -1277,33 +1276,264 @@ south_china_region = {
 	}
 }
 
-xinan_region = {
+hubei_region = {
 	areas = {
-		sichuan_area
-		yun_gui_area
-		chuannan_area
-		yun_gui_borderland_area
-		chuanbei_area
+		huguang_area
+		west_hubei_area
+		central_hubei_area
+		north_hubei_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
 	}
 }
 
-north_china_region = {
-
+anhui_region = {
 	areas = {
-		hebei_area
-		south_hebei_area
-		shandong_area
-		yanzhou_area
-		qingzhou_area
-		henan_area
-		shanxi_area
-		gansu_area
-		shaanxi_area
-		north_henan_area
-		west_gansu_area
+		south_anhui_area
+		central_anhui_area
 		anhui_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+jiangxi_region = {
+	areas = {
+		jiangxi_area
+		west_jiangxi_area 
+		south_jiangxi_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+fujian_region = {
+	areas = {		
+		fujian_area
+	    south_fujian_area 
+		west_fujian_area 
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+guangxi_region = {
+	areas = {
+		guangxi_area
+		north_guangxi_area
+		east_guangxi_area	
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+hunan_region = {
+	areas = {
+		hunan_area
+		northwest_hunan_area 
+		central_hunan_area 
+		southeast_hunan_area		
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+
+jiangsu_region = {
+	areas = {
+		shanghai_area
+		central_huainan_area
+		south_jiangsu_area
 		jiangsu_area
 		central_zhili_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+zhejiang_region = {
+	areas = {
+        zhejiang_area
+		east_zhejiang_area
+		hangzhou_area		
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+hainan_region = {
+	areas = {
+		hainan_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+guangdong_region = {
+	areas = {
+		guangdong_area
+		west_guangdong_area
+		central_guangdong_area
+		north_guangdong_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+sichuan_region = {
+	areas = {
+		sichuan_area
+		east_sichuan_area
+		north_sichuan_area
+		chuannan_area 
+		chuanbei_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+yunnan_region = {
+	areas = {
+		yun_gui_area
+		yun_gui_borderland_area
+		west_yunnan_area
+		south_eastern_yunnan_area
+		north_yunnan_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+guizhou_region = {
+	areas = {
+		north_guizhou_area
+		south_guizhou_area
+		east_guizhou_area
+	}
+	monsoon = {
+		00.05.01
+		00.06.30
+	}
+}
+
+southern_inner_mongolia_region = {
+	areas = {
+		southern_inner_mongolia_area
+	}
+}
+
+liaoning_region = {
+	areas = {
+		liaoning_area
+		north_liaoning_area
+	}
+}
+
+inner_mongolia_region = {
+	areas = {
+		central_inner_mongolia_area
+		western_inner_mongolia_area
+		eastern_inner_mongolia_area
+	}
+}
+
+xinjiang_region = {
+	areas = {
+		kashgaria_area
+		tarim_basin_area
+		shanshan_area
+		zungaria_area
+		north_zungaria
+		turpan_kumul_area
+	}
+}
+
+gansu_region = {
+	areas = {
+		gansu_area
+		central_gansu_area
+		west_gansu_area		
+		ningxia_area
+	}
+}
+
+shanxi_region = {
+	areas = {
+		shanxi_area
+		south_shanxi_area
+	}
+}
+
+shaanxi_region = {
+	areas = {
+		shaanxi_area
+        north_shaanxi_area
+	}
+}
+
+shandong_region = {
+	areas = {
+		shandong_area
+		central_shandong_area
+		north_shandong_area
+	}
+}
+
+hebei_region = {
+	areas = {
+		hebei_area
+        south_hebei_area
+		yanzhou_area
+	}
+}
+
+henan_region = {
+	areas = {
+		henan_area
+		north_henan_area 
+		west_henan_area
+	}
+}
+
+gobi_desert_region = {
+	areas = {
+        gobi_desert_area
+	}
+}
+
+ordos_desert_region = {
+	areas = {
+        ordos_desert_area
+	}
+}
+
+altay_desert_region = {
+	areas = {
+        altay_desert_area
 	}
 }
 
@@ -2287,6 +2517,12 @@ niger_river_region = {
 	}
 }
 
+congo_river_region = {
+	areas = {
+		congo_river_area 
+	}
+}
+
 #Europe
 don_river_region = {
     areas = { 
@@ -2326,7 +2562,7 @@ neva_river_region = {
 
 rhine_river_region = {
     areas = { 
-	    danube_river_area
+		rhine_river_area
 	}
 }
 
@@ -2346,6 +2582,12 @@ oder_river_region = {
 vistula_river_region = {
     areas = {
 	    vistula_river_area
+	}
+}
+
+ob_river_region = {
+    areas = {
+	    ob_river_area
 	}
 }
 

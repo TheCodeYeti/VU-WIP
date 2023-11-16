@@ -1,0 +1,14 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = CHC
+culture = xiang
+religion = confucianism
+capital = "Dongyang"
+trade_goods = fruit
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+

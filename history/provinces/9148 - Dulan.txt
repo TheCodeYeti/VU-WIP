@@ -1,0 +1,15 @@
+owner = RWO
+controller = RWO
+add_core = RWO
+culture = amdo
+religion = tantra
+capital = "Dulan"
+trade_goods = lead
+hre = no
+base_tax = 2  
+base_production = 2 
+base_manpower = 2
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian

@@ -1,0 +1,13 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = NNG
+culture = gan
+religion = confucianism
+capital = "Pingjiang"
+trade_goods = citrus
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 5
+is_city = yes

@@ -1,0 +1,20 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = nisu
+religion = bimoism
+capital = "Dehong"
+trade_goods = citrus
+hre = no
+base_tax = 3  
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = CDL
+#discovered_by = chinese
+#discovered_by = indian
+#discovered_by = nomad_group
+
+
+
+

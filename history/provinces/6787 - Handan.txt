@@ -1,23 +1,23 @@
-#6787 - Handan
-
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = QIC
-culture = shandong_culture
+add_core = LII
+culture = shiji
 religion = confucianism
 capital = "Handan"
 trade_goods = grain
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 5
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+
+
+
 
 1644.4.1 = { owner = CSH controller = CSH } # The Shun dynasty of Li Zicheng
 1644.11.1 = {

@@ -1,5 +1,3 @@
-#6825 - Yantai
-
 owner = MNG
 controller = MNG
 add_core = MNG
@@ -9,16 +7,21 @@ religion = confucianism
 capital = "Yantai"
 trade_goods = naval_supplies
 hre = no
-base_tax = 4
-base_production = 3
-base_manpower = 3
+base_tax = 5
+base_production = 5
+base_manpower = 4
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 
 1644.4.1 = { owner = CSH controller = CSH } # The Shun dynasty of Li Zicheng
 1644.11.1 = {

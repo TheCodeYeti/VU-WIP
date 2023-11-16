@@ -1,8 +1,7 @@
-# 2169 - Langzhong
-
 owner = MNG
 controller = MNG
 add_core = MNG
+add_core = SHU
 culture = sichuanese
 religion = taoism
 capital = "Langzhong"
@@ -10,14 +9,14 @@ trade_goods = grain
 hre = no
 base_tax = 4 
 base_production = 4
-base_manpower = 2 
+base_manpower = 4
 is_city = yes
-add_core = CXI
-add_core = SHU
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1644.10.1 = {
@@ -29,6 +28,6 @@ discovered_by = chinese
 	controller = QNG
 	add_core = QNG
 } # The Qing Conquest Continues 
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+
 1673.12.1 = { controller = CZH } # Three Feudatories revolt
 1681.10.1 = { controller = QNG }

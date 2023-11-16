@@ -1,0 +1,18 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = huizhou
+religion = confucianism
+capital = "Duchang"
+trade_goods = rice
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 6
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+

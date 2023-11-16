@@ -1,0 +1,20 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = WEI
+culture = nan_gui
+religion = confucianism
+capital = "Yongnian"
+trade_goods = grain
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 6
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+

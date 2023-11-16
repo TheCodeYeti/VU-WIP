@@ -1,9 +1,8 @@
-#692 - Handan
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = jin
+add_core = WEI
+culture = nan_gui
 religion = confucianism
 capital = "Huaiqing"
 trade_goods = grain
@@ -14,15 +13,17 @@ base_manpower = 4
 is_city = yes
 add_core = JIN
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 add_permanent_province_modifier = {
 	name = grand_canal_modifier
 	duration = -1
 }
 
-1608.1.1 = { discovered_by = SPA }
+
 
 1630.1.1 = { revolt_risk = 6 } # Li Zicheng rebellion
 1644.3.1 = { revolt_risk = 0 controller = CSH }

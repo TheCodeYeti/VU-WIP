@@ -1,0 +1,21 @@
+owner = BAA
+controller = BAA
+add_core = BAA
+culture = manchu
+religion = tengri_pagan_reformed
+capital = "Linkou"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+
+
+

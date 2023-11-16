@@ -3,22 +3,26 @@
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = WUU
-culture = wu
-religion = taoism
+add_core = CHN
+culture = taizhou
+religion = mahayana
 capital = "Taizhou"
 trade_goods = fruit
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 7
+base_production = 7
+base_manpower = 7
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1595.1.1 = { discovered_by = SPA }
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 
 1646.2.1 = {
 	owner = QNG

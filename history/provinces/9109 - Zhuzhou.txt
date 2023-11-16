@@ -1,0 +1,17 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = CHC
+culture = xiang
+religion = confucianism
+capital = "Zhuzhou"
+trade_goods = naval_supplies
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 5
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+

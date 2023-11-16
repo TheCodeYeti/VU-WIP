@@ -1,23 +1,23 @@
-#6804 - Sanmenxia
-
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = CSH
-add_core = QIN
-culture = xibei
+add_core = SHG
+culture = guanzhong
 religion = confucianism
 capital = "Sanmenxia"
 trade_goods = horses
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 1
+base_tax = 7
+base_production = 7
+base_manpower = 7
 is_city = yes
 
 fort_15th = yes #More than 1 Weisuo
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 1628.1.1 = { unrest = 6 } # Li Zicheng rebellion
 1644.1.1 = {
@@ -30,5 +30,5 @@ discovered_by = chinese
 	controller = QNG
 	add_core = QNG
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+
 1662.1.1 = { remove_core = MNG }

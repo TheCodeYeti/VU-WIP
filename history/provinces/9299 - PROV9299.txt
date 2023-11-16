@@ -1,0 +1,16 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = yong_quan
+religion = wuism
+capital = "Anren"
+trade_goods = fruit
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+

@@ -1,0 +1,22 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = WUU
+culture = taihu
+religion = confucianism
+capital = "Tongling"
+trade_goods = paper
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 7
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+
+
+

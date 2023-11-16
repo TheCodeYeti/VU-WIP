@@ -1,0 +1,17 @@
+# 8865 - Ongniud
+
+owner = OGG
+controller = OGG
+add_core = OGG
+culture = chakhar
+religion = vajrayana
+capital = "Ongniud"
+trade_goods = copper
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 4
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+add_core = CHH

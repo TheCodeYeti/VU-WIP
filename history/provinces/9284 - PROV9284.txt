@@ -1,0 +1,16 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = cantonese
+religion = confucianism
+capital = "Qingcheng"
+trade_goods = sake
+hre = no
+base_tax = 10
+base_production = 10
+base_manpower = 10
+is_city = yes
+add_core = CDL
+#discovered_by = chinese
+#discovered_by = nomad_group
+center_of_trade = 1

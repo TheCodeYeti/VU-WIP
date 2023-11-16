@@ -1,23 +1,26 @@
-# 2149 - Ningbo
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = wu
+add_core = CHN
+culture = taizhou
 religion = confucianism
 capital = "Ningbo"
 trade_goods = naval_supplies
 hre = no
-base_tax = 12
-base_production = 14
-base_manpower = 6
+base_tax = 15
+base_production = 15
+base_manpower = 10
 is_city = yes
 add_core = WUU
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
 extra_cost = 8
 center_of_trade = 3
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
 
 add_permanent_province_modifier = {
     name = navalbase_modifier_4
@@ -34,7 +37,7 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+
 1646.2.1 = {
 	owner = QNG
 	controller = QNG

@@ -1,10 +1,8 @@
-# 2193 - Govi
-
 owner = OIR
 controller = OIR
 add_core = OIR
-culture = khalkha
-religion = tengri_pagan_reformed
+culture = mongol
+religion = vajrayana
 capital = "Govi"
 trade_goods = livestock
 hre = no
@@ -12,8 +10,11 @@ base_tax = 2
 base_production = 2 
 base_manpower = 2 
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1552.1.1 = {
@@ -26,7 +27,7 @@ discovered_by = chinese
 	controller = KLK
 	add_core = KLK
 }
-1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest
+
 1688.1.1 = {
 	owner = ZUN
 	controller = ZUN

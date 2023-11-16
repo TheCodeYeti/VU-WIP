@@ -1,8 +1,6 @@
-#2405 - Khara Narin Ula
-
-owner = KHA
-controller = KHA
-add_core = KHA 
+owner = TMD
+controller = TMD
+add_core = TMD
 culture = mongol
 religion = vajrayana
 capital = "Khara Narin Ula"
@@ -12,8 +10,10 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1543.1.1 = { unrest = 8 } # Fighting broke out between the Mongols
@@ -35,4 +35,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1682.1.1 = { discovered_by = SPA }
+

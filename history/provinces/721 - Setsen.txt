@@ -1,10 +1,8 @@
-#721 - Dornod
-
 owner = KHA
 controller = KHA
 add_core = KHA
-culture = khalkha
-religion = tengri_pagan_reformed
+culture = mongol
+religion = vajrayana
 capital = "Setsen"
 trade_goods = livestock
 hre = no
@@ -12,8 +10,10 @@ base_tax = 4
 base_production = 2 
 base_manpower = 4
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1543.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Fighting broke out between the Mongols
@@ -21,7 +21,7 @@ discovered_by = chinese
 	revolt = {}
 	controller = KHA
 } # The Oirads are defeated & Mongolia is reunited under Altan Khan
-1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest
+
 1688.1.1 = {
 	owner = ZUN
 	controller = ZUN
@@ -31,4 +31,4 @@ discovered_by = chinese
 	controller = QNG
 	add_core = QNG
 } # Kangxi leads Qing army pushing Zunghars back
-1709.1.1 = { discovered_by = SPA }
+

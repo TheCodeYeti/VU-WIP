@@ -16,17 +16,22 @@ historical_idea_groups = {
 }
 
 historical_units = {
-
-
-
-
-
-
-
-
-
-
-
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 monarch_names = {
@@ -40,8 +45,6 @@ monarch_names = {
 	"Junayd #0" = 10
 	"Farrukh #0" = 10
  	"Khalilullah #0" = 10
-
-
 	"Adila #0" = -3
 	"Malahat #0" = -3
 	"Ummugulsum #0" = -1
@@ -63,10 +66,6 @@ monarch_names = {
 	"Zainab #0" = -1
 	"Zainab #0" = -1
 	"Fatemeh #0" = -1
-
-
-
-
 }
 
 leader_names = {

@@ -12,8 +12,10 @@ base_tax = 6
 base_production = 4
 base_manpower = 6
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1473.1.1 = {
@@ -54,7 +56,7 @@ discovered_by = chinese
 	controller = ZUN
 	add_core = ZUN
 }
-1709.1.1 = { discovered_by = SPA }
+
 1755.1.1 = {
 	owner = QNG
 	controller = QNG

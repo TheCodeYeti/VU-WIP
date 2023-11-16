@@ -1,0 +1,16 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = QIA
+culture = qiang
+religion = mahayana
+capital = "Zhangzha"
+trade_goods = lead
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+

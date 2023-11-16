@@ -1,9 +1,7 @@
-#720 - Tshiyet Noyan
-
-owner = KHA
-controller = KHA
-add_core = KHA
-culture = khalkha
+owner = AIM
+controller = AIM
+add_core = AIM
+culture = mongol
 religion = tengri_pagan_reformed
 capital = "Dornogovi"
 trade_goods = copper
@@ -13,8 +11,10 @@ base_production = 2
 base_manpower = 4
 is_city = yes
 add_core = OIR
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1510.1.1 = {
@@ -28,7 +28,7 @@ discovered_by = chinese
 	add_core = KLK
 }
 1639.1.1 = { capital = "Urga" }
-1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest
+
 1688.1.1 = {
 	owner = ZUN
 	controller = ZUN
@@ -39,4 +39,4 @@ discovered_by = chinese
 	add_core = QNG
 } # Kangxi leads Qing army pushing Zunghars back
 1706.1.1 = { capital = "Khuree" }
-1709.1.1 = { discovered_by = SPA }
+

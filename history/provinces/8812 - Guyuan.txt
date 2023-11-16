@@ -1,0 +1,34 @@
+# 8812 - Guyuan
+
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = HUI
+culture = lanyin
+religion = confucianism
+capital = "Guyuan"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+1644.1.1 = {
+	revolt_risk = 0
+	owner = CSH
+	controller = CSH
+} # Li Zicheng's Shun empire
+1645.2.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+

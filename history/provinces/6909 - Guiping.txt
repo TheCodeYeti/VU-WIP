@@ -4,19 +4,22 @@ owner = MNG
 controller = MNG
 add_core = MNG
 culture = zhuang
-religion = confucianism
+religion = taoism
 capital = "Kweiping"
 trade_goods = cinnamon
 hre = no
-base_tax = 2
-base_production = 1
-base_manpower = 1
+base_tax = 8
+base_production = 8
+base_manpower = 8
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
 
-1595.1.1 = { discovered_by = SPA }
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
+
+
 
 1656.2.1 = {
 	owner = QNG

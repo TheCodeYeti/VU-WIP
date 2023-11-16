@@ -1,8 +1,6 @@
-#6736 - Suihua
-
-owner = MHX
-controller = MHX
-add_core = MHX
+owner = SGN
+controller = SGN
+add_core = SGN
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Suihua"
@@ -12,8 +10,11 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1613.2.1 = {
@@ -34,4 +35,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+

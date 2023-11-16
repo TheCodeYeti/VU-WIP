@@ -1,23 +1,26 @@
-#6837 - Lianyungang
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = jianghuai
+add_core = ZHA
+culture = xu_huai
 religion = confucianism
 capital = "Lianyungang"
 trade_goods = gunpowder
 hre = no
-base_tax = 5
-base_production = 4
-base_manpower = 4
+base_tax = 8
+base_production = 8
+base_manpower = 6
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 1645.6.1 = {
 	owner = QNG
 	controller = QNG

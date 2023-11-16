@@ -3,23 +3,25 @@
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = CYI
-culture = yi
-religion = animism
+culture = miao
+religion = wuism
 capital = "Guiyang"
 trade_goods = lead
 hre = no
-base_tax = 6 
-base_production = 6
-base_manpower = 4
+base_tax = 7
+base_production = 7
+base_manpower = 6
 is_city = yes
 add_core = CDL
+center_of_trade = 1
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+
+
+
 
 1658.4.1 = {
 	owner = QNG

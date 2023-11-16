@@ -1,0 +1,17 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = CHN
+culture = taizhou
+religion = mahayana
+capital = "Sanmen"
+trade_goods = fish
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 6
+is_city = yes
+
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = japanese

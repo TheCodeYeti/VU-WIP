@@ -1,0 +1,21 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = jin
+religion = mahayana
+capital = "Fanshi"
+trade_goods = silver
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+add_core = JIN
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+
+

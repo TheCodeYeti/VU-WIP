@@ -1,0 +1,18 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = cantonese
+religion = taoism
+capital = "Huizhou"
+trade_goods = tropical_wood
+hre = no
+base_tax = 10
+base_production = 10
+base_manpower = 8
+is_city = yes
+add_core = HUA
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+

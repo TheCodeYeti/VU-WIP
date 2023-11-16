@@ -4,21 +4,23 @@ owner = MNG
 controller = MNG
 add_core = MNG
 culture = zhuang
-religion = taoism
+religion = mahayana
 capital = "Liuzhou"
 trade_goods = salt
 hre = no
-base_tax = 6 
-base_production = 6
-base_manpower = 4
+base_tax = 9
+base_production = 9
+base_manpower = 7
 is_city = yes
+center_of_trade = 1
+
+
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
 
-1595.1.1 = { discovered_by = SPA }
 
 1656.2.1 = {
 	owner = QNG

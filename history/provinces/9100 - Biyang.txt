@@ -1,0 +1,14 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = TNG
+culture = luo_song
+religion = confucianism
+capital = "Biyang"
+trade_goods = livestock
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+#discovered_by = chinese
+#discovered_by = nomad_group

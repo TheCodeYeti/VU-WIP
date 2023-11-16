@@ -1,21 +1,22 @@
-#6857 - Zhumadian
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = zhongyuan
+add_core = TNG
+culture = luo_song
 religion = confucianism
 capital = "Zhumadian"
 trade_goods = apiculture
 hre = no
-base_tax = 2 
-base_production = 1
-base_manpower = 1
+base_tax = 6
+base_production = 6
+base_manpower = 5
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1601.1.1 = { discovered_by = SPA }
+
+
+
 
 1645.6.1 = {
 	owner = QNG

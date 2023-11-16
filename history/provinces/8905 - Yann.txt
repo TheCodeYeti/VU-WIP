@@ -1,0 +1,19 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = SHU
+culture = sichuanese
+religion = confucianism
+capital = "Yann"
+trade_goods = glass
+hre = no
+base_tax = 10
+base_production = 11
+base_manpower = 10
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+

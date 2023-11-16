@@ -1,10 +1,8 @@
-#727 - Aigun
-
-owner = NHX
-controller = NHX
-add_core = NHX
-culture = manchu
-religion = tengri_pagan_reformed
+owner = SSE
+controller = SSE
+add_core = SSE
+culture = oroqen
+religion = siberian
 capital = "Aigun"
 trade_goods = fur
 hre = no
@@ -14,9 +12,10 @@ base_manpower = 6
 is_city = yes
 
 
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+
 
 
 1613.2.1 = {
@@ -37,4 +36,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+

@@ -1864,7 +1864,7 @@ province;red;green;blue;x;x
 1863;84;56;32;Graz;x
 1864;212;58;79;Somogy;x
 1865;84;60;126;Ghent;x
-1866;212;62;173;Namur ;x
+1866;212;62;173;Namur;x
 1867;84;64;32;Freiburg;x
 1868;212;66;79;Augsburg;x
 1869;84;68;126;Zürich;x
@@ -3302,49 +3302,49 @@ province;red;green;blue;x;x
 3301;219;166;64;Dorogobuzhii;x
 3302;10;116;7;Bakhmut;x
 3303;103;253;255;Mologa;x
-3304;219;32;114;UnusedLand114;
-3305;219;32;115;UnusedLand115;
-3306;219;32;116;UnusedLand116;
-3307;219;32;117;UnusedLand117;
-3308;219;32;118;UnusedLand118;
-3309;219;32;119;UnusedLand119;
-3310;219;32;120;UnusedLand120;
-3311;219;32;121;UnusedLand121;
-3312;219;32;122;UnusedLand122;
-3313;219;32;123;UnusedLand123;
-3314;219;32;124;UnusedLand124;
-3315;219;32;125;UnusedLand125;
-3316;219;32;126;UnusedLand126;
-3317;219;32;127;UnusedLand127;
-3318;219;32;128;UnusedLand128;
-3319;219;32;129;UnusedLand129;
-3320;219;32;130;UnusedLand130;
-3321;219;32;131;UnusedLand131;
-3322;219;32;132;UnusedLand132;
-3323;219;32;133;UnusedLand133;
-3324;219;32;134;UnusedLand134;
-3325;219;32;135;UnusedLand135;
-3326;219;32;136;UnusedLand136;
-3327;219;32;137;UnusedLand137;
-3328;219;32;138;UnusedLand138;
-3329;219;32;139;UnusedLand139;
-3330;219;32;140;UnusedLand140;
-3331;219;32;141;UnusedLand141;
-3332;219;32;142;UnusedLand142;
-3333;219;32;143;UnusedLand143;
-3334;219;32;144;UnusedLand144;
-3335;219;32;145;UnusedLand145;
-3336;219;32;146;UnusedLand146;
-3337;219;32;147;UnusedLand147;
-3338;219;32;148;UnusedLand148;
-3339;219;32;149;UnusedLand149;
-3340;219;32;150;UnusedLand150;
-3341;219;32;151;UnusedLand151;
-3342;219;32;152;UnusedLand152;
-3343;219;32;153;UnusedLand153;
-3344;219;32;154;UnusedLand154;
-3345;219;32;155;UnusedLand155;
-3346;219;32;156;UnusedLand156;
+3304;219;32;114;Gagra;
+3305;229;32;115;Svan;
+3306;239;32;116;Gali;
+3307;249;32;117;Lazica;
+3308;255;92;118;Ossetia;
+3309;169;32;119;Ninotsminda;
+3310;179;32;120;Kazreti;
+3311;189;32;121;Khevsureti;
+3312;199;32;122;Pshavi;
+3313;109;32;123;Tusheti;
+3314;219;32;124;Qakh;
+3315;219;42;125;Hereti;
+3316;219;52;126;Astara;
+3317;219;62;127;Yardimli;
+3318;219;72;128;Salyan;
+3319;219;82;129;Gobustan;
+3320;219;92;130;Shamakhi;
+3321;219;102;131;Qabala;
+3322;219;112;132;Aghjabadi;
+3323;219;122;133;Barda;
+3324;219;132;134;Dargina;
+3325;219;142;135;Kaitag;
+3326;219;152;136;Qayagentli;
+3327;219;162;137;Lezgina;
+3328;219;172;138;Yurtovsky;
+3329;219;182;139;Shanjir;
+3330;219;192;140;Mozdok;
+3331;219;202;141;Ingushetia;
+3332;219;212;142;Kabardia Minor;
+3333;219;222;152;Podkumok;
+3334;219;232;153;Maikop;
+3335;219;242;254;Abadzekh;
+3336;255;197;16;Kola;
+3337;209;122;133;Kabardia Major;
+3338;119;52;163;Majar;
+3339;219;32;152;Temirgoy;
+3340;219;72;185;Besleney;
+3341;219;92;174;Stavropol;
+3342;219;142;154;Bzhedug;
+3343;219;242;155;Shanjir;
+3344;255;32;118;Adjara;
+3345;219;32;155;Karanogay;
+3346;219;82;156;Makhachkala;
 3347;219;32;157;UnusedLand157;
 3348;219;32;158;UnusedLand158;
 3349;219;32;159;UnusedLand159;
@@ -5171,10 +5171,10 @@ province;red;green;blue;x;x
 5170;100;200;14;Latakia;
 5171;100;200;164;Mihalic;
 5172;100;200;89;Philadelphia;
-5173;100;200;25;Aleut ;
+5173;100;200;25;Aleut;
 5174;100;200;100;Naugeik;
-5175;100;200;175;Curyuk ;
-5176;100;200;250;Mamterilleq ;
+5175;100;200;175;Curyuk;
+5176;100;200;250;Mamterilleq;
 5177;100;200;50;Unalaqliq;
 5178;100;200;125;Chinik;
 5179;234;233;16;Misima_Island;
@@ -5186,7 +5186,7 @@ province;red;green;blue;x;x
 5185;100;200;75;Suacit;
 5186;100;200;150;Koyuku;
 5187;100;200;225;Nuchalawoyyet;
-5188;200;100;25;Allakaket ;
+5188;200;100;25;Allakaket;
 5189;200;100;100;Chena;
 5190;200;100;175;Denyeet;
 5191;200;100;250;Gwichin;
@@ -5714,7 +5714,7 @@ province;red;green;blue;x;x
 5713;209;125;86;Norwich_ct;
 5714;186;228;20;Yorktown_ny;
 5715;106;206;56;Boke;
-5716;144;109;21;Conakry   ;
+5716;144;109;21;Conakry;
 5717;113;75;62;Matru;
 5718;198;226;194;Ho;
 5719;250;156;136;Anloga;
@@ -5918,12 +5918,12 @@ province;red;green;blue;x;x
 5917;199;199;109;Negeqliq;
 5918;199;199;184;Iqugmiut;
 5919;199;199;59;Nunam Iqua;
-5920;98;213;172;Long_Island_ny ;
-5921;30;145;113;Staten_Island_ny ;
-5922;218;144;196;Woodbury_ny ;
-5923;159;22;20;Newburgh_ny ;
-5924;112;172;85;Poughkeepsie_ny ;
-5925;245;141;76;Glens_Falls_ny ;
+5920;98;213;172;Long_Island_ny;
+5921;30;145;113;Staten_Island_ny;
+5922;218;144;196;Woodbury_ny;
+5923;159;22;20;Newburgh_ny;
+5924;112;172;85;Poughkeepsie_ny;
+5925;245;141;76;Glens_Falls_ny;
 5926;61;183;246;Central_Hudson_River_ny;
 5927;37;106;207;Upper_Hudson_River_ny;
 5928;10;179;238;Lake_George_ny;
@@ -5933,12 +5933,12 @@ province;red;green;blue;x;x
 5932;2;137;248;Raritan_River_nj;
 5933;22;40;155;Lower_Bay_nj;
 5934;3;127;155;Sandy_Hook_Bay_nj;
-5935;39;177;5;New_Brunswick_nj ;
-5936;203;43;5;Toms_River_nj ;
-5937;117;13;153;Bridgeton_nj ;
-5938;42;110;64;Allentown_pa ;
-5939;92;107;180;Reading_pa ;
-5940;231;7;54;Harrisburg_pa ;
+5935;39;177;5;New_Brunswick_nj;
+5936;203;43;5;Toms_River_nj;
+5937;117;13;153;Bridgeton_nj;
+5938;42;110;64;Allentown_pa;
+5939;92;107;180;Reading_pa;
+5940;231;7;54;Harrisburg_pa;
 5941;75;189;200;Susquehanna_River_pa;
 5942;74;130;238;Patuxent_River_va;
 5943;26;150;202;Upper_Potomac_River_va;
@@ -5949,16 +5949,16 @@ province;red;green;blue;x;x
 5948;43;44;218;Nansemond_River_va;
 5949;66;97;248;Elizabeth_River_va;
 5950;21;174;238;Burwell_Bay_va;
-5951;226;218;138;Petersburg_va ;
-5952;224;208;97;Williamsburg_va ;
-5953;210;153;109;West_Point_va ;
-5954;112;78;100;York_va ;
-5955;200;124;102;Charlottesville_va ;
-5956;11;176;93;Arlington_va ;
-5957;173;5;93;Alexandria_va ;
-5958;230;183;235;Annapolis_va ;
-5959;231;89;223;Elizabeth_City_nc ;
-5960;186;126;96;Plymouth_nc ;
+5951;226;218;138;Petersburg_va;
+5952;224;208;97;Williamsburg_va;
+5953;210;153;109;West_Point_va;
+5954;112;78;100;York_va;
+5955;200;124;102;Charlottesville_va;
+5956;11;176;93;Arlington_va;
+5957;173;5;93;Alexandria_va;
+5958;230;183;235;Annapolis_va;
+5959;231;89;223;Elizabeth_City_nc;
+5960;186;126;96;Plymouth_nc;
 5961;49;9;219;Croatan_Sound_nc;
 5962;93;86;208;Chowan_River_nc;
 5963;86;0;249;Aligator_River_nc;
@@ -5968,57 +5968,57 @@ province;red;green;blue;x;x
 5967;115;202;210;Perquimans_River_nc;
 5968;46;134;247;Pamlico_Sound_nc;
 5969;161;107;38;Wilmington_de;
-5970;134;212;37;Cumberland_md ;
-5971;51;226;138;Easton_md ;
-5972;98;52;23;Salisbury_md ;
-5973;107;153;120;Elkton_md ;
-5974;197;203;157;Cambridge_md ;
-5975;230;77;163;Chincoteague_md ;
-5976;250;211;75;Warwick_ri ;
-5977;223;61;181;Newport_ri ;
+5970;134;212;37;Cumberland_md;
+5971;51;226;138;Easton_md;
+5972;98;52;23;Salisbury_md;
+5973;107;153;120;Elkton_md;
+5974;197;203;157;Cambridge_md;
+5975;230;77;163;Chincoteague_md;
+5976;250;211;75;Warwick_ri;
+5977;223;61;181;Newport_ri;
 5978;186;36;8;Providence;
-5979;249;178;28;Bridgeport_ct ;
-5980;129;166;78;Middletown_ct ;
+5979;249;178;28;Bridgeport_ct;
+5980;129;166;78;Middletown_ct;
 5981;6;165;28;New_London_ct;
-5982;238;81;32;Waterbury_ct ;
+5982;238;81;32;Waterbury_ct;
 5983;36;117;151;Upper_Connecticut_River_ct;
 5984;98;105;104;Manchester_ct;
 5985;12;67;192;Lower_Connecticut_River_ct;
-5986;13;77;31;Fall_River_ma ;
-5987;61;207;131;New_Bedford_ma ;
-5988;98;79;223;Barnstable_ma ;
-5989;191;87;14;Plymouth_ma ;
-5990;253;191;207;Concord_nh ;
-5991;215;43;112;Keene_nh ;
-5992;94;187;180;Waycross_ga ;
-5993;150;193;48;Houma_la ;
-5994;209;115;92;Ocala_fl ;
-5995;126;193;181;Wewahitchka_fl ;
-5996;94;247;145;Lake_City_fl ;
-5997;243;129;42;Orlando_fl ;
-5998;175;42;59;Daytona_fl  ;
+5986;13;77;31;Fall_River_ma;
+5987;61;207;131;New_Bedford_ma;
+5988;98;79;223;Barnstable_ma;
+5989;191;87;14;Plymouth_ma;
+5990;253;191;207;Concord_nh;
+5991;215;43;112;Keene_nh;
+5992;94;187;180;Waycross_ga;
+5993;150;193;48;Houma_la;
+5994;209;115;92;Ocala_fl;
+5995;126;193;181;Wewahitchka_fl;
+5996;94;247;145;Lake_City_fl;
+5997;243;129;42;Orlando_fl;
+5998;175;42;59;Daytona_fl;
 5999;126;112;7;Spring_Hill_fl;
-6000;74;113;179;Lakeland_fl ;
-6001;244;100;114;Sarasota_fl ;
+6000;74;113;179;Lakeland_fl;
+6001;244;100;114;Sarasota_fl;
 6002;158;199;31;Fort_Meyers_fl;
-6003;77;107;109;Everglades_fl ;
-6004;213;32;46;Fort_Lauderdale_fl ;
-6005;4;130;207;Palm_Beach_fl ;
-6006;10;187;88;Key_West_fl ;
-6007;166;200;150;Columbus_ga ;
-6008;254;30;91;Macon_ga ;
-6009;244;67;8;Athens_ga ;
-6010;188;205;110;Andros_Island_bs ;
-6011;108;8;37;Grand_Bahama_bs ;
-6012;251;98;122;Great_Abaco_bs ;
-6013;122;92;178;Eleuthera_Island_bs ;
-6014;229;38;170;Cat_Island_bs ;
-6015;67;129;44;Great_Exuma_bs ;
-6016;184;157;157;Rum_Cay_Island_bs ;
-6017;211;21;62;Crooked_Island_bs ;
-6018;7;191;206;Upper_Delaware_River_nj ;
-6019;159;119;42;Trenton_nj ;
-6020;171;81;70;Lancaster_va ;
+6003;77;107;109;Everglades_fl;
+6004;213;32;46;Fort_Lauderdale_fl;
+6005;4;130;207;Palm_Beach_fl;
+6006;10;187;88;Key_West_fl;
+6007;166;200;150;Columbus_ga;
+6008;254;30;91;Macon_ga;
+6009;244;67;8;Athens_ga;
+6010;188;205;110;Andros_Island_bs;
+6011;108;8;37;Grand_Bahama_bs;
+6012;251;98;122;Great_Abaco_bs;
+6013;122;92;178;Eleuthera_Island_bs;
+6014;229;38;170;Cat_Island_bs;
+6015;67;129;44;Great_Exuma_bs;
+6016;184;157;157;Rum_Cay_Island_bs;
+6017;211;21;62;Crooked_Island_bs;
+6018;7;191;206;Upper_Delaware_River_nj;
+6019;159;119;42;Trenton_nj;
+6020;171;81;70;Lancaster_va;
 6021;2;220;223;Block_Island_Sound;
 6022;97;144;252;Narraganset_Bay;
 6023;3;178;223;Buzzards_Bay;
@@ -6037,8 +6037,8 @@ province;red;green;blue;x;x
 6036;75;67;219;Lower_St_Lawrence_River;
 6037;59;94;142;Upper_St_Lawrence_River;
 6038;52;58;157;Passamaquoddy_Bay;
-6039;132;116;7;Gloucester_va ;
-6040;232;173;6;Outer_Banks_nc ;
+6039;132;116;7;Gloucester_va;
+6040;232;173;6;Outer_Banks_nc;
 6041;51;172;254;Lake_Winnipesaukee;
 6042;39;63;191;Lake_Sebago;
 6043;85;142;231;Lake_Moosehead;
@@ -6179,7 +6179,7 @@ province;red;green;blue;x;x
 6178;178;198;80;Narangga;
 6179;222;212;202;Kangaroo Island;
 6180;78;227;125;Kaurna;
-6181;124;118;25;Banggarla ;
+6181;124;118;25;Banggarla;
 6182;99;54;245;Nawu;
 6183;207;111;51;Andyamathanha;
 6184;71;243;22;Wirangu;
@@ -6191,7 +6191,7 @@ province;red;green;blue;x;x
 6190;189;123;112;West Nullarbor Plain;
 6191;240;191;175;East Mirning;
 6192;138;2;19;West Mirning;
-6193;96;219;216;Pila Nguru ;
+6193;96;219;216;Pila Nguru;
 6194;82;100;68;Ngatjumay;
 6195;192;23;11;Noongar;
 6196;92;110;243;Amangu;
@@ -6678,7 +6678,7 @@ province;red;green;blue;x;x
 6677;22;5;191;Qarun_Lake;
 6678;6;132;231;Lough_Neagh;
 6679;42;29;188;Buhiye_River;
-6680;250;160;211;Bang_Lamung ;
+6680;250;160;211;Bang_Lamung;
 6681;67;122;193;Phimai;
 6682;233;231;60;Bang_Narom;
 6683;144;40;1;Chachoengsao;
@@ -6916,7 +6916,7 @@ province;red;green;blue;x;x
 6915;223;247;223;Mo_Cay;
 6916;112;236;94;Can_Tho;
 6917;160;184;113;Long_Xuyen;
-6918;201;168;98;My_Hiep ;
+6918;201;168;98;My_Hiep;
 6919;138;10;28;Cao_Lanh;
 6920;217;28;140;Chrum;
 6921;205;27;185;Loiet;
@@ -7052,7 +7052,7 @@ province;red;green;blue;x;x
 7051;200;200;81;Volterra;
 7052;200;200;156;AlbaPiedmont;
 7053;200;200;236;Finale;
-7054;200;200;31;Oneglia ;
+7054;200;200;31;Oneglia;
 7055;200;200;106;LaSpezia;
 7056;200;200;181;MonacoVentimiglia;
 7057;200;200;56;Piacenza;
@@ -7194,10 +7194,10 @@ province;red;green;blue;x;x
 7193;112;1;1;Ichki;
 7194;50;200;50;Kinburn;
 7195;50;200;125;Berezan;
-7196;50;200;200;Ekaterinoslav ;
+7196;50;200;200;Ekaterinoslav;
 7197;50;200;75;Voznesensk;
 7198;50;200;150;KryvyiRih;
-7199;50;200;225;Kropyvnytskyi ;
+7199;50;200;225;Kropyvnytskyi;
 7200;100;50;25;KyzylYar;
 7201;100;50;100;Mariupol;
 7202;100;50;175;Donetsk;
@@ -7334,11 +7334,11 @@ province;red;green;blue;x;x
 7333;70;73;217;Central_Japura_River;
 7334;5;165;185;Orinoco_Delta;
 7335;26;74;249;Orinoco_River;
-7336;36;49;228;Mississippi_Delta    ;
+7336;36;49;228;Mississippi_Delta;
 7337;15;194;202;Lower_Mississippi_River;
 7338;108;175;196;Rio_Grande_River;
 7339;77;161;205;Hudson_River;
-7340;84;234;227;Central_St_Lawrence_River ;
+7340;84;234;227;Central_St_Lawrence_River;
 7341;27;76;119;Niagara_River;
 7342;67;217;248;Detroit_River;
 7343;66;157;229;Lake_St_Clair;
@@ -7364,7 +7364,7 @@ province;red;green;blue;x;x
 7363;9;60;145;Janjanbureh;
 7364;122;171;28;Banjul;
 7365;28;88;93;Brikama;
-7366;121;240;159;Upper River  ;
+7366;121;240;159;Upper River;
 7367;235;23;20;Kolda;
 7368;201;252;73;Cacheu;
 7369;126;184;87;Oio;
@@ -7493,7 +7493,7 @@ province;red;green;blue;x;x
 7492;240;193;221;Pool;
 7493;117;245;97;Bouenza;
 7494;103;192;210;Kisangani;
-7495;84;121;157;Nyanga ;
+7495;84;121;157;Nyanga;
 7496;157;131;99;Petsamo;
 7497;30;141;88;Kivu;
 7498;79;114;210;Siebethsburg;
@@ -7901,7 +7901,7 @@ province;red;green;blue;x;x
 7900;150;150;23;Beziers;
 7901;150;150;98;Castres;
 7902;219;219;227;AnatolianMountains;
-7903;150;150;248;Tudela ;
+7903;150;150;248;Tudela;
 7904;150;150;48;Albi;
 7905;150;150;123;Millhau;
 7906;150;150;198;Gevaudan;
@@ -8428,120 +8428,120 @@ province;red;green;blue;x;x
 8427;69;198;6;Manjeri;
 8428;85;142;9;Kodagu;
 8429;207;202;173;Dharmapuri;
-8430;80;30;73;Bro Sant Malou ;
-8431;63;69;66;Belle-Ile ;
-8432;208;224;26;Vimoutiers ;
-8433;84;140;225;Ile de Re ;
-8434;251;178;51;Saint-Georges d Oleron ;
-8435;139;185;101;Royan ;
-8436;6;241;90;Mirande ;
-8437;196;155;101;Sancerre ;
-8438;230;158;37;Aumale ;
+8430;80;30;73;Bro Sant Malou;
+8431;63;69;66;Belle-Ile;
+8432;208;224;26;Vimoutiers;
+8433;84;140;225;Ile de Re;
+8434;251;178;51;Saint-Georges d Oleron;
+8435;139;185;101;Royan;
+8436;6;241;90;Mirande;
+8437;196;155;101;Sancerre;
+8438;230;158;37;Aumale;
 8439;8;215;67;Clermont;
-8440;111;187;154;Sens ;
-8441;221;5;205;Tonnerre ;
-8442;240;136;8;Langres ;
-8443;252;23;83;Mirecourt ;
-8444;114;66;247;Kintzheim ;
-8445;207;21;156;Neuchatel ;
-8446;13;227;23;Huningue ;
-8447;99;230;100;Murbach  ;
-8448;41;130;66;Neufchateau ;
-8449;25;132;16;Geispitzen ;
-8450;77;199;193;Vic-sur-Seille ;
-8451;54;13;30;Colmar ;
-8452;231;118;60;Blamont ;
-8453;83;189;11;Luneville ;
-8454;225;171;21;Isola d Elba ;
-8455;72;1;150;Saint Mihiel ;
-8456;242;145;61;Thillombois ;
-8457;21;59;156;Clermont en Argonne ;
-8458;133;122;234;Deneuvre ;
-8459;21;9;106;Amneville ;
-8460;104;170;165;Thionville ;
-8461;143;63;51;Forbach ;
-8462;14;233;249;Saint Avold ;
-8463;12;153;64;Lutzelstein ;
-8464;16;175;241;Saar Werden ;
-8465;153;36;13;Fenestrange ;
-8466;164;106;127;Dagsburg ;
-8467;237;27;67;Speyer ;
-8468;65;173;169;Fleckenstein ;
-8469;168;113;164;Landau ;
-8470;99;145;79;Homburg ;
-8471;19;38;56;Kaiserslautern ;
-8472;231;117;138;Kreuznach ;
-8473;219;243;184;Neustadt ;
-8474;4;253;144;St Wendel ;
-8475;6;187;170;Mannheim ;
-8476;4;199;65;Leiningen ;
-8477;254;60;146;Frankenthal ;
-8478;67;92;200;Bergzabern ;
-8479;176;4;48;Nurburg ;
-8480;174;203;16;Saarlouis ;
-8481;207;205;44;Oberstein ;
-8482;177;142;147;Merzig  ;
-8483;204;43;22;Simmern ;
-8484;153;167;221;Bopard ;
-8485;7;29;104;Sankt Goar ;
-8486;45;172;117;Neuss ;
-8487;234;30;185;Etain ;
-8488;247;194;43;Longuio ;
-8489;250;95;37;Longwy ;
-8490;169;251;0;Cuijk ;
-8491;194;131;208;Sedan ;
-8492;3;124;226;Stolberg ;
-8493;65;142;120;Willich ;
-8494;220;58;114;Bonn ;
-8495;200;46;99;Prum ;
-8496;16;162;104;Spa ;
-8497;97;161;85;Seraing ;
-8498;182;12;44;Volklingen ;
-8499;71;90;59;Epinal ;
-8500;74;91;41;Fumay ;
-8501;133;198;5;Givet ;
-8502;150;13;35;Chimay ;
-8503;111;115;98;Charleroi ;
-8504;209;166;70;Die ;
-8505;149;102;105;Mons ;
-8506;86;100;166;Roermond ;
-8507;201;206;147;Wavre ;
-8508;42;159;93;Gembloux ;
-8509;168;29;77;Hoegaarden ;
-8510;116;170;28;Tienen ;
-8511;57;111;28;Hasselt ;
-8512;28;179;84;Heerlen ;
-8513;40;14;216;Kranenburg ;
-8514;241;52;190;Krefeld ;
-8515;186;107;185;Mechelen ;
-8516;178;62;63;Bergen op Zoom ;
-8517;48;162;95;Tilburg ;
-8518;203;121;55;Bruges ;
-8519;179;3;184;Ferrette ;
-8520;69;156;31;Neuenburg ;
-8521;192;251;217;Biel ;
-8522;2;105;100;Lausanne ;
-8523;217;189;76;Villingen ;
-8524;231;249;228;Lorrach ;
-8525;56;38;79;Zug ;
-8526;85;213;113;Aarau ;
-8527;1;210;80;Brienz ;
-8528;12;230;240;Thun ;
-8529;141;22;161;Lucerne ;
-8530;64;92;249;Olten ;
+8440;111;187;154;Sens;
+8441;221;5;205;Tonnerre;
+8442;240;136;8;Langres;
+8443;252;23;83;Mirecourt;
+8444;114;66;247;Kintzheim;
+8445;207;21;156;Neuchatel;
+8446;13;227;23;Huningue;
+8447;99;230;100;Murbach;
+8448;41;130;66;Neufchateau;
+8449;25;132;16;Geispitzen;
+8450;77;199;193;Vic-sur-Seille;
+8451;54;13;30;Colmar;
+8452;231;118;60;Blamont;
+8453;83;189;11;Luneville;
+8454;225;171;21;Isola d Elba;
+8455;72;1;150;Saint Mihiel;
+8456;242;145;61;Thillombois;
+8457;21;59;156;Clermont en Argonne;
+8458;133;122;234;Deneuvre;
+8459;21;9;106;Amneville;
+8460;104;170;165;Thionville;
+8461;143;63;51;Forbach;
+8462;14;233;249;Saint Avold;
+8463;12;153;64;Lutzelstein;
+8464;16;175;241;Saar Werden;
+8465;153;36;13;Fenestrange;
+8466;164;106;127;Dagsburg;
+8467;237;27;67;Speyer;
+8468;65;173;169;Fleckenstein;
+8469;168;113;164;Landau;
+8470;99;145;79;Homburg;
+8471;19;38;56;Kaiserslautern;
+8472;231;117;138;Kreuznach;
+8473;219;243;184;Neustadt;
+8474;4;253;144;St Wendel;
+8475;6;187;170;Mannheim;
+8476;4;199;65;Leiningen;
+8477;254;60;146;Frankenthal;
+8478;67;92;200;Bergzabern;
+8479;176;4;48;Nurburg;
+8480;174;203;16;Saarlouis;
+8481;207;205;44;Oberstein;
+8482;177;142;147;Merzig;
+8483;204;43;22;Simmern;
+8484;153;167;221;Bopard;
+8485;7;29;104;Sankt Goar;
+8486;45;172;117;Neuss;
+8487;234;30;185;Etain;
+8488;247;194;43;Longuio;
+8489;250;95;37;Longwy;
+8490;169;251;0;Cuijk;
+8491;194;131;208;Sedan;
+8492;3;124;226;Stolberg;
+8493;65;142;120;Willich;
+8494;220;58;114;Bonn;
+8495;200;46;99;Prum;
+8496;16;162;104;Spa;
+8497;97;161;85;Seraing;
+8498;182;12;44;Volklingen;
+8499;71;90;59;Epinal;
+8500;74;91;41;Fumay;
+8501;133;198;5;Givet;
+8502;150;13;35;Chimay;
+8503;111;115;98;Charleroi;
+8504;209;166;70;Die;
+8505;149;102;105;Mons;
+8506;86;100;166;Roermond;
+8507;201;206;147;Wavre;
+8508;42;159;93;Gembloux;
+8509;168;29;77;Hoegaarden;
+8510;116;170;28;Tienen;
+8511;57;111;28;Hasselt;
+8512;28;179;84;Heerlen;
+8513;40;14;216;Kranenburg;
+8514;241;52;190;Krefeld;
+8515;186;107;185;Mechelen;
+8516;178;62;63;Bergen op Zoom;
+8517;48;162;95;Tilburg;
+8518;203;121;55;Bruges;
+8519;179;3;184;Ferrette;
+8520;69;156;31;Neuenburg;
+8521;192;251;217;Biel;
+8522;2;105;100;Lausanne;
+8523;217;189;76;Villingen;
+8524;231;249;228;Lorrach;
+8525;56;38;79;Zug;
+8526;85;213;113;Aarau;
+8527;1;210;80;Brienz;
+8528;12;230;240;Thun;
+8529;141;22;161;Lucerne;
+8530;64;92;249;Olten;
 8531;203;179;55;Blaye;
-8532;149;45;90;Willisau ;
-8533;100;213;146;Tuttlingen ;
-8534;243;90;54;Winterthur ;
-8535;159;118;72;Jestetten ;
-8536;170;224;87;Vaduz ;
-8537;64;103;49;Kreuzlingen ;
-8538;8;34;121;Tiengen ;
-8539;102;1;213;Schaffhausen ;
-8540;65;126;48;Singen ;
-8541;244;165;220;Herisau ;
-8542;200;200;154;Meran ;
-8543;54;189;8;Rottach ;
+8532;149;45;90;Willisau;
+8533;100;213;146;Tuttlingen;
+8534;243;90;54;Winterthur;
+8535;159;118;72;Jestetten;
+8536;170;224;87;Vaduz;
+8537;64;103;49;Kreuzlingen;
+8538;8;34;121;Tiengen;
+8539;102;1;213;Schaffhausen;
+8540;65;126;48;Singen;
+8541;244;165;220;Herisau;
+8542;200;200;154;Meran;
+8543;54;189;8;Rottach;
 8544;200;150;44;Weda;
 8545;200;150;119;Crozet Islands;
 8546;200;150;194;Putussibau;
@@ -8792,3 +8792,536 @@ province;red;green;blue;x;x
 8791;109;55;162;Wittstock;x
 8792;43;119;80;Beeskow;x
 8793;90;77;16;Niemegk;x
+8794;35;75;200;Yellow_River_1;x
+8795;0;196;143;Yellow_River_2;x
+8796;54;97;196;Yellow_River_3;x
+8797;50;50;210;Ordos_Loop_1;x
+8798;75;50;150;Ordos_Loop_2;x
+8799;75;200;225;Ordos_Loop_3;x
+8800;200;0;200;Yellow_River_4;x
+8801;255;150;159;Bayannur;x
+8802;125;50;75;Wuhai;x
+8803;225;0;0;Ordos_Desert;x
+8804;120;65;100;Shizuishan;x
+8805;255;196;147;Baotou;x
+8806;224;90;69;Xuejiawan;x
+8807;150;224;213;Shenmue;x
+8808;221;219;159;Southern_Gobi_Desert;x
+8809;145;138;202;Zhongwei;x
+8810;187;52;104;Zhongning;x
+8811;78;245;67;Wuzhong;x
+8812;34;194;24;Guyuan;x
+8813;7;204;169;Dingbian;x
+8814;134;45;78;Tongxin;x
+8815;178;39;72;Huan;x
+8816;78;198;11;Qingyang;x
+8817;255;132;203;Qingshui;x
+8818;0;93;255;Dingxi;x
+8819;255;131;117;Baiyin;x
+8820;242;255;191;Weiyuan;x
+8821;133;96;255;Gannan;x
+8822;255;21;0;Linxia;x
+8823;255;127;53;Longnan;x
+8824;97;145;134;Yongchang;x
+8825;198;226;142;Jingtai;x
+8826;255;0;34;Jingchang;x
+8827;175;219;203;Jiuquan;x
+8828;33;114;206;Ankang;x
+8829;216;178;171;Baoji;x
+8830;124;46;80;Shaanxi_Mountains;x
+8831;214;196;40;Foping;x
+8832;255;43;60;Shangluo;x
+8833;216;255;225;Tongchuan;x
+8834;255;255;117;Yulin;x
+8835;204;255;178;Weinan;x
+8836;220;175;255;Xianyang;x
+8837;255;96;128;Chengcheng;x
+8838;48;48;48;Chengcheng;x
+8839;255;35;38;South Alxa;x
+8840;181;135;28;Shanxi_Mountains;x
+8841;38;213;209;Jizhou;x
+8842;208;160;211;Yanqizhen;x
+8843;110;121;211;Miyun;x
+8844;168;178;58;Hebei_Mountains;x
+8845;146;209;115;Yuncheng;x
+8846;206;10;124;Pinglu;x
+8847;195;206;190;Yonghe;x
+8848;255;78;0;Luliang;x
+8849;255;233;2;Lingshi;x
+8850;255;222;61;Baodi;x
+8851;224;255;234;Jincheng;x
+8852;178;226;106;Xinzhou;x 
+8853;158;178;178;Shuozhou;x
+8854;255;186;43;Meiheko;x
+8855;255;228;216;Panjin;x
+8856;219;193;138;Naiman;x
+8857;207;255;124;Jiaozuo;x
+8858;137;107;254;Honningsvåg;x
+8859;70;192;134;Porsangr;x
+8860;183;46;42;Qahar;x
+8861;219;99;63;Kangbao;x
+8862;101;181;134;Bayan Obo;x
+8863;180;181;177;Dorbod;x
+8864;162;143;181;Sunud;x
+8865;181;77;167;Ongniud;x
+8866;181;142;70;Zamyn-Üüd;x
+8867;83;150;178;Subei;x
+8868;178;146;161;North_Alxa;x
+8869;178;171;37;Central_Gobi_Desert;x
+8870;219;61;92;Barkol_Mountains;x
+8871;158;155;151;Turpan_Desert;x
+8872;226;146;70;Toksun;x
+8873;174;219;155;Dabancheng_Mountains;x
+8874;183;169;216;Kuytun;x
+8875;127;0;55;Altay_Desert;x
+8876;138;226;138;Khukh-Uzuur;x
+8877;214;122;17;Karamay;x
+8878;171;161;33;Bayangol;x
+8879;131;170;46;Sayany;x
+8880;255;243;17;Ak-Dovurak;x
+8881;255;145;81;Qinggil;x
+8882;255;29;0;Züünkhangai;x
+8883;201;255;255;Naranbulag;x
+8884;186;217;255;Yangtze_River_1;x
+8885;117;142;255;Yangtze_River_2;x
+8886;174;117;255;Yangtze_River_3;x
+8887;108;102;124;Sichuan_Mountains;x
+8888;224;157;210;Wushan;x
+8889;224;176;134;Enshi;x
+8890;113;183;78;Zhenping;x
+8891;157;180;183;Dianjing;x
+8892;255;233;127;Guang'An;x
+8893;68;208;255;Nanchong;x
+8894;180;139;198;Bazhong;x
+8895;198;190;149;Wanyuan;x
+8896;125;117;198;Guangyuan;x
+8897;31;134;198;Nanchuan;x
+8898;198;3;0;Youyang;x
+8899;49;196;39;Suining;x
+8900;182;145;193;Zheng'An;x
+8901;79;193;193;Yibin;x
+8902;255;189;163;Mabian;x
+8903;187;168;193;Liangshan;x
+8904;193;32;51;Qingwei;x
+8905;72;191;112;Yann;x
+8906;76;127;255;Zigong;x
+8907;255;255;112;Neijiang;x
+8908;255;96;43;Ziyang;x
+8909;191;183;255;Meishan;x
+8910;255;234;153;Deyang;x
+8911;255;122;175;Mianyang;x
+8912;255;176;91;Zhuxi;x
+8913;192;255;104;Luoning;x
+8914;76;255;255;Baokang;x
+8915;144;224;100;Danjiangkou;x
+8916;224;184;212;Nanzang;x
+8917;212;224;132;Jingmen;x
+8918;212;210;221;Zigui;x 
+8919;59;41;160;Songxi;x 
+8920;160;141;65;Anxiang;x
+8921;160;160;155;Huancheng;x
+8922;119;160;24;Shuanghezhen;x
+8923;158;0;15;Huangpi;x
+8924;44;221;224;Huanggang;x
+8925;157;224;208;Lushi;x
+8926;224;159;159;Xinye;x
+8927;188;186;224;Suizhou;x
+8928;13;224;164;Queshan;x
+8929;90;141;221;Yuexi;x
+8930;221;113;169;Susong;x
+8931;221;188;2;Jin'An;x 
+8932;255;57;43;Diqing;x
+8933;255;246;0;Muli;x
+8934;227;255;175;Tibetan_Mountains;x
+8935;124;79;0;Fugong;x
+8936;43;120;255;Gan_Tributary;x
+8937;255;112;99;Lianxi;x
+8938;124;37;2;Fujian_Mountains;x
+8939;255;84;109;Gutian;x
+8940;171;218;242;Xiang_Tributary;x
+8941;98;153;247;Wei_Tributary;x
+8942;124;17;33;Jiangxi_Mountains;x
+8943;14;124;31;Jishui;x
+8944;204;255;250;Yihuang;x
+8945;255;132;250;Ningdu;x
+8946;255;211;35;Pingxiang;x
+8947;255;56;82;Lukou;x
+8948;122;28;43;Hunan_Mountains;x
+8949;0;208;255;Yuan_Tributary;x
+8950;255;233;214;Baojing;x
+8951;111;255;63;Nanmu;x
+8952;234;162;37;Shenzihu;x
+8953;102;122;255;Meijiang;x
+8954;255;68;124;Sanmen;x
+8955;6;124;61;Chun'An;x
+8956;127;219;194;Nujiang;x
+8957;57;122;61;Dehong;x
+8958;178;0;255;Lincang;x
+8959;255;158;158;Baoshan;x
+8960;225;255;204;Fangchenggang;x
+8961;255;176;137;Qinzhou;x
+8962;138;255;89;Beihai;x
+8963;174;255;117;Wenshan;x
+8964;188;255;250;Honghe;x
+8965;66;66;255;Yuxi;x
+8966;239;0;0;Caobazhen;x
+8967;239;235;162;Chuxiong;x
+8968;239;194;228;Qianxinan;x
+8969;227;239;115;Liupanshui;x
+8970;239;83;107;Zhaotong;x
+8971;129;239;234;Panzhihua;x
+8972;237;191;187;Yanyuan;x
+8973;237;147;56;Anshun;x
+8974;220;182;237;Bijie;x
+8975;237;57;54;Zunyi;x
+8976;252;242;174;Sinan;x
+8977;252;179;100;Jiangkou;x 
+8978;206;178;39;Qiannan;x
+8979;206;147;95;Qiandongnan;x
+8980;148;204;126;Majing;x
+8981;171;204;199;Ziyun;x
+8982;255;61;151;Chongzuo;x
+8983;145;255;218;Baise;x
+8984;213;255;107;Napo;x
+8985;142;255;124;Xilin;x
+8986;255;30;30;Leye;x
+8987;216;255;237;Donglan;x
+8988;166;239;93;Laibin;x
+8989;255;114;168;Jinsha;x
+8990;232;255;248;Fenggang;x
+8991;204;157;83;Tianzhu;x
+8992;204;8;14;Fuquan;x
+8993;255;222;58;Yuzhou;x
+8994;255;202;142;Guigang;x
+8995;183;234;255;Wuzhow;x
+8996;144;178;135;Hechi;x
+8997;178;48;126;Heshan;x
+8998;101;172;178;Luocheng;x
+8999;124;88;64;Congjian;x
+9000;255;145;112;Zhaoping;x
+9001;200;255;145;Zhongshan;x
+9002;234;255;165;Hezhou;x
+9003;158;255;22;Yongfu;x
+9004;250;173;255;Luchuan;x
+9005;142;119;132;Yunfu;x
+9006;45;142;107;Huizhou;x
+9007;142;91;88;Heyuan;x
+9008;255;76;97;Shantou;x
+9009;255;173;227;Zijin;x
+9010;234;255;206;Fengshun;x
+9011;255;205;140;Lianping;x
+9012;221;211;66;Qingyuan;x
+9013;144;221;189;Fogang;x
+9014;215;214;219;Yangshan;x
+9015;180;39;219;Ruyuan;x
+9016;170;147;145;Baykalsk;x
+9017;216;108;106;Tangyuan;x
+9018;214;190;104;Qing'An;x
+9019;31;21;214;Linkou;x
+9020;169;214;149;Jiamusi;x
+9021;191;113;103;Mudanjiang;x
+9022;99;216;93;Chifeng;x
+9023;216;198;0;Tongliao;x
+9024;149;151;173;Jalaid;x
+9025;165;35;28;Horqin;x
+9026;162;165;56;Bairin;x
+9027;94;165;126;Holingol;x
+9028;41;165;97;Zalantun;x
+9029;165;74;98;Xigou;x
+9030;255;178;127;Nenjiang;x
+9031;255;112;56;Dayangshuzhen;x
+9032;239;255;102;Ulanhot;x
+9033;255;68;99;Amursk;x
+9034;61;112;255;Birobidzhan;x
+9035;155;255;89;Mukhen;x
+9036;255;215;107;Ogodzha;x
+9037;255;145;200;Maanshan;x
+9038;255;96;99;Qingyang;x
+9039;221;236;255;Dongzhi;x
+9040;129;255;56;Xiuning;x
+9041;255;112;155;Qimen;x
+9042;234;142;255;Tongling;x
+9043;23;124;16;Nanling;x
+9044;255;220;84;Deqing;x
+9045;153;117;130;Dongtou;x
+9046;55;120;153;Yueqing;x
+9047;255;238;155;Ninghai;x
+9048;156;255;58;Xiangshan;x
+9049;255;35;35;Shengzhou;x
+9050;255;173;181;Lishui;x
+9051;244;126;90;Jingning;x
+9052;244;208;217;Songyang;x
+9053;244;153;134;Changshan;x
+9054;124;45;0;Yunnan_Mountains;x
+9055;167;255;150;Danyang;x 
+9056;38;175;66;Meizhou;x
+9057;255;227;45;Zhangzhou;x
+9058;255;38;0;Xiamen;x
+9059;182;12;255;Zhangpu;x
+9060;255;184;53;Longyan;x
+9061;25;52;255;Xianyou;x
+9062;226;255;140;Sanming;x
+9063;153;255;236;Nanping;x
+9064;169;255;22;Pingnan;x
+9065;179;165;255;Zhangping;x
+9066;255;129;122;Liancheng;x
+9067;255;226;63;Shunchang;x
+9068;170;255;91;Qingliu;x
+9069;255;50;5;Wuqiu;x
+9070;255;218;173;Lienchiang;x
+9071;135;0;255;Luoyang;x
+9072;255;84;0;Shanrao;x
+9073;255;248;153;Duchang;x
+9074;255;30;38;Yingtan;x
+9075;201;255;178;Nanfeng;x
+9076;255;117;86;Chongren;x
+9077;122;228;255;Anyi;x
+9078;140;255;157;Yifeng;x
+9079;130;167;255;Shangao;x
+9080;247;191;255;Xiajiang;x
+9081;255;15;227;Ruijin;x
+9082;255;230;109;Shicheng;x
+9083;255;219;153;Benxi;x
+9084;255;160;168;Heishan;x
+9085;255;96;149;Zhuanghe;x
+9086;255;160;119;Ji'An;x
+9087;49;206;41;Dashiqiao;x
+9088;156;206;197;Qianxi;x
+9089;57;122;206;Anping;x
+9090;206;88;88;Xingtang;x
+9091;206;255;88;Yongnian;x
+9092;255;144;33;Linzhou;x
+9093;139;180;224;Guangling;x
+9094;178;118;224;Fanshi;x
+9095;218;224;177;Shanyin;x
+9096;221;18;0;Changzhi;x
+9097;217;221;137;Jinzhong;x
+9098;221;141;115;Yangquan;x
+9099;220;181;224;Tanghe;x
+9100;38;113;0;Biyang;x
+9101;221;202;53;Tangpo;x
+9102;226;178;133;Xinyu;x
+9103;182;92;224;Yichun;x
+9104;114;239;110;Tongshan;x
+9105;239;31;0;Linxiang;x
+9106;252;252;153;Pingjiang;x
+9107;219;78;221;Hanchuan;x
+9108;159;198;204;Dongyang;x
+9109;221;0;48;Zhuzhou;x
+9110;79;174;221;Hengshan;x
+9111;145;221;104;Hengdong;x
+9112;93;97;221;Liling;x
+9113;221;148;84;Chenzhou;x
+9114;184;221;133;Guanyuan;x
+9115;221;139;66;Yizhang;x
+9116;89;219;46;Yongzhou;x
+9117;219;202;146;Cili;x
+9118;145;216;146;Sangzhi;x
+9119;239;121;31;Xiangtan;x
+9120;239;177;207;Loudi;x
+9121;180;237;228;Shaoyang;x
+9122;237;66;83;Huaihua;x
+9123;234;237;151;Anhua;x
+9124;237;83;80;Taojiang;x
+9125;229;234;164;Nan;x
+9126;255;226;112;Dafeng;x
+9127;255;214;231;Rugong;x
+9128;255;17;140;Hanshan;x
+9129;163;255;193;Huangdao;x
+9130;255;155;94;Xinyi;x
+9131;179;255;165;Guannan;x
+9132;234;205;247;Chuzhou;x
+9133;247;243;121;Tianchang;x
+9134;247;63;56;Zhouqu;x
+9135;255;221;33;Tewo;x
+9136;255;206;117;Aksay;x
+9137;124;109;98;Kunlun_Mountains;x
+9138;252;106;137;Xihaizi;x
+9139;155;66;123;Mangya;x
+9140;117;155;115;Amdo_Mountains;x
+9141;132;255;150;Danghe;x
+9142;255;191;200;Golmud;x
+9143;255;130;217;Qilian;x
+9144;211;45;0;Menyuan;x
+9145;255;43;128;Haibei;x
+9146;151;255;40;Tianjun;x
+9147;198;240;255;Hainan;x
+9148;17;152;235;Dulan;x
+9149;234;221;138;Madoi;x
+9150;232;120;83;Golog;x
+9151;232;60;74;Ngawa;x
+9152;142;40;0;Yushu;x
+9153;51;132;140;Nangqên;x
+9154;101;206;125;Yajiang;x
+9155;206;121;95;Danba;x
+9156;199;206;198;Jiulong;x
+9157;67;59;206;Derong;x
+9158;54;0;0;Uttarakhand;x
+9159;127;51;0;Nepal;x
+9160;239;28;99;Ge'Gyai;x
+9161;239;132;45;Gar;x
+9162;139;198;117;Kangmar;x
+9163;87;122;198;Nyalam;x
+9164;196;47;45;Ngamring;x
+9165;85;244;198;Qonggyai;x
+9166;255;91;15;Tonggu;x
+9167;99;99;98;Karakoram_Mountains;x
+9168;155;51;75;Wuqia;x
+9169;55;96;49;Kizilsu;x
+9170;255;253;135;Makit;x
+9171;255;48;103;Aksai_Chin;x
+9172;141;142;61;Zhongba;x
+9173;255;58;61;Shannan;x
+9174;132;136;255;Zogang;x
+9175;51;112;155;Akqi;x
+9176;255;229;38;Wensu;x
+9177;211;255;233;Baicheng;x
+9178;255;96;96;Xinyuan;x
+9179;107;255;66;Luntai;x
+9180;152;88;155;Kargilik;x
+9181;153;53;68;Huangnan;x
+9182;91;135;153;Haidong;x
+9183;255;229;63;Ledong;x
+9184;255;71;92;Baoting;x
+9185;228;255;183;Chengmai;x
+9186;255;143;68;Tunchang;x
+9187;146;255;127;Dangyang;x
+9188;255;249;102;Ulanqab;x
+9189;142;117;72;Wugong;x
+9190;255;187;0;Yijun;x
+9191;255;124;135;Ansai;x
+9192;255;191;208;Hongyuan;x
+9193;255;229;117;Xiaojin;x
+9194;204;61;68;Shimian;x
+9195;194;65;204;Deqen;x
+9196;89;194;204;Daocheng;x
+9197;98;204;12;Tianquan;x
+9198;127;62;76;Xinlong;x
+9199;69;127;44;Zêkog;x
+9200;255;175;252;Tongde;x
+9201;255;48;72;Pujiang;x
+9202;182;255;137;Xingan;x
+9203;255;0;59;Santai;x
+9204;142;255;30;Naxi;x
+9205;91;211;255;Jiange;x
+9206;150;76;255;Shehong;x
+9207;198;255;191;Zhangzha;x
+9208;244;14;79;Shiquan;x
+9209;173;244;107;Xuyong;x
+9210;189;237;233;Laifeng;x
+9211;237;208;45;Miyangzhen;x
+9212;237;113;99;Tengyue;x
+9213;119;38;23;Qudong;x
+9214;91;119;105;Shaxizhen;x
+9215;255;137;215;Yongning;x
+9216;184;239;233;Lancang;x
+9217;180;239;172;Meigu;x
+9218;255;71;114;Xunwu;x
+9219;255;226;168;Shangyu;x
+9220;59;122;61;Jianshui;x
+9221;255;140;0;Mianning;x
+9222;28;124;47;Weining;x
+9223;22;82;124;Hezhang;x
+9224;128;149;237;Jiuxiangxiang;x
+9225;255;25;94;Dechang;x
+9226;191;53;104;Ganluo;x
+9227;255;204;66;Yongsheng;x
+9228;201;66;255;Eryuan;x
+9229;21;220;234;Jingpo;x
+9230;122;234;114;Nengyu;x
+9231;234;110;218;Yongren;x
+9232;234;190;192;Yuanyang;x
+9233;255;45;153;Chabulang;x
+9234;202;193;255;Pingle;x
+9235;124;27;7;Guangxi_Mountains;x
+9236;122;28;18;Guizhou_Mountains;x
+9237;201;86;255;Leishan;x
+9238;255;242;61;Anlong;x
+9239;183;255;155;Quanling;x
+9240;119;164;255;Rongjiang;x
+9241;255;251;147;Longsheng;x
+9242;206;55;60;Fuding;x
+9243;204;193;81;Xiapu;x
+9244;204;67;183;Fuqing;x
+9245;106;109;204;Huian;x
+9246;255;48;48;Wenquan;x
+9247;221;193;79;Shaoguan;x
+9248;193;221;168;Pingyuan;x
+9249;219;134;70;Huidong;x
+9250;135;219;111;Yangxi;x
+9251;193;255;135;Guangze;x
+9252;59;255;0;Xiangtan;x
+9253;219;48;210;Huangxing;x
+9254;56;79;255;Luqu;x
+9255;0;124;29;Heishui;x
+9256;255;226;66;Wen;x
+9257;255;177;76;Pingchang;x
+9258;172;255;163;Tongjiang;x
+9259;255;99;56;Changshou;x
+9260;165;255;189;Fengdu;x
+9261;255;63;0;Guide;x
+9262;255;200;38;Qilian;x
+9263;255;96;197;Shandan;x
+9264;255;192;124;Linze;x
+9265;180;150;255;Yongdeng;x
+9266;182;255;170;Huzhu;x
+9267;99;56;255;Bairi;x
+9268;255;145;158;Jingyuan;x
+9269;243;255;140;Xiji;x
+9270;157;30;255;Lintao;x
+9271;234;0;0;Xide;x
+9272;112;138;255;Hanyuan;x
+9273;123;118;127;Chongli;x
+9274;255;38;92;Changli;x
+9275;255;139;86;Zunhua;x
+9276;255;17;37;Juyong_Pass;x
+9277;166;255;163;Fengrun;x
+9278;255;160;65;Jiexi;x
+9279;137;255;210;Luxi;x
+9280;213;255;109;Huilai;x
+9281;154;145;255;Datang;x
+9282;255;0;29;Dehua;x
+9283;255;133;112;Huadong;x
+9284;255;15;83;Qingcheng;x
+9285;195;0;255;Anxi;x
+9286;33;255;0;Youxi;x
+9287;33;73;255;Wuping;x
+9288;255;0;135;Wufeng;x
+9289;250;255;0;Shizhu;x
+9290;255;118;50;Xiangxi;x
+9291;255;56;89;Guzhang;x
+9292;53;73;255;Pingshui;x
+9293;208;255;155;Kaiyang;x
+9294;178;96;255;Yuqing;x
+9295;53;83;255;Tongzi;x
+9296;166;255;158;Majiang;x
+9297;255;122;255;Jianhe;x
+9298;255;61;125;Changning;x
+9299;255;233;94;Anren;x
+9300;132;255;214;Xintian;x
+9301;173;163;255;Xinhua;x
+9302;255;0;93;Shaodong;x
+9303;161;0;255;Taojiang;x
+9304;237;233;7;Qidong;x
+9305;237;119;73;Shimen;x
+9306;237;35;186;Lipu;x
+9307;161;80;237;Fang;x
+9308;237;203;54;Shiyan;x
+9309;237;43;0;Yuan'An;x
+9310;237;92;90;Huarong;x
+9311;21;100;237;Jingzhou;x
+9312;233;237;125;Lixian;x
+9313;111;188;237;Miyi;x
+9314;237;52;230;Ninglang;x
+9315;237;184;123;Yongde;x
+9316;237;111;130;Menglian;x
+9317;130;215;237;Jinghong;x
+9318;188;30;154;Nanjian;x
+9319;255;0;16;Xundian;x
+9320;232;255;178;Qujing;x
+9321;63;76;255;Huize;x
+9322;109;255;76;Yangbi;x
+9323;255;122;73;Junshan;x
+9324;175;255;240;Shayang;x
+9325;149;107;255;Xiaochang;x
+9326;119;0;255;Jingshan;x

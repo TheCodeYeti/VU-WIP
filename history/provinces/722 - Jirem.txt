@@ -1,9 +1,7 @@
-#722 - Jurim
-
 owner = KRC
 controller = KRC
 add_core = KRC
-culture = chahar
+culture = khorchin
 religion = vajrayana
 capital = "Jirem"
 trade_goods = livestock
@@ -13,8 +11,8 @@ base_production = 4
 base_manpower = 4
 is_city = yes
 add_core = KHA
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#discovered_by = chinese
+#discovered_by = nomad_group
 
 
 1552.1.1 = {
@@ -22,7 +20,7 @@ discovered_by = chinese
 	controller = KHA
 	add_core = KHA
 } # The Oirads are defeated & Altan Khan reunites the the area.
-1608.1.1 = { discovered_by = SPA }
+
 1624.1.1 = {
 	owner = MCH
 	controller = MCH
@@ -35,4 +33,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+

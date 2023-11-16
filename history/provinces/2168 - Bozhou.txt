@@ -4,8 +4,8 @@ owner = MNG
 controller = MNG
 add_core = MNG
 add_core = CYI
-culture = yi
-religion = animism
+culture = miao
+religion = wuism
 capital = "Bozhou"
 trade_goods = rice
 hre = no
@@ -13,19 +13,20 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = CXI
 
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1644.10.1 = {
 	owner = CXI
 	controller = CXI
 } # Zhang Xianzhong's Xi empire
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+
 1658.12.1 = {
 	owner = QNG
 	controller = QNG

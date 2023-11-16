@@ -30,11 +30,46 @@ oceania_superregion = {
 	new_zealand_region
 }
 
-china_superregion = {
-	north_china_region
-	xinan_region
-	south_china_region
+china_superregion = { 
+	southern_inner_mongolia_region
+	liaoning_region
+	shanxi_region
+	shandong_region
+	hebei_region
+	fujian_region
+	guangxi_region
+	taiwan_region
+	hainan_region
+	guangdong_region
+    gansu_region
+	shaanxi_region
+	anhui_region
+	jiangsu_region
+	zhejiang_region
+	sichuan_region
+	yunnan_region	
+	guizhou_region	
+	henan_region
+	hubei_region
+	jiangxi_region
+	hunan_region	
+}
+
+tibet_superregion = { 
 	tibet_region
+	qinghai_region
+	kham_region
+}
+
+northern_steppe_superregion = { 
+	inner_mongolia_region
+	mongolia_region
+	manchuria_region
+	outer_manchuria_region
+}
+
+western_regions_superregion = { 
+	xinjiang_region
 }
 
 europe_superregion = {
@@ -66,8 +101,6 @@ eastern_europe_superregion = {
 tartary_superregion = {
 	east_siberia_region
 	west_siberia_region
-	manchuria_region
-	mongolia_region
 	central_asia_region
 }
 

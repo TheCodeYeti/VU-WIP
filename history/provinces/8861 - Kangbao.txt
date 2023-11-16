@@ -1,0 +1,17 @@
+# 8861 - Kangbao
+
+owner = TMD
+controller = TMD
+add_core = TMD
+culture = mongol
+religion = vajrayana
+capital = "Kangbao"
+trade_goods = lead
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 3
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+add_core = CHH

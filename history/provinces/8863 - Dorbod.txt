@@ -1,0 +1,17 @@
+# 8865 - Dorbod
+
+owner = AIM
+controller = AIM
+add_core = AIM
+culture = mongol
+religion = vajrayana
+capital = "Dorbod"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+add_core = CHH

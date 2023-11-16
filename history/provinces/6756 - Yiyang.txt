@@ -7,21 +7,23 @@ latent_trade_goods = {
 owner = MNG
 controller = MNG
 add_core = MNG
-add_core = LNG
-culture = zhongyuan
-religion = confucianism
+add_core = TNG
+culture = luo_song
+religion = mahayana
 capital = "Yiyang"
 trade_goods = livestock
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 1
+base_tax = 7
+base_production = 7
+base_manpower = 6
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1608.1.1 = { discovered_by = SPA }
+
+
+
 
 1628.1.1 = { unrest = 6 } # Li Zicheng rebellion
 1641.1.1 = { revolt = { type = anti_tax_rebels size = 0 } controller = REB }

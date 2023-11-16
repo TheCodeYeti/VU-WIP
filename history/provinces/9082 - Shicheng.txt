@@ -1,0 +1,17 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = she
+religion = wuism
+capital = "Shicheng"
+trade_goods = marble
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+

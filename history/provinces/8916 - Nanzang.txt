@@ -1,0 +1,20 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+add_core = CXI
+culture = hubei
+religion = confucianism
+capital = "Nanzang"
+trade_goods = diamonds
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 5
+#discovered_by = chinese
+#discovered_by = nomad_group
+
+
+
+
+
+

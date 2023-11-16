@@ -1,0 +1,12 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = jianghuai
+religion = confucianism
+capital = "Hanshan"
+trade_goods = silver
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 8
+is_city = yes

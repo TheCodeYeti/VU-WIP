@@ -1,0 +1,17 @@
+owner = AMO
+controller = AMO
+add_core = AMO
+culture = amdo
+religion = tantra
+capital = "Z�kog"
+trade_goods = livestock
+hre = no
+base_tax = 3  
+base_production = 3 
+base_manpower = 3
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian
+
+

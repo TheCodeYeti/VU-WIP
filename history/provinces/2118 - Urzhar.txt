@@ -1,5 +1,3 @@
-# 2118 - Urzhar
-
 owner = OIR
 controller = OIR
 add_core = OIR

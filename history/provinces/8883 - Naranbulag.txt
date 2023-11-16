@@ -1,0 +1,13 @@
+owner = OIR
+controller = OIR
+add_core = OIR
+culture = oirats
+religion = tengri_pagan_reformed
+capital = "Naranbulag"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 4
+#discovered_by = chinese
+#discovered_by = nomad_group

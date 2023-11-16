@@ -1,9 +1,8 @@
-# 2141 - Xuzhou
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = zhongyuan
+add_core = LNG
+culture = zheng_kai
 religion = confucianism
 capital = "Xuzhou"
 trade_goods = iron
@@ -13,15 +12,17 @@ base_production = 12
 base_manpower = 6
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 add_permanent_province_modifier = {
 	name = grand_canal_modifier
 	duration = -1
 }
 
-1601.1.1 = { discovered_by = SPA }
+
 
 1645.6.1 = {
 	owner = QNG

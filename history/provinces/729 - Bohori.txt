@@ -1,10 +1,8 @@
-#729 - Bohori
-
-owner = EJZ
-controller = EJZ
-add_core = EJZ
-culture = manchu
-religion = tengri_pagan_reformed
+owner = UDE
+controller = UDE
+add_core = UDE
+culture = orochic
+religion = siberian
 capital = "Bohori"
 trade_goods = fish
 hre = no
@@ -15,10 +13,12 @@ is_city = yes
 
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1542.1.1 = { discovered_by = POR }
+
+
+
 
 1620.1.1 = {
 	owner = MCH
@@ -32,4 +32,4 @@ discovered_by = chinese
 	add_core = QNG
 	remove_core = MCH
 } # The Qing Dynasty
-1739.1.1 = { discovered_by = RUS } # Martin Spanberg
+

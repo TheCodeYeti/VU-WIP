@@ -1,0 +1,14 @@
+owner = MNG
+controller = MNG
+add_core = MNG
+culture = tujia
+religion = wuism
+capital = "Shizhu"
+trade_goods = lumber
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+#discovered_by = chinese
+#discovered_by = nomad_group
+

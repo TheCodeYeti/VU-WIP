@@ -1,23 +1,26 @@
-#6817 - Laiwu
-
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = jianghuai
+add_core = QIC
+culture = shandong_culture
 religion = confucianism
 capital = "Laiwu"
 trade_goods = grain
 hre = no
-base_tax = 2
-base_production = 3
-base_manpower = 2
+base_tax = 6
+base_production = 6
+base_manpower = 3
 is_city = yes
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
-discovered_by = japanese
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1519.1.1 = { discovered_by = POR } # Tome Pires
+
+#1444.1.1 = { discovered_by = japanese }
+#discovered_by = japanese_tech_group
+
+
+
 1645.6.1 = {
 	owner = QNG
 	controller = QNG

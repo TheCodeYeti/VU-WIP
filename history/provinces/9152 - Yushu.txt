@@ -1,0 +1,21 @@
+owner = GLK
+controller = GLK
+add_core = GLK
+culture = khams
+religion = tantra
+capital = "Yushu"
+trade_goods = opium
+hre = no
+base_tax = 2  
+base_production = 2 
+base_manpower = 2
+is_city = yes
+#discovered_by = chinese
+#discovered_by = nomad_group
+#discovered_by = indian
+
+
+
+
+
+

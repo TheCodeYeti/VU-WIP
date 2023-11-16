@@ -3,7 +3,8 @@
 owner = MNG
 controller = MNG
 add_core = MNG
-culture = xibei
+add_core = SHG
+culture = guanzhong
 religion = confucianism
 capital = "Hanzhong"
 trade_goods = iron
@@ -12,13 +13,13 @@ base_tax = 8
 base_production = 8
 base_manpower = 6
 is_city = yes
-add_core = CSH
-add_core = QIN
 
 
 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1628.1.1 = { revolt_risk = 6 } # Li Zicheng rebellion
@@ -32,7 +33,7 @@ discovered_by = chinese
 	controller = QNG
 	add_core = QNG
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+
 1662.1.1 = { remove_core = MNG }
 1673.12.1 = { controller = CZH } # Three Feudatories revolt
 1676.1.1 = { controller = QNG }

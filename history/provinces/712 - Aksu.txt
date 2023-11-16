@@ -1,23 +1,25 @@
 #712 - Uighuristan
 
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = MHS
+controller = MHS
+add_core = MHS
 culture = uyghur
 religion = sunni
 capital = "Aksu"
 trade_goods = cotton
 hre = no
-base_tax = 4  
-base_production = 4
-base_manpower = 4
+base_tax = 6  
+base_production = 6
+base_manpower = 6
 is_city = yes
 center_of_trade = 1
 
 
-1444.1.1 = { discovered_by = CHG } 
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+ 
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
+
+
 
 
 1682.1.1 = {

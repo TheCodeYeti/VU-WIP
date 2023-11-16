@@ -1,10 +1,8 @@
-#4214 - Kalar
-
 owner = NVK
 controller = NVK
 add_core = NVK
-culture = evenk
-religion = tengri_pagan_reformed
+culture = nivkh
+religion = siberian
 capital = "Kalar"
 trade_goods = fur
 hre = no
@@ -12,11 +10,13 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-discovered_by = chinese
-#discovered_by = dutch_tech_group
+#1444.1.1 = { discovered_by = chinese }
+#discovered_by = chinese_tech_group
 
-1542.1.1 = { discovered_by = POR }
-1643.1.1 = { discovered_by = RUS } # Vasily Poyarkov
+
+
+
+
 
 1653.1.1 = {
 	owner = RUS

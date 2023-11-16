@@ -1,6 +1,6 @@
 #Lanao del Sur
 
-culture = danao
+culture = cebuano #Was danao
 religion = animism
 capital = "Marawi"
 trade_goods = spices
