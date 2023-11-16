@@ -3960,7 +3960,7 @@ french	= {
         graphical_culture = westerngfx
 		#primary = #no tag so no seperatists
 	}
-	french_east_indian  = {
+	french_east_indian = {
         graphical_culture = westerngfx
 		#primary = #no tag so no seperatists
 	}
@@ -4790,6 +4790,10 @@ carpathian = {
 	hungarian = {
         graphical_culture = westerngfx
 		primary = HUN
+	}
+	cuman = {
+        graphical_culture = westerngfx
+		primary = CUM
 	}
 	szekely = {
         graphical_culture = latingfx
@@ -7288,6 +7292,138 @@ iranian	= {
 	}
 }
 
+yunnanese = {
+	graphical_culture = asiangfx
+	yi = {
+		primary = CYI
+		dynasty_names = {
+			An She Liu Longzan Feng Pu
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	bai = {
+		primary = CDL
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	hani = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	nisu = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	naxi = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	lipo = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	pumi = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	axi = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	biyo = {
+		dynasty_names = {
+			Duan Gao Meng
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+}
+
 nuristani_group = {
 	graphical_culture = persiangfx
 	kafir = {	#General, northern language group
@@ -7425,32 +7561,8 @@ nuristani_group = {
 
 altaic = {
 	graphical_culture = mongolgfx
-
-	mongol = {
-        graphical_culture = mongolgfx
-		primary = KHA
-		male_names = {
-			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
-			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
-			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
-			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
-		}
-		female_names = {
-			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
-			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
-		}
-		dynasty_names = {
-			# CKII
-			Onggirat Naiman Kereyid Sartaq "Mengu-Timur" Uriankhai Bujakhin Besud Noyan 
-			Jochid Chagatayid Borjigin Chupanid Injuid Toluid Ganbold Bolormaa Batbayar 
-			"Bat-Erdene" Otgonbayar Enkhtuyaa Gantulga Nerg¸i Lkhagvas¸ren Enkhjargal 
-			Ganzorig Narantsetseg P¸revs¸ren Ganbaatar Mˆnkhtsetseg Mˆnkhbat "Mˆnkh-Erdene" 
-			Jalair Sartuul Olkhunut Khatagin Iljigin Tsookhor Qarakhanid
-		}
-	}
 	chahar = { # now korchin
         graphical_culture = mongolgfx
-		primary = KRC
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
 			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
@@ -7476,18 +7588,6 @@ altaic = {
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
-	oirats = {
-        graphical_culture = mongolgfx
-		primary = ZUN
-		male_names = {
-			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
-			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
-			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
-		}
-		female_names = {
-			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
-		}
-	}
 	uzbehk = {
         graphical_culture = persiangfx
 		primary = SHY
@@ -7502,6 +7602,46 @@ altaic = {
 		}
 		female_names = {
 			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	tuvan = {
+		graphical_culture = inuitgfx
+		primary = TUV
+		dynasty_names = {
+			Badarhan Tabangut
+		}
+		male_names = {
+			Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei
+			Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis
+			Erchim Erkin Yrgel Kharyskhan
+		}
+	}
+	altai = {
+		graphical_culture = inuitgfx
+		primary = DRB
+		dynasty_names = {
+			Badarhan Tabangut
+		}
+		male_names = {
+			Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei
+			Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis
+			Erchim Erkin Yrgel Kharyskhan
+		}
+	}
+	salar = {
+		graphical_culture = mongolgfx
+		male_names = {
+			Abdul-Karim Abdul-Latif Abdul-RashÓd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Tem¸r Buzan 
+			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Tem¸r Eljigidey Esen Buqa Ilbars Ilyas Ismail 
+			Khabul Khizr Kˆnchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
+			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
+			Tem¸r Tughlugh Tem¸r Uwais Yasa'ur Yesu Mongke Yesun Tem¸r Yunus Chagatay Tarmashirin Neg¸bei Qara 
+			Kebek Yahballaha 
+		}
+		female_names = {
+			Sakina Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene Fatima Ibtisam Jalila Janan 
+			Layla Sakina Sharifa
 		}
 	}
 	uyghur = {
@@ -10625,7 +10765,7 @@ east_asian = {	# Chinese Group
 			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
 		}
 	}
-	wu = {
+	taihu = {
 		primary = WUU
 		male_names = {
 			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
@@ -10652,8 +10792,191 @@ east_asian = {	# Chinese Group
 			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
 		}
 	}
-	chimin = {
+	taizhou = {
+	    primary = CHE
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	huizhou = {	    
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	ying_liu = {	    
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	minnan = {
 		primary = MIN
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	minbei = {
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	mindong = {
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	qiong_lei = {
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	yong_quan = {
 		male_names = {
 			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
 			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
@@ -10856,8 +11179,75 @@ east_asian = {	# Chinese Group
 			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
 		}
 	}
-	zhongyuan = {
+	gui_lui = {
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cibuan Cican Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu
+			Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan Yingfang Kekuan Mo Juren Qing Qinshun Duan
+			Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang Ruoshui Shouyi De Ti Hongxian Shihuai Shixi
+			Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi Kai Meng Hong Du Danian Tai Minzheng Mengyang
+			Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi Shenzhong Panlong Youguang Weizhen Shisheng Qichang
+			Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun
+			Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang
+			Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong Zhongwen Kexue Yuanjie Rucai Kexi Zhongming
+			Jinxing Yan Yingxiang Zongmin Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	kun_gui = {
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cibuan Cican Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu
+			Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan Yingfang Kekuan Mo Juren Qing Qinshun Duan
+			Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang Ruoshui Shouyi De Ti Hongxian Shihuai Shixi
+			Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi Kai Meng Hong Du Danian Tai Minzheng Mengyang
+			Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi Shenzhong Panlong Youguang Weizhen Shisheng Qichang
+			Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun
+			Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang
+			Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong Zhongwen Kexue Yuanjie Rucai Kexi Zhongming
+			Jinxing Yan Yingxiang Zongmin Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	zheng_kai = {
 		primary = LNG
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	luo_song = {
+		primary = TNG
 		male_names = {
 			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
 			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
@@ -10885,6 +11275,221 @@ east_asian = {	# Chinese Group
 	}
 	shandong_culture = {
 		primary = QIC
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	liao = {
+		primary = LIA
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	lanyin = {
+		primary = HUI
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	shiji = {
+	    primary = LII
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	zhiyan = {
+		primary = QIN	
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	chu_qu = {
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	guanzhong = {
+	    primary = SHG
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	xu_huai = {
+	    primary = ZHA
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	nan_gui = {
+	    primary = WEI
 		male_names = {
 			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
 			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
@@ -10983,38 +11588,6 @@ east_asian = {	# Chinese Group
 	}
 }
 
-korean_g = {
-	graphical_culture = asiangfx
-	korean = {
-		primary = KOR
-		dynasty_names = {
-			Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
-			Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
-		}
-		male_names = {
-			Hongwi Yu Gwang Hyeol Yung Yeok Ho Hwan Yeon Hon Jong Sun Yun Geum San Gong Byeon Myeongbok Ha-eung Un Gu Seon Hyeon
-			Cho Yeong Bu Haeng Hwon Kang Ji Rip Jae-u Seong-ryong Yakyong Jongmu Se-young Hong-rip Deokgi Munsu Hee-woon Busik
-			Jiwon Gwangjo Sukju Hongdo Yong-bok Jong-un Chung-hee Yeong-sil Yun-ui Myung-shin Chae-ho Chwa-jin Honghi Byong-hi
-			Hwang Jae-sang Yu-sin Wonjong Jong-seo Jangchun Museon Sung-gyeom Seungman Sun-sin Chang-ho Dae-seung Jae-suk
-			Dae-yong Eok-gi Si-min Gam-chan Chung-heon U Tong-jeon In-seon Gwanghyeon Gyun Yul Wi Im Geon Jun Mok Il Tak
-
-		}
-		female_names = {
-			Ae-jung Areum Bit-na Bo-young Bora Chae-won Chae-young Cho-hee Chun-hwa Chun-ja Da-hee Da-hyun Do-hee Eun-ah
-			Eun-bi Eun-byul Eun-chae Eun-ha Eun-hee Eun-hye Eun-ji Eun-jin Eun-ju Eun-jung Eun-kyung Eun-mi Eun-sook Eun-suh
-			Eun-young Ga-in Ga-young Gyuri Ha-eun Hana Hye-bin Hye-in Hye-ja Hye-jin Hye-jung Hye-kyung Hye-mi Hye-rim
-			Hye-su Hye-won Hyo-joo Hyo-rin Hyun-a Hyun-kyung Hyun-mi Hyun-sook In-hye In-sook In-sun Ja-kyung Jae-eun
-			Jang-geum Jang-mi Jeong-ja Ji-ae Ji-eun Ji-hye Ji-yeon Ji-young Jina Jin-yi Jung-ah Jung-sook Jung-soon Kyung-ah Kyung-hee
-			Kyung-hwa Kyung-ja Kyung-ok Kyung-sook Mi-hee Mi-ja Mi-jung Mi-kyung Mi-ran Mi-sook Mi-yeon Mi-young Min-hee
-			Min-ji Min-jung Min-seo Mina Myung-hwa Myung-ok Myung-sook Myung-soon Na-young Nana Nari Noo-ri Sang-mi
-			Se-bin Seo-hyeon Seo-yeon Seo-yun Seol-hee Seon-ok Seong-ja Seung-ah Shin-hye Si-yeon So-hee So-hyun So-won So-yi
-			So-young Soo-ah Soo-hee Sook-ja Soon-hee Soon-ja Sora Su-mi Sun-hee Sun-hwa Sun-mi Sun-ok Sung-mi Sung-sook
-			Ye-eun Ye-ji Ye-jin Ye-rin Ye-seo Ye-won Yeo-jin Yeon-hee Yi-kyung Yoo-kyung Yoo-na Yoon-hee Yoon-sook Young-ae
-			Young-hee Young-ja Young-mi Young-sook Yu-ri Yumi
-		}
-	}
-}
-
 japanese_g = {
 	graphical_culture = asiangfx
 	country = { has_samurai = yes }
@@ -11048,7 +11621,7 @@ japanese_g = {
 	}
 	hokkaido = { 
 		province = { local_has_samurai = yes }
-		primary = na
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11075,7 +11648,7 @@ japanese_g = {
 	}
 	kanto = { 
 		province = { local_has_samurai = yes }
-		primary = na
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11102,7 +11675,7 @@ japanese_g = {
 	}
 	tokai = { 
 		province = { local_has_samurai = yes }
-		primary = na
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11129,7 +11702,7 @@ japanese_g = {
 	}
 	japanese = { #Shikoku
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11156,7 +11729,7 @@ japanese_g = {
 	}
 	hokuriku = {
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11183,7 +11756,7 @@ japanese_g = {
 	}
 	kinki = {
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11210,7 +11783,7 @@ japanese_g = {
 	}
 	chugoku = {
 		province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11237,7 +11810,7 @@ japanese_g = {
 	}
 	unpaku = {
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11290,7 +11863,7 @@ japanese_g = {
 	}
 	vu_ryukyuan = { 
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11317,7 +11890,7 @@ japanese_g = {
 	}
 	kyushuan = { #Hichiku
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11344,7 +11917,7 @@ japanese_g = {
 	}
 	honichi = { 
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11371,7 +11944,7 @@ japanese_g = {
 	}
 	satsugu = { #Hichiku
 	    province = { local_has_samurai = yes }
-		primary = NA
+		#primary = NA
 		dynasty_names = {
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa
 			Kuni Nashimoto Takeda Yamashina
@@ -11398,6 +11971,137 @@ japanese_g = {
 	}
 }
 
+korean_g = {
+	graphical_culture = asiangfx
+	korean = {
+		primary = KOR
+		dynasty_names = {
+			Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
+			Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
+		}
+		male_names = {
+			Hongwi Yu Gwang Hyeol Yung Yeok Ho Hwan Yeon Hon Jong Sun Yun Geum San Gong Byeon Myeongbok Ha-eung Un Gu Seon Hyeon
+			Cho Yeong Bu Haeng Hwon Kang Ji Rip Jae-u Seong-ryong Yakyong Jongmu Se-young Hong-rip Deokgi Munsu Hee-woon Busik
+			Jiwon Gwangjo Sukju Hongdo Yong-bok Jong-un Chung-hee Yeong-sil Yun-ui Myung-shin Chae-ho Chwa-jin Honghi Byong-hi
+			Hwang Jae-sang Yu-sin Wonjong Jong-seo Jangchun Museon Sung-gyeom Seungman Sun-sin Chang-ho Dae-seung Jae-suk
+			Dae-yong Eok-gi Si-min Gam-chan Chung-heon U Tong-jeon In-seon Gwanghyeon Gyun Yul Wi Im Geon Jun Mok Il Tak
+
+		}
+		female_names = {
+			Ae-jung Areum Bit-na Bo-young Bora Chae-won Chae-young Cho-hee Chun-hwa Chun-ja Da-hee Da-hyun Do-hee Eun-ah
+			Eun-bi Eun-byul Eun-chae Eun-ha Eun-hee Eun-hye Eun-ji Eun-jin Eun-ju Eun-jung Eun-kyung Eun-mi Eun-sook Eun-suh
+			Eun-young Ga-in Ga-young Gyuri Ha-eun Hana Hye-bin Hye-in Hye-ja Hye-jin Hye-jung Hye-kyung Hye-mi Hye-rim
+			Hye-su Hye-won Hyo-joo Hyo-rin Hyun-a Hyun-kyung Hyun-mi Hyun-sook In-hye In-sook In-sun Ja-kyung Jae-eun
+			Jang-geum Jang-mi Jeong-ja Ji-ae Ji-eun Ji-hye Ji-yeon Ji-young Jina Jin-yi Jung-ah Jung-sook Jung-soon Kyung-ah Kyung-hee
+			Kyung-hwa Kyung-ja Kyung-ok Kyung-sook Mi-hee Mi-ja Mi-jung Mi-kyung Mi-ran Mi-sook Mi-yeon Mi-young Min-hee
+			Min-ji Min-jung Min-seo Mina Myung-hwa Myung-ok Myung-sook Myung-soon Na-young Nana Nari Noo-ri Sang-mi
+			Se-bin Seo-hyeon Seo-yeon Seo-yun Seol-hee Seon-ok Seong-ja Seung-ah Shin-hye Si-yeon So-hee So-hyun So-won So-yi
+			So-young Soo-ah Soo-hee Sook-ja Soon-hee Soon-ja Sora Su-mi Sun-hee Sun-hwa Sun-mi Sun-ok Sung-mi Sung-sook
+			Ye-eun Ye-ji Ye-jin Ye-rin Ye-seo Ye-won Yeo-jin Yeon-hee Yi-kyung Yoo-kyung Yoo-na Yoon-hee Yoon-sook Young-ae
+			Young-hee Young-ja Young-mi Young-sook Yu-ri Yumi
+		}
+	}
+}
+
+qiangic = {
+	graphical_culture = asiangfx
+	qiang = {
+	    primary = QIA
+		male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	}
+	tangut = {
+		dynasty_names = {
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dùn-yù Dorje" "Ngawang Namgyal" "Tùndup Tseten" "Phùntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+	choni = {
+		dynasty_names = {
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dùn-yù Dorje" "Ngawang Namgyal" "Tùndup Tseten" "Phùntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+	guiqiong = {
+		dynasty_names = {
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dùn-yù Dorje" "Ngawang Namgyal" "Tùndup Tseten" "Phùntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+	ersu = {
+		dynasty_names = {
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dùn-yù Dorje" "Ngawang Namgyal" "Tùndup Tseten" "Phùntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+}
+
 tibetan_group = {
 	graphical_culture = asiangfx
 	tibetan = {
@@ -11418,25 +12122,87 @@ tibetan_group = {
 			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
 		}
 	}
-	yi = {
-		primary = CYI
+	amdo = {
+		primary = AMO
 		dynasty_names = {
-			An She Liu Longzan Feng Pu
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
 		}
 		male_names = {
-			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
-			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
-			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
-			Cihuan Cican He Ji Da Yuchun
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dˆn-yˆ Dorje" "Ngawang Namgyal" "Tˆndup Tseten" "Ph¸ntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
 		}
 		female_names = {
-			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
 		}
 	}
-	bai = {
-		primary = CDL
+	khams = {
+		primary = KAM
 		dynasty_names = {
-			Duan Gao Meng
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dˆn-yˆ Dorje" "Ngawang Namgyal" "Tˆndup Tseten" "Ph¸ntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+	gyalrongic = {
+		primary = GYE
+		dynasty_names = {
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dˆn-yˆ Dorje" "Ngawang Namgyal" "Tˆndup Tseten" "Ph¸ntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+	horpa = {
+		primary = HOR
+		dynasty_names = {
+			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
+			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
+			Khjungpo Dbas Mnyammed
+		}
+		male_names = {
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dˆn-yˆ Dorje" "Ngawang Namgyal" "Tˆndup Tseten" "Ph¸ntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" Gusri Dayan "Tenzin Dalai" 
+			Lhabzang "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi Sangay Gyatso"
+			"Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel" "Bapu Gendun" Rabtan Sengge Galdan Gushi Dorjee Dote Kalden
+		}
+		female_names = {
+			Kamala Indira Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
+		}
+	}
+}
+
+miao_g = {
+	graphical_culture = asiangfx
+	miao = {
+		primary = CMI
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
 		}
 		male_names = {
 			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
@@ -11445,7 +12211,222 @@ tibetan_group = {
 			Cihuan Cican He Ji Da Yuchun
 		}
 		female_names = {
-			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	tujia = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	yao = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	she = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	hmu = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	hone = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	mien = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	xong = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+	ahmao = {
+		dynasty_names = {
+			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
+			Chu Vang Vue Xiong Yang
+		}
+		male_names = {
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao
+		}
+	}
+}
+
+northern_tai = {
+	graphical_culture = asiangfx
+	zhuang = {
+		primary = CGS
+		dynasty_names = {
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+		male_names = {
+			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
+			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
+			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
+			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
+			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
+		}
+		female_names = {
+			"Thou Umma" "Thin Bohme"
+		}
+	}
+	hlai = {
+		dynasty_names = {
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+		male_names = {
+			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
+			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
+			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
+			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
+			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
+		}
+		female_names = {
+			"Thou Umma" "Thin Bohme"
+		}
+	}
+	dai = {
+		dynasty_names = {
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+		male_names = {
+			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
+			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
+			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
+			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
+			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
+		}
+		female_names = {
+			"Thou Umma" "Thin Bohme"
+		}
+	}
+	kam = {
+		dynasty_names = {
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+		male_names = {
+			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
+			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
+			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
+			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
+			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
+		}
+		female_names = {
+			"Thou Umma" "Thin Bohme"
+		}
+	}
+	bouyei = {
+		dynasty_names = {
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+		male_names = {
+			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
+			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
+			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
+			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
+			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
+		}
+		female_names = {
+			"Thou Umma" "Thin Bohme"
+		}
+	}
+	sui = {
+		dynasty_names = {
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+		male_names = {
+			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
+			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
+			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
+			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
+			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
+		}
+		female_names = {
+			"Thou Umma" "Thin Bohme"
 		}
 	}
 }
@@ -11685,6 +12666,7 @@ filipino_i = {
 		}
 	}
 	visayan = { #Bisaya
+		primary = SUL
 		male_names = {
 			"Sharif ul Hashim" "Kamal ud Din" "Sharif Sayyid Ala ud Din" "Amirul Umara" "Muizz ul Mutawadiin" "Batarah Shah Tengah" "Muwallit Wasit" "Muhammad Alimuddin" "Muhammad al Halim" "Muizz ul Din" "Nasir ud Din" Azimuddin "Salah ud Din Bakhtiyar" "Shihab ud Din" "Mustafa Shafi" "Muhammad Badaruddin" "Muizz ud Din Bantilan" "Muhammad Israil" "Muhammad Sharafuddin" Aliyuddin Shakirullah Nikullan Nikutak Nigindang "Panjung Ruma" "Sura Raja" Dilayas Kuning Anang Jamal Anwari Wangkang Batur Maruhum "Raden Labih" Damang "Damang Anggen" "Soera Djaja" "Damang Pijar" "Hausman Baboe" Tjilik "Raden Sukrama" "Raden Sakar" "Panembahan Kasuma" "Raja Mandarsyah" "Tumenggung Bayabaya" "Mahkota Mulia" Dilanggar "Sinum Panji" "Dipati Agung" "Dipati Maja" "Gelar Ratu" "Dipati Tua" "Anum Panji" "Surya Natakesuma" Nikullan Nikutak Nigindang "Panjang Ruma" "Sura Raja" Dilayas Kuning "Dewa Sura" Brawijaya Bapurung "Panembahan Bendala" "Gusti Syansudin" "Gusti Asma" "Titik Kesuma" "Agung Kesuma" "Anom Suria" "Raden Cili"
 		}
@@ -15086,7 +16068,7 @@ sudanese = {
 	}
 }
 
-evenks = {
+tungusic = { 
 	graphical_culture = asiangfx
 	evenk = {
 		graphical_culture = inuitgfx
@@ -15123,20 +16105,19 @@ evenks = {
 			Erchim Erkin Yrgel Kharyskhan
 		}
 	}
-	buryat = {
-		graphical_culture = inuitgfx
-		primary = BRT
+	kamchatkan = {
+		primary = KMC
 		dynasty_names = {
-			Badarhan Chagatay Edig¸id Giray Borjigin Shaybanid Janid Mangit
+			Garpancha Songolik Tymancha Tykulcha Gudeikon Adiul Khadiul Dyaluncha Aksik Kepele Gugdaul Burgumi Vavlya Vadyo
+			Vankho Eldan Ka-cheda Kilim Agna Sebeda Saltyk Alvali Akhtamak
 		}
 		male_names = {
-			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan Darayisung 
-			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke Mulan 
-			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun T¸men 
-			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi
+			Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei
+			Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis
+			Erchim Erkin Yrgel Kharyskhan
 		}
 		female_names = {
-			Tem¸len Bˆrte Mandukhai Samar Zaufishan 
+			Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana
 		}
 	}
 	tungus = {
@@ -15149,6 +16130,83 @@ evenks = {
 			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke Mulan 
 			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun T¸men 
 			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi
+		}
+	}
+	orochic = {
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		graphical_culture = inuitgfx
+		primary = UDE
+		dynasty_names = {
+			"Aisin Gioro" Wanyan "Yehe Nara" "Ula Nara" "Magiya Hala" Niohuru
+			Heseri Guwalgiya Tunggiya Hata Hoifa Yeren Udige
+		}
+		male_names = {
+			"Bukuri Yongson" "Sibeoci Fiyanggu" "Dudu Mengtemu" "Huang Taiji" "Hiowan Yei" "In Jen" "Hung Li" "Yong Yan"
+			"Min Ning" Cungsan Tolo Fuman Giocangga Taksi Nurhachi Dorgon Hooge Fulin Fanca Hoogle Yinzhi Yinreng
+			Yinti Daisan Abatai Ajige Dodo Yinxiang Yinsi Yintang Hongshi Hongzhou Yongqi Akjan Ayan Baohu Chengjun
+			Dorgide Eje Encehen Fisin Fulu Ganyong Ganzhan Hurong Jabsan Jakdan Leli Liyi Lung Mergen Muduri Mujin Oori
+			Radi Talman Wehe Yelu Yongyi Zhanhung Zhenghu Zhengrong Zhongcheng Zhongchun Zhongho Zhonghu Zhonghung
+			Zongqian Zhongxian Zhongyong Zhongyu
+		}
+		female_names = {
+			Fen Jian Wen Hejing Hejia Hexiao Zhuangjing
+		}
+	}
+	nanai = {
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		primary = EJZ
+		dynasty_names = {
+			"Aisin Gioro" Wanyan "Yehe Nara" "Ula Nara" "Magiya Hala" Niohuru
+			Heseri Guwalgiya Tunggiya Hata Hoifa Yeren Udige
+		}
+		male_names = {
+			"Bukuri Yongson" "Sibeoci Fiyanggu" "Dudu Mengtemu" "Huang Taiji" "Hiowan Yei" "In Jen" "Hung Li" "Yong Yan"
+			"Min Ning" Cungsan Tolo Fuman Giocangga Taksi Nurhachi Dorgon Hooge Fulin Fanca Hoogle Yinzhi Yinreng
+			Yinti Daisan Abatai Ajige Dodo Yinxiang Yinsi Yintang Hongshi Hongzhou Yongqi Akjan Ayan Baohu Chengjun
+			Dorgide Eje Encehen Fisin Fulu Ganyong Ganzhan Hurong Jabsan Jakdan Leli Liyi Lung Mergen Muduri Mujin Oori
+			Radi Talman Wehe Yelu Yongyi Zhanhung Zhenghu Zhengrong Zhongcheng Zhongchun Zhongho Zhonghu Zhonghung
+			Zongqian Zhongxian Zhongyong Zhongyu
+		}
+		female_names = {
+			Fen Jian Wen Hejing Hejia Hexiao Zhuangjing
+		}
+	}
+	oroqen = {
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		primary = ORO
+		dynasty_names = {
+			"Aisin Gioro" Wanyan "Yehe Nara" "Ula Nara" "Magiya Hala" Niohuru
+			Heseri Guwalgiya Tunggiya Hata Hoifa Yeren Udige
+		}
+		male_names = {
+			"Bukuri Yongson" "Sibeoci Fiyanggu" "Dudu Mengtemu" "Huang Taiji" "Hiowan Yei" "In Jen" "Hung Li" "Yong Yan"
+			"Min Ning" Cungsan Tolo Fuman Giocangga Taksi Nurhachi Dorgon Hooge Fulin Fanca Hoogle Yinzhi Yinreng
+			Yinti Daisan Abatai Ajige Dodo Yinxiang Yinsi Yintang Hongshi Hongzhou Yongqi Akjan Ayan Baohu Chengjun
+			Dorgide Eje Encehen Fisin Fulu Ganyong Ganzhan Hurong Jabsan Jakdan Leli Liyi Lung Mergen Muduri Mujin Oori
+			Radi Talman Wehe Yelu Yongyi Zhanhung Zhenghu Zhengrong Zhongcheng Zhongchun Zhongho Zhonghu Zhonghung
+			Zongqian Zhongxian Zhongyong Zhongyu
+		}
+		female_names = {
+			Fen Jian Wen Hejing Hejia Hexiao Zhuangjing
+		}
+	}
+	nivkh = {
+		primary = NVK
+		dynasty_names = {
+			Garpancha Songolik Tymancha Tykulcha Gudeikon Adiul Khadiul Dyaluncha Aksik Kepele Gugdaul Burgumi Vavlya Vadyo 
+			Vankho Eldan Ka-cheda Kilim Agna Sebeda Saltyk Alvali Akhtamak
+		}
+		male_names = {
+			Atvuk Azmun Azrun Chalun Changin Chuner Ezdanok Itkun Kaskazik Kekhan Kelin Kenran Khaylin Kokin Lants Lergan Longun
+			Luzgin Memzgun Mufchik Napuin Nyengun Nyunkin Ochan Palgun Parkizin Pilgun Pulychkh Pungat Rsholin Smedun Tavtugin
+			Tolvin Tynvin Ukrin Urkayn Uryam Vadun Vyskan Ykylak Yudin Zarun
+		}
+		female_names = {
+			Anguk Anyuk Yazik Azuk Chamuk Chavlik Efkuk Esavura Ezguk Iglik Khivchuk Liskit Lushkura Lykhtkk Niftyuk Okhnik Panko
+			Pineyk Ponashk Pygsk Pygzyk Pylymk Tatuk Tymguk Ulita Umkhun Velk Yurik Zuyuk
 		}
 	}
 	manchu = {
@@ -15179,7 +16237,7 @@ evenks = {
 	}
 }
 
-kamchatkan_g = {
+ainu = {
 	graphical_culture = inuitgfx
 	ainu = {
 		primary = ANU
@@ -15191,37 +16249,6 @@ kamchatkan_g = {
 		}
 		female_names = {
 			Monashir Etunrachich Toitoi
-		}
-	}
-	kamchatkan = {
-		primary = KMC
-		dynasty_names = {
-			Garpancha Songolik Tymancha Tykulcha Gudeikon Adiul Khadiul Dyaluncha Aksik Kepele Gugdaul Burgumi Vavlya Vadyo
-			Vankho Eldan Ka-cheda Kilim Agna Sebeda Saltyk Alvali Akhtamak
-		}
-		male_names = {
-			Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei
-			Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis
-			Erchim Erkin Yrgel Kharyskhan
-		}
-		female_names = {
-			Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana
-		}
-	}
-	nivkh = {
-		primary = NVK
-		dynasty_names = {
-			Garpancha Songolik Tymancha Tykulcha Gudeikon Adiul Khadiul Dyaluncha Aksik Kepele Gugdaul Burgumi Vavlya Vadyo 
-			Vankho Eldan Ka-cheda Kilim Agna Sebeda Saltyk Alvali Akhtamak
-		}
-		male_names = {
-			Atvuk Azmun Azrun Chalun Changin Chuner Ezdanok Itkun Kaskazik Kekhan Kelin Kenran Khaylin Kokin Lants Lergan Longun
-			Luzgin Memzgun Mufchik Napuin Nyengun Nyunkin Ochan Palgun Parkizin Pilgun Pulychkh Pungat Rsholin Smedun Tavtugin
-			Tolvin Tynvin Ukrin Urkayn Uryam Vadun Vyskan Ykylak Yudin Zarun
-		}
-		female_names = {
-			Anguk Anyuk Yazik Azuk Chamuk Chavlik Efkuk Esavura Ezguk Iglik Khivchuk Liskit Lushkura Lykhtkk Niftyuk Okhnik Panko
-			Pineyk Ponashk Pygsk Pygzyk Pylymk Tatuk Tymguk Ulita Umkhun Velk Yurik Zuyuk
 		}
 	}
 }
@@ -16883,26 +17910,6 @@ saharan_group = {
 	}
 }
 
-miao_g = {
-	graphical_culture = asiangfx
-	miao = {
-		primary = CMI
-		dynasty_names = {
-			Fang Hang Hue Khang Kong Soung Kue Lo Lor Li Moua Pha Tang Thao Chang Cheng
-			Chu Vang Vue Xiong Yang
-		}
-		male_names = {
-			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong
-			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan
-			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao
-			Cihuan Cican He Ji Da Yuchun
-		}
-		female_names = {
-			Heying Chunmei Tianhui Kon Mao
-		}
-	}
-}
-
 khoisan_group = {			#Disproven group, but ah well. It is a grand mess, and this is better than putting them in a Bantoid group. Basing this culture group on percieved senses of 'other', rather than linguistics or genetics, as that is too unclear to proper do at the moment
 	graphical_culture = africangfx
 	khoisan = {
@@ -17507,22 +18514,6 @@ thai_group = {
 	}
 	shan = {
 		primary = SST
-		dynasty_names = {
-			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
-		}
-		male_names = {
-			Thadominbya "Nga Nu" Swasawke Tarabya "Nga Nauk Hsan" Minkhaung Thihathu Minhlange
-			"Kale Kyetaungnyo" Minyekyawswa Narapati Thihathura Shwenankyawshin Thohanbwa Hkonmaing
-			"Mobye Narapati" "Sao Sit Pan Tu" "Sao Ai Awn" "Ai Wu Hsa" "Yi Hkam Hka" "Sao Hsam" "Sao Kham Mu"
-			"Hpaya Kiao" "Sao Mong Hka" "Sao Hkam Tao" "Sao Mong Hkak" "Sao On" "Sao In Hkam" "Sao Awk" "Sao Mong Saik"
-			"Sao Hsam Hpi" "Maung Nyo" "Sao Mong Sin" "Sao Mong Hsam" "Sao Kawng Tai" "Sao Maha Hkanan"
-		}
-		female_names = {
-			"Thou Umma" "Thin Bohme"
-		}
-	}
-	zhuang = {
-		primary = CGS
 		dynasty_names = {
 			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
 		}
@@ -18146,6 +19137,202 @@ papuan_group = {
 		female_names = {
 			Aglem-Ter Amp-Biam Amp-Kwimbe Amp-Nemong Amp-Wenta Ife Jara Kentiga Koina Kompamp-Kengakama Kompamp-Mancy
 			Kompamp-Meta Kumbi Kundika-Marpa Kwimbe Mogumand Nambuka Nengka-Ampdau Palantina Rossa Sirizo Yerema
+		}
+	}
+}
+
+mongolic = {
+	graphical_culture = mongolgfx
+	mongol = {
+        graphical_culture = mongolgfx
+		primary = KHA
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
+			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
+			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
+			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
+		}
+		female_names = {
+			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+		dynasty_names = {
+			# CKII
+			Onggirat Naiman Kereyid Sartaq "Mengu-Timur" Uriankhai Bujakhin Besud Noyan 
+			Jochid Chagatayid Borjigin Chupanid Injuid Toluid Ganbold Bolormaa Batbayar 
+			"Bat-Erdene" Otgonbayar Enkhtuyaa Gantulga Nerg¸i Lkhagvas¸ren Enkhjargal 
+			Ganzorig Narantsetseg P¸revs¸ren Ganbaatar Mˆnkhtsetseg Mˆnkhbat "Mˆnkh-Erdene" 
+			Jalair Sartuul Olkhunut Khatagin Iljigin Tsookhor Qarakhanid
+		}
+	}
+	khorchin = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		primary = KRC
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
+			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
+			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
+			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
+		}
+		female_names = {
+			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+		dynasty_names = {
+			# CKII
+			Onggirat Naiman Kereyid Sartaq "Mengu-Timur" Uriankhai Bujakhin Besud Noyan 
+			Jochid Chagatayid Borjigin Chupanid Injuid Toluid Ganbold Bolormaa Batbayar 
+			"Bat-Erdene" Otgonbayar Enkhtuyaa Gantulga Nerg¸i Lkhagvas¸ren Enkhjargal 
+			Ganzorig Narantsetseg P¸revs¸ren Ganbaatar Mˆnkhtsetseg Mˆnkhbat "Mˆnkh-Erdene" 
+			Jalair Sartuul Olkhunut Khatagin Iljigin Tsookhor Qarakhanid
+		}
+	}
+	chakhar = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		primary = CHH
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
+			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
+			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
+			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
+		}
+		female_names = {
+			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+		dynasty_names = {
+			# CKII
+			Onggirat Naiman Kereyid Sartaq "Mengu-Timur" Uriankhai Bujakhin Besud Noyan 
+			Jochid Chagatayid Borjigin Chupanid Injuid Toluid Ganbold Bolormaa Batbayar 
+			"Bat-Erdene" Otgonbayar Enkhtuyaa Gantulga Nerg¸i Lkhagvas¸ren Enkhjargal 
+			Ganzorig Narantsetseg P¸revs¸ren Ganbaatar Mˆnkhtsetseg Mˆnkhbat "Mˆnkh-Erdene" 
+			Jalair Sartuul Olkhunut Khatagin Iljigin Tsookhor Qarakhanid
+		}
+	}
+	khalkha = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		primary = KLK
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
+			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
+			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
+			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
+		}
+		female_names = {
+			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	dagur = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}
+		province = { local_has_banners = yes}
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
+			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
+			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
+			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
+		}
+		female_names = {
+			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	oirats = {
+        graphical_culture = mongolgfx
+		primary = ZUN
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
+		}
+		female_names = {
+			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+    yugur = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}
+		primary = SYG
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
+		}
+		female_names = {
+			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	monguor = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}
+		primary = YUG
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
+		}
+		female_names = {
+			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	ordos = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}		
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
+		}
+		female_names = {
+			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	alasha = {
+        graphical_culture = mongolgfx
+		country = { has_banners = yes}		
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
+		}
+		female_names = {
+			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	kalmyk = {
+        graphical_culture = mongolgfx
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G¸shi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B‰ki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlˆk
+		}
+		female_names = {
+			Hoelun Tam¸l¸n Sorghaghtani Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}	
+	buryat = {
+		graphical_culture = inuitgfx
+		primary = BRT
+		dynasty_names = {
+			Badarhan Chagatay Edig¸id Giray Borjigin Shaybanid Janid Mangit
+		}
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan Darayisung 
+			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke Mulan 
+			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun T¸men 
+			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi
+		}
+		female_names = {
+			Tem¸len Bˆrte Mandukhai Samar Zaufishan 
 		}
 	}
 }
@@ -19100,6 +20287,37 @@ armenic = {
 #############################################################################################################################
 
 unused = { 
-	maghrebi = {}
 	berber = {}
+	chahar = {}
+	evenks = {}
+	kamchatkan_g = {}
+	maghrebi = {}
 }
+
+#evenks = {
+#	unused_culture_group = {
+#		dynasty_names = {
+#			Ogdo
+#		}
+#		male_names = {
+#			Bombogor Khadiul Kostoku 
+#		}
+#		female_names = {
+#			Alitet Garpancha Tymancha
+#		}
+#	}
+#}	
+#		
+#kamchatkan_g = {
+#	unused_culture_group = {
+#		dynasty_names = {
+#			Tagitutqaq
+#		}
+#		male_names = {
+#			Akatam Itygran Masiq Mys Ostryy Serdtse Virineut 
+#		}
+#		female_names = {
+#			Itygran Koshka Ngeellqat 
+#		}
+#	}
+#}
