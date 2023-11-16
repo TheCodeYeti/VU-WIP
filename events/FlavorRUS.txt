@@ -3751,7 +3751,7 @@ country_event = {
 				}
 			}
 		}
-		vu_change_tech_group_to_western = yes
+		#vu_change_tech_group_to_western = yes
 		change_technology_group = western
 		add_prestige_or_monarch_power = {
 			amount = 50
@@ -3767,14 +3767,7 @@ country_event = {
 	#	set_country_flag = rus_westernized_in_court
 	#	if = {
 	#		limit = { 
-	#	        OR = {
-	#			    technology_group = bohemian_tech_group
-	#			    technology_group = byzantine_tech_group
-	#			    technology_group = eastern
-	#			    technology_group = hungarian_tech_group
-	#			    technology_group = polish_tech_group
-	#			    technology_group = russian_tech_group 
-	#			}
+	#	        technology_group = eastern
 	#		}
 	#		unlock_estate = {
 	#			estate = estate_cossacks

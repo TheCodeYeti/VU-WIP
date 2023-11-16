@@ -817,9 +817,6 @@ country_event = {
 			name = QAR_staying_shia
 			duration = -1
 			age = age_of_discovery
-			else = "
-				add_stability_or_adm_power = yes
-			"
 		}
 	}
 	
@@ -846,9 +843,6 @@ country_event = {
 			name = QAR_staying_shia
 			duration = -1
 			age = age_of_discovery
-			else = "
-				add_stability_or_adm_power = yes
-			"
 		}
 	}
 	

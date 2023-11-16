@@ -1833,7 +1833,6 @@ country_event = {
 		}
 
 		custom_tooltip = me_hab_every_italian_province
-		add_local_autonomy = -100
 		tooltip = {
 			add_province_modifier = {
 				name = me_hab_kingdom_of_italy

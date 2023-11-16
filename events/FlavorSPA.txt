@@ -2438,11 +2438,11 @@ country_event = {
 		}
 		set_country_flag = end_of_granada
 		add_papal_influence = 50
-		add_unrest = -1 #was add_stability = -2 but changed to unrest because it didn't make any sense that your country would suffer a stab loss if you expelled the people causing said stab loss 
 		every_owned_province = {
 			limit = {
 				is_core = GRA
 			}
+			add_unrest = 3 #was add_stability = -2 but changed to unrest because it didn't make any sense that your country would suffer a stab loss if you expelled the people causing said stab loss 
 			change_religion = catholic
 			remove_core = GRA
 		}
