@@ -1,6 +1,6 @@
 # Spanish Lancers
 
-unit_type = western	
+unit_type = spanish_tech_group	
 type = cavalry
 
 maneuver = 2

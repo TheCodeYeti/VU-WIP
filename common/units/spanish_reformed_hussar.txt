@@ -1,7 +1,7 @@
 # Spanish Reformed Hussar
 
 type = cavalry
-unit_type = western
+unit_type = spanish_tech_group
 
 maneuver = 2
 offensive_morale = 8

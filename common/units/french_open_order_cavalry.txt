@@ -1,6 +1,6 @@
 # French Open Order Cavalry
 
-unit_type = western	
+unit_type = french_tech_group	
 type = cavalry
 
 maneuver = 2

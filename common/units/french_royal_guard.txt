@@ -1,6 +1,6 @@
 # French Royal Guard
 
-unit_type = western	
+unit_type = french_tech_group	
 type = infantry
 
 maneuver = 1

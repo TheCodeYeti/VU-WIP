@@ -1,7 +1,7 @@
 # Garrison 3rd Regiment
 
 type = infantry
-unit_type = western
+unit_type = french_tech_group
 
 maneuver = 1
 offensive_morale = 7

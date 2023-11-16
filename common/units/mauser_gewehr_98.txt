@@ -1,7 +1,7 @@
 # Mauser Gewehr 98
 
 type = infantry
-unit_type = western
+unit_type = german_tech_group
 
 maneuver = 1
 offensive_morale = 7

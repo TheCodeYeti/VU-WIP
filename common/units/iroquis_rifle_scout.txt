@@ -1,7 +1,7 @@
 # Iroquis Rifle Scout Tactics
 # NOT USED
 
-unit_type = north_american	
+unit_type = new_world	
 type = infantry
 
 maneuver = 1

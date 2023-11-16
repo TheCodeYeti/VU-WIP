@@ -1,7 +1,7 @@
 # English Caracole
 
 type = cavalry
-unit_type = western
+unit_type = english_tech_group
 
 maneuver = 2
 offensive_morale = 2

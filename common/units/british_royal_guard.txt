@@ -1,6 +1,6 @@
 # British Royal Guard
 
-unit_type = western
+unit_type = english_tech_group
 type = infantry
 
 maneuver = 1
