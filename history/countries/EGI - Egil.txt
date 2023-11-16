@@ -21,10 +21,17 @@ religious_school = shafii_school
 }
 1400.1.1 = {
 	monarch = {
-		name = "Ibrahim"
 		dynasty = "Mansûr"
 		adm = 3
 		dip = 2
 		mil = 1
+	}
+}
+1444.1.1 = {
+	monarch = {
+		dynasty = "Mansûr"
+		adm = 3
+		dip = 4
+		mil = 2
 	}
 }

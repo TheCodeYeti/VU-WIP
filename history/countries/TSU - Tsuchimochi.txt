@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = kyushuan
 religion = shinto
 technology_group = japanese
-capital = 3312	# Usuki
+capital = 6461	# Usuki
 
 1444.1.1 = {
 	monarch = {

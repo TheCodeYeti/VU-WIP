@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = japanese
 religion = shinto
 technology_group = japanese
-capital = 3314	# Sanuki
+capital = 6463	# Sanuki
 	
 1444.1.1 = { 
 	monarch = {

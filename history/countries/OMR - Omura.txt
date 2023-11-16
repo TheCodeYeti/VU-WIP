@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = kyushuan
 religion = shinto
 technology_group = japanese
-capital = 3313 #Shimabara
+capital = 6462 #Shimabara
 	
 1444.1.11 = { 
 	monarch = {
